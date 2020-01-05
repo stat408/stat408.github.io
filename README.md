@@ -1,50 +1,60 @@
-# STAT 506: Advanced Regression Analysis
 
 ## Course Description
 
-This course will introduce linear regression, generalized linear models, and hierarchical models using the software package R. The course will emphasis reproducible research using R Markdown, version control with GitHub, and report writing.
+This course provides an overview of statistical computation and graphical analysis. In particular,  R and SAS will be introduced in this course.
 
 ## Learning Outcomes:
 
-- To fit hierarchical models in R and SAS and interpret the results.
-- To fit models which take into account common forms of correlation.
-- To fit models which take into account common forms of non-constant variance.
-- To make inference using models which do not assume normality of residuals.
-- To fit Bayesian models using Markov Chain Monte Carlo algorithms and to interpret results.
+Students will:
+
+1. To become literate in statistical programming using R and SAS,
+
+2. To learn to effectively communicate through visual presentation of data, and
+
+3. To understand and imitate good programming practices.
 
 ## Prerequisites
 
-- Required: STAT 505
-
-## Textbooks
-
-- _Data Analysis Using Regression and Multilevel/Hierarchical Models_, by Andrew Gelman and Jennifer Hill
+-One of: STAT 217, STAT 332, STAT 401, or equivalent.
 
 
-## Additional Resources
-Analysis, data visualization, and version control procedures will be implemented with:
+## Textbooks (all optional or free)
 
-- R / R Studio
-- Git / Github
+1. R for Data Science, by Hadley Wickham and Garret Grolemund. Free at [http://r4ds.had.co.nz](http://r4ds.had.co.nz)
 
-For additional resources see:
+2. ModernDive: An introduction to Statistical and Data Sciences via R, by Chester Ismay and Albert Kim. Free at [http://moderndive.com](http://moderndive.com)
 
-- R for Data Science, [https://r4ds.had.co.nz](https://r4ds.had.co.nz)
-- Happy Git and GitHub for the useR,  [https://happygitwithr.com](https://happygitwithr.com)
+3. Visualize This: The FlowingData Guide to Design, Visualization, and Statistics, by Nathan Yau, 2011.
+
+4. The Art of R Programming: A Tour of Statistical Software Design, by Norman Matloff, 2011,
+
+5. The Little SAS Book: A Primer, by Lora Delwiche and Susan Slaughter, 2012.
+
+6. R cheatsheets. https://www.rstudio.com/resources/cheatsheets/
+
+
 
 ## Course Policies
 
 
 #### Grading Policy
 
-- **25%** of your grade will be determined by weekly homework assignments. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to complete their own homework. 
+Course Evaluation:
 
-- **25%** of your grade will be determined by a midterm exam. The midterm exam will have two parts: an in class exam and a take home portion. The in class portions will be largely conceptual including  short mathematical derivations. The take home portions will focus on analysis of data and implementation of regression concepts.
+Labs: 25% of final grade
 
-- **25%** of your grade will be determined by a final exam. The final exam will have two parts: an in class exam and a take home portion. The in class portions will be largely conceptual including mathematical derivations. The take home portions will focus on analysis of data and implementation of regression concepts.
+Midterm Exam: 20% of final grade
+The midterm exam will be given in two parts: an in-class exam  and a take home exam.
+Final Exam: 20% of final grade
+The final will also have two parts with the take home exam portion due no later than the day of the final exam period.
 
-- **25%** of your grade will be determined by a series of projects. The projects will be due roughly every 3 - 4 weeks during the course of the semester and may require oral presentations.
+- **25%** of your grade will be determined by weekly homework assignments. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to complete their own homework. Homework will be collected through D2L and will be due prior to class on Thursdays. 
 
+- **25%** of your grade will be determined by a Labs. Labs will be in-class group assignments conducted every Thursday. The labs will have a large computational element. The labs will be designed to be completed in 75 minutes; however, there may be times that groups need to finish labs outside of class time.
+
+- **25%** of your grade will be determined by a midterm exam. The midterm exam will have two parts: an in class exam and a take home portion.
+
+- **25%** of your grade will be determined by a final exam. The final exam will have two parts: an in class exam and a take home portion.
 
 #### Collaboration
 University policy states that, unless otherwise specified, students may not collaborate on graded material. Any exceptions to this policy will be stated explicitly for individual assignments. If you have any questions about the limits of collaboration, you are expected to ask for clarification.
@@ -59,139 +69,114 @@ Section 420 of the Student Conduct Code describes academic misconduct as includi
 
 Federal law mandates the provision of services at the university-level to qualified students with disabilities. If you have a documented disability for which you are or may be requesting an accommodation(s), you are encouraged to contact the Office of Disability Services as soon as possible.
 
-## Class Schedule
+## Course Schedule
 
-### Introduction: Git, R Studio, Data Wrangling, and Data Viz
+The course will be taught from a partially flipped perspective. Tuesdays will be lectures with an interactive computing component. Thursdays will be group labs which focus on implementing the programming covered during the previous week. As much of the course time will be focused on group activities and active learning, video lectures with a particular focus on computational techniques will be created to be watched out of class.
+
+A rough course schedule will be:
+
+(5 weeks) R: Intro to R, R Studio, and R Markdown. Data input, cleaning, and merging.
+(6 weeks) Data Visualization Principles and Advanced R: ggplot2, RShiny, and statistical modeling.
+(4 weeks) SAS: data storage, manipulation, SAS procedures, and SAS macros.
+
+
 ##### Week One
-- Monday January 13: 
+- Tuesday January 14: 
 
-- Wednesday January 15:
-
-- Friday January 17:
+- Thursday January 16:
 
 ##### Week Two
-- Monday January 20: __No Class__
 
-- Wednesday January 22:
+- Tuesday January 21: 
 
-- Friday January 24:
+- Thursday January 23:
 
-### Linear Regression
 ##### Week Three
-- Monday January 27:
 
-- Wednesday January 29:
+- Tuesday January 28: 
 
-- Friday January 31:
+- Thursday January 30:
 
 ##### Week Four
 
-- Monday February 3:
+- Tuesday February 4:
 
-- Wednesday February 5:
-
-- Friday February 7:
+- Thursday February 6:
 
 ##### Week Five
 
-- Monday February 10:
+- Tuesday February 11:
 
-- Wednesday February 12:
-
-- Friday February 14:
+- Thursday February 13:
 
 ##### Week Six
 
-- Monday February 17: __No Class__
+- Tuesday February 18:
 
-- Wednesday February 19:
-
-- Friday February 21:
+- Thursday February 20:
 
 
 ##### Week Seven
 
-- Monday February 24:
+- Tuesday February 25:
 
-- Wednesday February 26:
-
-- Friday February 28:
+- Thursday February 27:
 
 ##### Week Eight
 
-- Monday March 2:
+- Tuesday March 3:
 
-- Wednesday March 4:
-
-- Friday March 6:
+- Thursday March 5:
 
 ##### Week Nine
 
-- Monday March 9:
+- Tuesday March 10:
 
-- Wednesday March 11:
-
-- Friday March 13:
+- Thursday March 12:
 
 ##### Week Ten
 
-- Monday March 16: __No Class__
+- Tuesday March 17: __No Class__
 
-- Wednesday March 18: __No Class__
-
-- Friday March 20: __No Class__
+- Thursday March 19: __No Class__
 
 ##### Week Eleven
 
-- Monday March 23:
+- Tuesday March 24:
 
-- Wednesday March 25:
+- Thursday March 26: __No Class__
 
-- Friday March 27: __No Class__
 
 ##### Week Twelve
 
-- Monday March 30:
+- Tuesday March 31:
 
-- Wednesday April 1:
+- Wednesday April 2:
 
-- Friday April 3:
 
 ##### Week Thirteen
 
-- Monday April 6:
+- Tuesday April 7:
 
-- Wednesday April 8:
-
-- Friday April 10: __No Class__
+- Thursday April 9:
 
 ##### Week Fourteen
 
-- Monday April 13:
+- Tuesday April 14:
 
-- Wednesday April 15:
-
-- Friday April 17:
+- Thursday April 16:
 
 ##### Week Fifteen
 
-- Monday April 20:
+- Tuesday April 21:
 
-- Wednesday April 22:
-
-- Friday April 24:
+- Thursday April 23:
 
 ##### Week Sixteen
 
-- Monday April 27:
+- Tuesday April 28:
 
-- Wednesday April 29:
-
-- Friday May 1:
-
-
-
-
+- Thursday April 30:
 
 
 
