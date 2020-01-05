@@ -1,5 +1,5 @@
 
-## Course Description
+### Course Overview
 
 This course provides an overview of statistical computation and graphical analysis. In particular,  R and SAS will be introduced in this course.
 
@@ -41,13 +41,6 @@ Students will:
 
 Course Evaluation:
 
-Labs: 25% of final grade
-
-Midterm Exam: 20% of final grade
-The midterm exam will be given in two parts: an in-class exam  and a take home exam.
-Final Exam: 20% of final grade
-The final will also have two parts with the take home exam portion due no later than the day of the final exam period.
-
 - **25%** of your grade will be determined by weekly homework assignments. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to complete their own homework. Homework will be collected through D2L and will be due prior to class on Thursdays. 
 
 - **25%** of your grade will be determined by a Labs. Labs will be in-class group assignments conducted every Thursday. The labs will have a large computational element. The labs will be designed to be completed in 75 minutes; however, there may be times that groups need to finish labs outside of class time.
@@ -59,15 +52,14 @@ The final will also have two parts with the take home exam portion due no later 
 #### Collaboration
 University policy states that, unless otherwise specified, students may not collaborate on graded material. Any exceptions to this policy will be stated explicitly for individual assignments. If you have any questions about the limits of collaboration, you are expected to ask for clarification.
 
-In this class students are encouraged to collaborate on homework assignments, but exams and projects should be completed without collaboration.
-
+In this class students are encouraged to collaborate on homework assignments, but exams should be completed without collaboration.
 
 ####  Academic Misconduct
 Section 420 of the Student Conduct Code describes academic misconduct as including but not limited to plagiarism, cheating, multiple submissions, or facilitating others’ misconduct. Possible sanctions for academic misconduct range from an oral reprimand to expulsion from the university.
 
 #### Disabilities Policy
 
-Federal law mandates the provision of services at the university-level to qualified students with disabilities. If you have a documented disability for which you are or may be requesting an accommodation(s), you are encouraged to contact the Office of Disability Services as soon as possible.
+Federal law mandates the provision of services at the university-level to qualified students with disabilities. If you have a documented disability for which you are or may be requesting an accommodation(s), you are encouraged to contact the Office of Disability Services and the instructor as soon as possible.
 
 ## Course Schedule
 
