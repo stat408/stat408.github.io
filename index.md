@@ -74,8 +74,7 @@ A rough course schedule will be:
 
 ##### Week One
 Tuesday January 14: 
-- Lecture 1: Course Overview
-- Tidyverse Demo
+- [Lecture 1: Course Overview and Tidyverse Demo](https://stat408.github.io/Lecture1/)
 
 Thursday January 16:
 - [HW1 due](https://stat408.github.io/HW1/)
