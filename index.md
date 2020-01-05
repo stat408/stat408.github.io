@@ -73,9 +73,16 @@ A rough course schedule will be:
 
 
 ##### Week One
-- Tuesday January 14: 
+Tuesday January 14: 
+- Lecture 1: Course Overview
+- Tidyverse Demo
 
-- Thursday January 16:
+Thursday January 16:
+- [HW1 due](https://stat408.github.io/HW1/)
+- R Installation Resources: [Guide from Earth Lab](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/setup-r-rstudio/) [Guide from DataCamp](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu)
+- [R Markdown Overview Video: From Previous Class](https://montana.techsmithrelay.com/nh0C)
+- Lab 1
+
 
 ##### Week Two
 
