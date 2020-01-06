@@ -72,7 +72,7 @@ A rough course schedule will be:
 (4 weeks) SAS: data storage, manipulation, SAS procedures, and SAS macros.
 
 
-##### Week One
+##### Week One: Course Overview and Tidyverse
 Tuesday January 14: 
 - [Lecture 1: Course Overview and Tidyverse Demo](https://stat408.github.io/Lecture1/)
 
