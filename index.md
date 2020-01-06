@@ -80,7 +80,7 @@ Thursday January 16:
 - [HW1 due](https://stat408.github.io/HW1/)
 - R Installation Resources: [Guide from Earth Lab](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/setup-r-rstudio/) [Guide from DataCamp](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu)
 - [R Markdown Overview Video: From Previous Class](https://montana.techsmithrelay.com/nh0C)
-- Lab 1
+- [Lab 1](https://stat408.github.io/Lab1/)
 
 
 ##### Week Two
