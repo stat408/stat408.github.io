@@ -89,6 +89,9 @@ Tuesday January 21:
 - [Lecture 2: R Overview](https://stat408.github.io/Lecture1/) ([Class Exercises Rmd File](https://github.com/stat408/Lecture2/blob/master/docs/Lect2_exercises.Rmd))
 
 Thursday January 23:
+- HW 2 due
+- Video Resources: ([Exploratory Graphics](https://montana.techsmithrelay.com/Vb8Y)) ([Data Subsetting](https://montana.techsmithrelay.com/5gvq) ([Arithmetic in R](https://montana.techsmithrelay.com/cIhB))
+- [Lab 2](https://stat408.github.io/Lab2/) ([Rmd Source File](https://github.com/stat408/Lab2/blob/master/Lab2.Rmd))
 
 
 ##### Week Three
