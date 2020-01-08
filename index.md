@@ -72,7 +72,7 @@ A rough course schedule will be:
 (4 weeks) SAS: data storage, manipulation, SAS procedures, and SAS macros.
 
 
-##### Week One: Course Overview and Tidyverse
+#### Week One: Course Overview and Tidyverse
 Tuesday January 14: 
 - [Lecture 1: Course Overview and Tidyverse Demo](https://stat408.github.io/Lecture1/)
 
@@ -80,15 +80,16 @@ Thursday January 16:
 - [HW1 due](https://stat408.github.io/HW1/)
 - R Installation Resources: ([Video From Previous Class](https://montana.techsmithrelay.com/PPuw)) ([Guide from Earth Lab](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/setup-r-rstudio/)) ([Guide from DataCamp](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu))
 - [R Markdown Overview Video: From Previous Class](https://montana.techsmithrelay.com/nh0C)
-- [Lab 1](https://stat408.github.io/Lab1/)
+- [Lab 1](https://stat408.github.io/Lab1/) ([Rmd Source File](https://github.com/stat408/Lab1/blob/master/Lab1.Rmd))
 
 
-##### Week Two
+#### Week Two: R Overview
 
 Tuesday January 21:
 - [Lecture 2: R Overview](https://stat408.github.io/Lecture1/) ([Class Exercises Rmd File](https://github.com/stat408/Lecture2/blob/master/docs/Lect2_exercises.Rmd))
 
-- Thursday January 23:
+Thursday January 23:
+
 
 ##### Week Three
 
