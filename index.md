@@ -85,7 +85,8 @@ Thursday January 16:
 
 ##### Week Two
 
-- Tuesday January 21: 
+Tuesday January 21:
+- [Lecture 2: R Overview](https://stat408.github.io/Lecture1/) ([Class Exercises Rmd File](https://github.com/stat408/Lecture2/blob/master/docs/Lect2_exercises.Rmd))
 
 - Thursday January 23:
 
