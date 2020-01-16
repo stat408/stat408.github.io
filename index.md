@@ -18,7 +18,7 @@ Thursday January 16:
 - R Installation Resources: ([Video From Previous Class](https://montana.techsmithrelay.com/PPuw)) ([Guide from Earth Lab](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/setup-r-rstudio/)) ([Guide from DataCamp](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu))
 - Video Resources: [R Markdown Overview](https://montana.techsmithrelay.com/nh0C)
 - Reading Resources: ([Modern Dive Ch. 1](https://moderndive.com/1-getting-started.html)) ([R 4 DS Ch. 1](https://r4ds.had.co.nz/introduction.html))
-- [Lab 1](https://stat408.github.io/Lab1/) ([Rmd Source File](https://github.com/stat408/Lab1/blob/master/Lab1.Rmd)) ([Lab 1 Key])(https://github.com/stat408/Lab1/blob/master/Lab1.md))
+- [Lab 1](https://stat408.github.io/Lab1/) ([Rmd Source File](https://github.com/stat408/Lab1/blob/master/Lab1.Rmd)) ([Lab 1 Key](https://github.com/stat408/Lab1/blob/master/Lab1.md))
 
 
 #### Week Two: R Overview
