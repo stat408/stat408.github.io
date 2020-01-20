@@ -31,12 +31,17 @@ Thursday January 23:
 - Video Resources: ([Exploratory Graphics](https://montana.techsmithrelay.com/Vb8Y)) ([Data Subsetting](https://montana.techsmithrelay.com/5gvq)) ([Arithmetic in R](https://montana.techsmithrelay.com/cIhB))
 - [Lab 2](https://stat408.github.io/Lab2/) ([Rmd Source File](https://github.com/stat408/Lab2/blob/master/Lab2.Rmd))
 
-##### Week Three: Graphics Week 1
+#### Week Three: R workflow, style guide, and functions
 
-- Tuesday January 28: 
+Tuesday January 28:
+- Lecture 3
 
-- Thursday January 30:
-
+Thursday January 30:
+ - [HW3 due]
+ - Reading Resoures:
+ - Video Resources:
+ - Lab
+ 
 ##### Week Four: Graphics Week 2
 
 - Tuesday February 4:
