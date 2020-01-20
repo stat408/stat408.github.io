@@ -28,19 +28,20 @@ Tuesday January 21:
 
 Thursday January 23:
 - [HW2 due](https://stat408.github.io/HW2/) ([Rmd Source File](https://github.com/stat408/HW2/blob/master/HW2.Rmd))
+- Reading Resources: ([R 4 DS Ch. 6](https://r4ds.had.co.nz/workflow-scripts.html))
 - Video Resources: ([Exploratory Graphics](https://montana.techsmithrelay.com/Vb8Y)) ([Data Subsetting](https://montana.techsmithrelay.com/5gvq)) ([Arithmetic in R](https://montana.techsmithrelay.com/cIhB))
 - [Lab 2](https://stat408.github.io/Lab2/) ([Rmd Source File](https://github.com/stat408/Lab2/blob/master/Lab2.Rmd))
 
 #### Week Three: R workflow, style guide, and functions
 
 Tuesday January 28:
-- [Lecture 3: R Style Guide and Debugging](https://stat408.github.io/Lecture2/) ([Class Exercises Rmd File](https://github.com/stat408/Lecture3/blob/master/docs/Lect3_ex.Rmd))
+- [Lecture 3: R Style Guide and Debugging](https://stat408.github.io/Lecture3/) ([Class Exercises Rmd File](https://github.com/stat408/Lecture3/blob/master/docs/Lect3_ex.Rmd))
 
 Thursday January 30:
  - [HW3 due]
- - Reading Resoures:
- - Video Resources:
- - Lab
+ - Reading Resoures: ([R 4 DS Ch. 4](https://r4ds.had.co.nz/workflow-basics.html)) ([R 4 DS Ch. 19](https://r4ds.had.co.nz/functions.html))
+ - Video Resources: ([Tables with R Markdown](https://montana.techsmithrelay.com/c3jo)) ([Debugging](https://montana.techsmithrelay.com/6guK)) ([Writing Functions](https://montana.techsmithrelay.com/nW0o))
+ - Lab 3
  
 ##### Week Four: Graphics Week 2
 
