@@ -38,12 +38,12 @@ Tuesday January 28:
 - [Lecture 3: R Style Guide and Debugging](https://stat408.github.io/Lecture3/) ([Class Exercises Rmd File](https://github.com/stat408/Lecture3/blob/master/docs/Lect3_ex.Rmd))
 
 Thursday January 30:
- - [HW3 due]
+ - [HW3 due](https://stat408.github.io/HW3/)
  - Reading Resoures: ([R 4 DS Ch. 4](https://r4ds.had.co.nz/workflow-basics.html)) ([R 4 DS Ch. 19](https://r4ds.had.co.nz/functions.html))
  - Video Resources: ([Tables with R Markdown](https://montana.techsmithrelay.com/c3jo)) ([Debugging](https://montana.techsmithrelay.com/6guK)) ([Writing Functions](https://montana.techsmithrelay.com/nW0o))
- - Lab 3
+ - [Lab 3](https://stat408.github.io/Lab3/) ([Rmd Source File](https://github.com/stat408/Lab3/blob/master/Lab3.Rmd))
  
-##### Week Four: Graphics Week 2
+##### Week Four: Graphics
 
 - Tuesday February 4:
 
