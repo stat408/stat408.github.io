@@ -34,7 +34,7 @@ Thursday January 23:
 #### Week Three: R workflow, style guide, and functions
 
 Tuesday January 28:
-- Lecture 3
+- [Lecture 3: R Style Guide and Debugging](https://stat408.github.io/Lecture2/) ([Class Exercises Rmd File](https://github.com/stat408/Lecture3/blob/master/docs/Lect3_ex.Rmd))
 
 Thursday January 30:
  - [HW3 due]
