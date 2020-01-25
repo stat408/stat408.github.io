@@ -40,7 +40,7 @@ Tuesday January 28:
 Thursday January 30:
  - [HW3 due](https://stat408.github.io/HW3/) ([Rmd Source File](https://github.com/stat408/HW3/blob/master/HW3.Rmd)
  - Reading Resoures: ([R 4 DS Ch. 4](https://r4ds.had.co.nz/workflow-basics.html)) ([R 4 DS Ch. 19](https://r4ds.had.co.nz/functions.html))
- - Video Resources: ([Tables with R Markdown](https://montana.techsmithrelay.com/c3jo)) ([Debugging](https://montana.techsmithrelay.com/6guK)) ([Writing Functions](https://montana.techsmithrelay.com/nW0o))
+ - Video Resources: ([Tables with R Markdown](https://montana.techsmithrelay.com/c3jo)) ([Debugging](https://montana.techsmithrelay.com/6guK)) ([Writing Functions](https://montana.techsmithrelay.com/nW0o)) ([if statements](https://montana.techsmithrelay.com/Ozms))
  - [Lab 3](https://stat408.github.io/Lab3/) ([Rmd Source File](https://github.com/stat408/Lab3/blob/master/Lab3.Rmd))
  
 #### Week Four: Simulation
@@ -51,7 +51,7 @@ Tuesday February 4:
 Thursday February 6:
 - HW4
 - Reading Resources: ([R 4 DS Ch. 19](https://r4ds.had.co.nz/functions.html)) ([R 4 DS Ch. 21](https://r4ds.had.co.nz/iteration.html))
-- Video Resources: ([Monte Carlo](https://montana.techsmithrelay.com/dciG)) ([loops](https://montana.techsmithrelay.com/gg5z)) ([if statements](https://montana.techsmithrelay.com/Ozms))
+- Video Resources: ([Monte Carlo](https://montana.techsmithrelay.com/dciG)) ([loops](https://montana.techsmithrelay.com/gg5z)) 
 - Lab 4
 
 ##### Week Five
