@@ -52,7 +52,8 @@ Thursday February 6:
  - [HW4 due](https://stat408.github.io/HW4/) ([Rmd Source File](https://github.com/stat408/HW4/blob/master/HW4.Rmd)
 - Reading Resources: ([R 4 DS Ch. 19](https://r4ds.had.co.nz/functions.html)) ([R 4 DS Ch. 21](https://r4ds.had.co.nz/iteration.html))
 - Video Resources: ([Monte Carlo](https://montana.techsmithrelay.com/dciG)) ([loops](https://montana.techsmithrelay.com/gg5z)) 
-- Lab 4
+ - [Lab 4](https://stat408.github.io/Lab4/) ([Rmd Source File](https://github.com/stat408/Lab4/blob/master/Lab4.Rmd))
+
 
 ##### Week Five
 
