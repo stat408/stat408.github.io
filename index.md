@@ -49,6 +49,10 @@ Tuesday February 4:
 - [Lecture 4: Simulation](https://stat408.github.io/Lecture4/) ([Class Exercises Rmd File](https://github.com/stat408/Lecture4/blob/master/docs/Lect4_ex.Rmd))
 
 Thursday February 6:
+- HW4
+- Reading Resources: ([R 4 DS Ch. 19](https://r4ds.had.co.nz/functions.html)) ([R 4 DS Ch. 21](https://r4ds.had.co.nz/iteration.html))
+- Video Resources: ([Monte Carlo](https://montana.techsmithrelay.com/dciG)) ([loops](https://montana.techsmithrelay.com/gg5z)) ([if statements](https://montana.techsmithrelay.com/Ozms))
+- Lab 4
 
 ##### Week Five
 
