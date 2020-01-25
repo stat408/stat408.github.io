@@ -43,11 +43,12 @@ Thursday January 30:
  - Video Resources: ([Tables with R Markdown](https://montana.techsmithrelay.com/c3jo)) ([Debugging](https://montana.techsmithrelay.com/6guK)) ([Writing Functions](https://montana.techsmithrelay.com/nW0o))
  - [Lab 3](https://stat408.github.io/Lab3/) ([Rmd Source File](https://github.com/stat408/Lab3/blob/master/Lab3.Rmd))
  
-##### Week Four: Graphics
+#### Week Four: Simulation
 
-- Tuesday February 4:
+Tuesday February 4:
+- [Lecture 4: Simulation](https://stat408.github.io/Lecture4/) ([Class Exercises Rmd File](https://github.com/stat408/Lecture4/blob/master/docs/Lect4_ex.Rmd))
 
-- Thursday February 6:
+Thursday February 6:
 
 ##### Week Five
 
