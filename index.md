@@ -62,9 +62,9 @@ Tuesday February 11:
 
 Thursday February 13:
 - HW5 due
-- Reading Resources
-- Video Resources
-- Lab
+- Reading Resources: ([R 4 DS Ch.28](https://r4ds.had.co.nz/graphics-for-communication.html))
+- Video Resources; ([Advanced R graphics](https://montana.techsmithrelay.com/NeBh))
+- [Lab 5](https://stat408.github.io/Lab5/) ([Rmd Source File](https://github.com/stat408/Lab5/blob/master/Lab5.Rmd))
 
 ##### Week Six
 
