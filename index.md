@@ -55,11 +55,11 @@ Thursday February 6:
  - [Lab 4](https://stat408.github.io/Lab4/) ([Rmd Source File](https://github.com/stat408/Lab4/blob/master/Lab4.Rmd))
 
 
-##### Week Five
+#### Week Five: Data Visualization Principles
 
-- Tuesday February 11:
+Tuesday February 11:
 
-- Thursday February 13:
+Thursday February 13:
 
 ##### Week Six
 
