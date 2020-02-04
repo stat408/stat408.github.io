@@ -61,7 +61,7 @@ Tuesday February 11:
 - [Lecture 5: Data Viz Principles](https://stat408.github.io/Lecture5/) ([Rmd Source File](https://github.com/stat408/Lecture5/blob/master/docs/index.Rmd)) ([Class Exercises Rmd File](https://github.com/stat408/Lecture5/blob/master/docs/Lect5_Ex.Rmd))
 
 Thursday February 13:
-- HW5 due
+- [HW 5 due](https://stat408.github.io/HW5/) ([Rmd Source File](https://github.com/stat408/HW5/blob/master/HW5.Rmd)
 - Reading Resources: ([R 4 DS Ch.28](https://r4ds.had.co.nz/graphics-for-communication.html))
 - Video Resources; ([Advanced R graphics](https://montana.techsmithrelay.com/NeBh))
 - [Lab 5](https://stat408.github.io/Lab5/) ([Rmd Source File](https://github.com/stat408/Lab5/blob/master/Lab5.Rmd))
