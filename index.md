@@ -58,8 +58,13 @@ Thursday February 6:
 #### Week Five: Data Visualization Principles
 
 Tuesday February 11:
+- [Lecture 5: Data Viz Principles](https://stat408.github.io/Lecture5/) ([Rmd Source File](https://github.com/stat408/Lecture5/blob/master/docs/index.Rmd)) ([Class Exercises Rmd File](https://github.com/stat408/Lecture5/blob/master/docs/Lect5_Ex.Rmd))
 
 Thursday February 13:
+- HW5 due
+- Reading Resources
+- Video Resources
+- Lab
 
 ##### Week Six
 
