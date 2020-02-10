@@ -66,11 +66,16 @@ Thursday February 13:
 - Video Resources; ([Advanced R graphics](https://montana.techsmithrelay.com/NeBh))
 - [Lab 5](https://stat408.github.io/Lab5/) ([Rmd Source File](https://github.com/stat408/Lab5/blob/master/Lab5.Rmd))
 
-##### Week Six
+#### Week Six: Advanced Data Visualization
 
-- Tuesday February 18:
+Tuesday February 18:
+- [Lecture 5: Advanced Data Viz](https://stat408.github.io/Lecture6/) ([Rmd Source File](https://github.com/stat408/Lecture6/blob/master/docs/index.Rmd)) ([Class Exercises Rmd File](https://github.com/stat408/Lecture6/blob/master/docs/Exercises.Rmd))
 
-- Thursday February 20:
+Thursday February 20:
+- HW 6 due
+- Reading Resources
+- Video Resources
+- Lab 6
 
 
 ##### Week Seven
