@@ -69,7 +69,7 @@ Thursday February 13:
 #### Week Six: Advanced Data Visualization
 
 Tuesday February 18:
-- [Lecture 5: Advanced Data Viz](https://stat408.github.io/Lecture6/) ([Rmd Source File](https://github.com/stat408/Lecture6/blob/master/docs/index.Rmd)) ([Class Exercises Rmd File](https://github.com/stat408/Lecture6/blob/master/docs/Exercises.Rmd))
+- [Lecture 6: Advanced Data Viz](https://stat408.github.io/Lecture6/) ([Rmd Source File](https://github.com/stat408/Lecture6/blob/master/docs/index.Rmd)) ([Class Exercises Rmd File](https://github.com/stat408/Lecture6/blob/master/docs/Exercises.Rmd))
 
 Thursday February 20:
 - HW 6 due
