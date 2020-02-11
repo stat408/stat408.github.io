@@ -72,10 +72,10 @@ Tuesday February 18:
 - [Lecture 6: Advanced Data Viz](https://stat408.github.io/Lecture6/) ([Rmd Source File](https://github.com/stat408/Lecture6/blob/master/docs/index.Rmd)) ([Class Exercises Rmd File](https://github.com/stat408/Lecture6/blob/master/docs/Exercises.Rmd))
 
 Thursday February 20:
-- HW 6 due
-- Reading Resources
-- Video Resources
-- Lab 6
+- [HW 6 due](https://stat408.github.io/HW6/) ([Rmd Source File](https://github.com/stat408/HW6/blob/master/HW6.Rmd)
+- Reading Resources: ([R 4 DS Ch.3](https://r4ds.had.co.nz/data-visualisation.html)) ([R 4 DS Ch. 7](https://r4ds.had.co.nz/exploratory-data-analysis.html)) 
+- Video Resources: ([ggplot](https://montana.techsmithrelay.com/qTYH))
+- [Lab 6](https://stat408.github.io/Lab6/) ([Rmd Source File](https://github.com/stat408/Lab6/blob/master/Lab6.Rmd))
 
 
 ##### Week Seven
