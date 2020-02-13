@@ -78,21 +78,21 @@ Thursday February 20:
 - [Lab 6](https://stat408.github.io/Lab6/) ([Rmd Source File](https://github.com/stat408/Lab6/blob/master/Lab6.Rmd))
 
 
-##### Week Seven
+#### Week Seven: Data Cleaning and Wrangling
 
 - Tuesday February 25:
 
 - Thursday February 27:
 
-##### Week Eight
+#### Week Eight: R Shiny
 
 - Tuesday March 3:
 
 - Thursday March 5:
 
-##### Week Nine
+#### Week Nine: Midterm Exam
 
-- Tuesday March 10:
+- Tuesday March 10: 
 
 - Thursday March 12:
 
@@ -102,9 +102,9 @@ Thursday February 20:
 
 - Thursday March 19: __No Class__
 
-##### Week Eleven
+#### Week Eleven
 
-- Tuesday March 24:
+- Tuesday March 24: 
 
 - Thursday March 26: __No Class__
 
