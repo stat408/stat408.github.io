@@ -84,7 +84,7 @@ Thursday February 20:
 
 - Thursday February 27:
 
-#### Week Eight: R Shiny
+#### Week Eight: Maps and R Shiny
 
 - Tuesday March 3:
 
