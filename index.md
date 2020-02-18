@@ -9,7 +9,7 @@ A rough course schedule will be:
 (4 weeks) SAS: data storage, manipulation, SAS procedures, and SAS macros.
 
 
-#### Week One: Course Overview and Tidyverse
+### Week One: Course Overview and Tidyverse
 Tuesday January 14: 
 - [Lecture 1: Course Overview and Tidyverse Demo](https://stat408.github.io/Lecture1/)
 
@@ -21,7 +21,7 @@ Thursday January 16:
 - [Lab 1](https://stat408.github.io/Lab1/) ([Rmd Source File](https://github.com/stat408/Lab1/blob/master/Lab1.Rmd)) ([Lab 1 Key](https://github.com/stat408/Lab1/blob/master/Lab1.md))
 
 
-#### Week Two: R Overview
+### Week Two: R Overview
 
 Tuesday January 21:
 - [Lecture 2: R Overview](https://stat408.github.io/Lecture2/) ([Class Exercises Rmd File](https://github.com/stat408/Lecture2/blob/master/docs/Lect2_exercises.Rmd))
@@ -32,7 +32,7 @@ Thursday January 23:
 - Video Resources: ([Exploratory Graphics](https://montana.techsmithrelay.com/Vb8Y)) ([Data Subsetting](https://montana.techsmithrelay.com/5gvq)) ([Arithmetic in R](https://montana.techsmithrelay.com/cIhB))
 - [Lab 2](https://stat408.github.io/Lab2/) ([Rmd Source File](https://github.com/stat408/Lab2/blob/master/Lab2.Rmd))
 
-#### Week Three: R workflow, style guide, and functions
+### Week Three: R workflow, style guide, and functions
 
 Tuesday January 28:
 - [Lecture 3: R Style Guide and Debugging](https://stat408.github.io/Lecture3/) ([Class Exercises Rmd File](https://github.com/stat408/Lecture3/blob/master/docs/Lect3_ex.Rmd))
@@ -43,7 +43,7 @@ Thursday January 30:
  - Video Resources: ([Tables with R Markdown](https://montana.techsmithrelay.com/c3jo)) ([Debugging](https://montana.techsmithrelay.com/6guK)) ([Writing Functions](https://montana.techsmithrelay.com/nW0o)) ([if statements](https://montana.techsmithrelay.com/Ozms))
  - [Lab 3](https://stat408.github.io/Lab3/) ([Rmd Source File](https://github.com/stat408/Lab3/blob/master/Lab3.Rmd))
  
-#### Week Four: Simulation
+### Week Four: Simulation
 
 Tuesday February 4:
 - [Lecture 4: Simulation](https://stat408.github.io/Lecture4/) ([Class Exercises Rmd File](https://github.com/stat408/Lecture4/blob/master/docs/Lect4_ex.Rmd))
@@ -55,7 +55,7 @@ Thursday February 6:
  - [Lab 4](https://stat408.github.io/Lab4/) ([Rmd Source File](https://github.com/stat408/Lab4/blob/master/Lab4.Rmd))
 
 
-#### Week Five: Data Visualization Principles
+### Week Five: Data Visualization Principles
 
 Tuesday February 11:
 - [Lecture 5: Data Viz Principles](https://stat408.github.io/Lecture5/) ([Rmd Source File](https://github.com/stat408/Lecture5/blob/master/docs/index.Rmd)) ([Class Exercises Rmd File](https://github.com/stat408/Lecture5/blob/master/docs/Lect5_Ex.Rmd))
@@ -66,7 +66,7 @@ Thursday February 13:
 - Video Resources; ([Advanced R graphics](https://montana.techsmithrelay.com/NeBh))
 - [Lab 5](https://stat408.github.io/Lab5/) ([Rmd Source File](https://github.com/stat408/Lab5/blob/master/Lab5.Rmd))
 
-#### Week Six: Advanced Data Visualization
+### Week Six: Advanced Data Visualization
 
 Tuesday February 18:
 - [Lecture 6: Advanced Data Viz](https://stat408.github.io/Lecture6/) ([Rmd Source File](https://github.com/stat408/Lecture6/blob/master/docs/index.Rmd)) ([Class Exercises Rmd File](https://github.com/stat408/Lecture6/blob/master/docs/Exercises.Rmd))
@@ -78,14 +78,18 @@ Thursday February 20:
 - [Lab 6](https://stat408.github.io/Lab6/) ([Rmd Source File](https://github.com/stat408/Lab6/blob/master/Lab6.Rmd))
 
 
-#### Week Seven: Data Cleaning and Wrangling
+### Week Seven: Data Cleaning and Wrangling
 
 Tuesday February 25:
 - [Lecture 7: Data Cleaning and Wrangling](https://stat408.github.io/Lecture7/) ([Rmd Source File](https://github.com/stat408/Lecture7/blob/master/docs/index.Rmd)) ([Class Exercises Rmd File](https://github.com/stat408/Lecture7/blob/master/docs/Exercises.Rmd))
 
-- Thursday February 27:
+Thursday February 27:
+- HW 7 due
+- Reading Resources
+- Video Resources
+- Lab 7
 
-#### Week Eight: More Data Manipulation
+### Week Eight: More Data Manipulation and Maps
 
 - Tuesday March 3:
 
@@ -103,39 +107,39 @@ Tuesday February 25:
 
 - Thursday March 19: __No Class__
 
-#### Week Eleven: Maps and R Shiny
+#### Week Eleven: R Shiny
 
 - Tuesday March 24: 
 
 - Thursday March 26: __No Class__
 
 
-##### Week Twelve
+#### Week Twelve
 
 - Tuesday March 31:
 
 - Wednesday April 2:
 
 
-##### Week Thirteen
+#### Week Thirteen
 
 - Tuesday April 7:
 
 - Thursday April 9:
 
-##### Week Fourteen
+#### Week Fourteen
 
 - Tuesday April 14:
 
 - Thursday April 16:
 
-##### Week Fifteen
+#### Week Fifteen
 
 - Tuesday April 21:
 
 - Thursday April 23:
 
-##### Week Sixteen
+#### Week Sixteen
 
 - Tuesday April 28:
 
