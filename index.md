@@ -80,11 +80,12 @@ Thursday February 20:
 
 #### Week Seven: Data Cleaning and Wrangling
 
-- Tuesday February 25:
+Tuesday February 25:
+- [Lecture 7: Data Cleaning and Wrangling](https://stat408.github.io/Lecture7/) ([Rmd Source File](https://github.com/stat408/Lecture7/blob/master/docs/index.Rmd)) ([Class Exercises Rmd File](https://github.com/stat408/Lecture7/blob/master/docs/Exercises.Rmd))
 
 - Thursday February 27:
 
-#### Week Eight: Maps and R Shiny
+#### Week Eight: More Data Manipulation
 
 - Tuesday March 3:
 
@@ -102,7 +103,7 @@ Thursday February 20:
 
 - Thursday March 19: __No Class__
 
-#### Week Eleven
+#### Week Eleven: Maps and R Shiny
 
 - Tuesday March 24: 
 
