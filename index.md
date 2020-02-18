@@ -89,7 +89,7 @@ Thursday February 27:
 - Video Resources
 - Lab 7
 
-### Week Eight: More Data Manipulation and Maps
+### Week Eight: More Data Manipulation and Data Scraping
 
 - Tuesday March 3:
 
