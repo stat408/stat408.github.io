@@ -84,10 +84,10 @@ Tuesday February 25:
 - [Lecture 7: Data Cleaning and Wrangling](https://stat408.github.io/Lecture7/) ([Rmd Source File](https://github.com/stat408/Lecture7/blob/master/docs/index.Rmd)) ([Class Exercises Rmd File](https://github.com/stat408/Lecture7/blob/master/docs/Exercises.Rmd))
 
 Thursday February 27:
-- HW 7 due
-- Reading Resources
-- Video Resources
-- Lab 7
+- [HW 7 due](https://github.com/stat408/HW7/blob/master/HW7.pdf) ([Rmd Source File](https://github.com/stat408/HW7/blob/master/HW7.Rmd))
+- Reading Resources: ([R 4 DS Ch. 12](https://r4ds.had.co.nz/tidy-data.html)) ([R 4 DS Ch.14](https://r4ds.had.co.nz/strings.html)) ([R 4 DS Ch.16](https://r4ds.had.co.nz/dates-and-times.html))
+- Video Resources: ([String Manipulation](https://montana.techsmithrelay.com/6lFT))
+- [Lab 7](https://stat408.github.io/Lab7/) ([Rmd Source File](https://github.com/stat408/Lab7/blob/master/Lab7.Rmd))
 
 ### Week Eight: More Data Manipulation and Data Scraping
 
