@@ -91,11 +91,12 @@ Thursday February 27:
 
 ### Week Eight: More Data Manipulation and Data Scraping
 
-- Tuesday March 3:
+Tuesday March 3:
 
-- Thursday March 5:
+Thursday March 5:
+- Reading Resources: [Geocomputation with R, Ch. 8](https://geocompr.robinlovelace.net/adv-map.html)
 
-#### Week Nine: Midterm Exam
+### Week Nine: Midterm Exam
 
 - Tuesday March 10: 
 
