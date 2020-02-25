@@ -95,9 +95,9 @@ Tuesday March 3:
 - [Lecture 8: Maps, Merging, and More](https://stat408.github.io/Lecture7/) ([Rmd Source File](https://github.com/stat408/Lecture8/blob/master/docs/index.Rmd) ([Class Exercises](https://github.com/stat408/Lecture8/blob/master/docs/Exercises.md)) ([Class Exercises Rmd Source File](https://github.com/stat408/Lecture8/blob/master/docs/Exercises.Rmd))
 
 Thursday March 5:
-- HW 8 due
+- [HW 8 due](https://stat408.github.io/HW8/) ([Rmd Source File](https://github.com/stat408/HW8/blob/master/HW8.Rmd))
 - Reading Resources: ([Geocomputation with R, Ch. 8](https://geocompr.robinlovelace.net/adv-map.html)) ([dplyr join](https://dplyr.tidyverse.org/reference/join.html))
-- Lab 8
+- [Lab 8](https://stat408.github.io/Lab8/) ([Rmd Source File](https://github.com/stat408/Lab8/blob/master/Lab8.Rmd))
 
 
 ### Week Nine: Midterm Exam
