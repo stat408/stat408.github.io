@@ -92,9 +92,13 @@ Thursday February 27:
 ### Week Eight: More Data Manipulation and Data Scraping
 
 Tuesday March 3:
+- [Lecture 8: Maps, Merging, and More](https://stat408.github.io/Lecture7/) ([Rmd Source File](https://github.com/stat408/Lecture8/blob/master/docs/index.Rmd) ([Class Exercises](https://github.com/stat408/Lecture8/blob/master/docs/Exercises.md)) ([Class Exercises Rmd Source File](https://github.com/stat408/Lecture8/blob/master/docs/Exercises.Rmd))
 
 Thursday March 5:
-- Reading Resources: [Geocomputation with R, Ch. 8](https://geocompr.robinlovelace.net/adv-map.html)
+- HW 8 due
+- Reading Resources: ([Geocomputation with R, Ch. 8](https://geocompr.robinlovelace.net/adv-map.html)) ([dplyr join](https://dplyr.tidyverse.org/reference/join.html))
+- Lab 8
+
 
 ### Week Nine: Midterm Exam
 
