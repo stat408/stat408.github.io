@@ -89,7 +89,7 @@ Thursday February 27:
 - Video Resources: ([String Manipulation](https://montana.techsmithrelay.com/6lFT))
 - [Lab 7](https://stat408.github.io/Lab7/) ([Rmd Source File](https://github.com/stat408/Lab7/blob/master/Lab7.Rmd))
 
-### Week Eight: More Data Manipulation and Data Scraping
+### Week Eight: Maps, Merging, and More
 
 Tuesday March 3:
 - [Lecture 8: Maps, Merging, and More](https://stat408.github.io/Lecture7/) ([Rmd Source File](https://github.com/stat408/Lecture8/blob/master/docs/index.Rmd) ([Class Exercises](https://github.com/stat408/Lecture8/blob/master/docs/Exercises.md)) ([Class Exercises Rmd Source File](https://github.com/stat408/Lecture8/blob/master/docs/Exercises.Rmd))
@@ -102,10 +102,12 @@ Thursday March 5:
 
 ### Week Nine: Midterm Exam
 
-- Tuesday March 10: 
+Tuesday March 10: 
+- Exam Review
+- [Past Year's Exams](https://github.com/stat408/oldexams)
 
-- Thursday March 12:
-
+Thursday March 12:
+- In class Exam
 ##### Week Ten
 
 - Tuesday March 17: __No Class__
