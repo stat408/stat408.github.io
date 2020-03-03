@@ -92,7 +92,7 @@ Thursday February 27:
 ### Week Eight: Maps, Merging, and More
 
 Tuesday March 3:
-- [Lecture 8: Maps, Merging, and More](https://stat408.github.io/Lecture7/) ([Rmd Source File](https://github.com/stat408/Lecture8/blob/master/docs/index.Rmd) ([Class Exercises](https://github.com/stat408/Lecture8/blob/master/docs/Exercises.md)) ([Class Exercises Rmd Source File](https://github.com/stat408/Lecture8/blob/master/docs/Exercises.Rmd))
+- [Lecture 8: Maps, Merging, and More](https://stat408.github.io/Lecture8/) ([Rmd Source File](https://github.com/stat408/Lecture8/blob/master/docs/index.Rmd) ([Class Exercises](https://github.com/stat408/Lecture8/blob/master/docs/Exercises.md)) ([Class Exercises Rmd Source File](https://github.com/stat408/Lecture8/blob/master/docs/Exercises.Rmd))
 
 Thursday March 5:
 - [HW 8 due](https://stat408.github.io/HW8/) ([Rmd Source File](https://github.com/stat408/HW8/blob/master/HW8.Rmd))
