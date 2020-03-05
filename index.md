@@ -108,7 +108,11 @@ Tuesday March 10:
 
 Thursday March 12:
 - In class Exam
-##### Week Ten
+
+Friday March 13:
+- [Take Home Exam Due](https://github.com/stat408/midterm/blob/master/Midterm_S2020.pdf) ([R Markdown Source Code](https://github.com/stat408/midterm/blob/master/Midterm_S2020.Rmd))
+
+### Week Ten
 
 - Tuesday March 17: __No Class__
 
