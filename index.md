@@ -97,7 +97,7 @@ Tuesday March 3:
 Thursday March 5:
 - [HW 8 due](https://stat408.github.io/HW8/) ([Rmd Source File](https://github.com/stat408/HW8/blob/master/HW8.Rmd))
 - Reading Resources: ([Geocomputation with R, Ch. 8](https://geocompr.robinlovelace.net/adv-map.html)) ([dplyr join](https://dplyr.tidyverse.org/reference/join.html))
-- [Lab 8](https://stat408.github.io/Lab8/) ([Rmd Source File](https://github.com/stat408/Lab8/blob/master/Lab8.Rmd))
+- [Lab 8](https://stat408.github.io/Lab8/) ([Rmd Source File](https://github.com/stat408/Lab8/blob/master/Lab8.Rmd)) ([key](https://github.com/stat408/Lab8/blob/master/Lab8_key.Rmd))
 
 
 ### Week Nine: Midterm Exam
