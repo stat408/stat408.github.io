@@ -118,39 +118,39 @@ Friday March 13:
 
 - Thursday March 19: __No Class__
 
-#### Week Eleven: R Shiny
+### Week Eleven: GitHub
 
 - Tuesday March 24: 
 
 - Thursday March 26: __No Class__
 
 
-#### Week Twelve
+### Week Twelve: R Shiny
 
 - Tuesday March 31:
 
 - Wednesday April 2:
 
 
-#### Week Thirteen
+### Week Thirteen: Data Scraping & SQL
 
 - Tuesday April 7:
 
 - Thursday April 9:
 
-#### Week Fourteen
+### Week Fourteen: SAS I
 
 - Tuesday April 14:
 
 - Thursday April 16:
 
-#### Week Fifteen
+### Week Fifteen: SAS II
 
 - Tuesday April 21:
 
 - Thursday April 23:
 
-#### Week Sixteen
+### Week Sixteen: SAS III
 
 - Tuesday April 28:
 
