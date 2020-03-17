@@ -114,22 +114,28 @@ Friday March 13:
 
 ### Week Ten
 
-- Tuesday March 17: __No Class__
+Tuesday March 17: __No Class__
 
-- Thursday March 19: __No Class__
+Thursday March 19: __No Class__
 
-### Week Eleven: GitHub
+### Week Eleven: GitHub & Making an R Package
 
-- Tuesday March 24: 
+Tuesday March 24: 
+ - [Git Slides](https://stat408.github.io/Lecture9/) ([Rmd Source File](https://github.com/stat408/Lecture9/blob/master/docs/index.Rmd))
+ - [Git Video Demo](https://montana.techsmithrelay.com/lGlW)
+ - R Package Slides
+ - R Package Video Demo
+ 
 
-- Thursday March 26: __No Class__
+Thursday March 26: __No Class__
 
 
 ### Week Twelve: R Shiny
 
-- Tuesday March 31:
+Tuesday March 31:
+- HW 9 Due
 
-- Wednesday April 2:
+- Thursday April 2:
 
 
 ### Week Thirteen: Data Scraping & SQL
