@@ -123,8 +123,10 @@ Thursday March 19: __No Class__
 Tuesday March 24: 
  - [Git Slides](https://stat408.github.io/Lecture9/) ([Rmd Source File](https://github.com/stat408/Lecture9/blob/master/docs/index.Rmd))
  - [Git Video Demo](https://montana.techsmithrelay.com/lGlW)
+ - Git Reading: [Happy Git for the useR](https://happygitwithr.com)
  - R Package Slides
  - R Package Video Demo
+ - R Package Resources: [R Packages Book](http://r-pkgs.had.co.nz)
  
 
 Thursday March 26: __No Class__
