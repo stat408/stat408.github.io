@@ -121,7 +121,7 @@ Thursday March 19: __No Class__
 ### Week Eleven: GitHub & Making an R Package
 
 Tuesday March 24: 
- - [Weekly Overview Video]
+ - [Weekly Overview Video](https://montana.techsmithrelay.com/0LVx)
  - [Git Slides](https://stat408.github.io/Lecture9/) ([Rmd Source File](https://github.com/stat408/Lecture9/blob/master/docs/index.Rmd))
  - [Git Video Demo](https://montana.techsmithrelay.com/lGlW)
  - Git Reading: [Happy Git for the useR](https://happygitwithr.com)
