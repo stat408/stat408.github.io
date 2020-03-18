@@ -135,7 +135,7 @@ Thursday March 26: __No Class__
 ### Week Twelve: R Shiny
 
 Tuesday March 31:
-- HW 9 Due
+- [HW 9 Due](https://stat408.github.io/HW9/)
 
 - Thursday April 2:
 
