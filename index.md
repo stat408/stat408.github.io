@@ -126,7 +126,7 @@ Tuesday March 24:
  - [Git Video Demo](https://montana.techsmithrelay.com/lGlW)
  - Git Reading: [Happy Git for the useR](https://happygitwithr.com)
  - [R Package Slides](https://stat408.github.io/Lecture10/)
- - R Package Video Demo
+ - [R Package Video Demo](https://montana.techsmithrelay.com/QqZJ)
  - R Package Resources: [R Packages Book](http://r-pkgs.had.co.nz) [R Package Primer](https://kbroman.org/pkg_primer/)
  
 
