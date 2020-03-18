@@ -126,7 +126,7 @@ Tuesday March 24:
  - Git Reading: [Happy Git for the useR](https://happygitwithr.com)
  - R Package Slides
  - R Package Video Demo
- - R Package Resources: [R Packages Book](http://r-pkgs.had.co.nz)
+ - R Package Resources: [R Packages Book](http://r-pkgs.had.co.nz) [R Package Primer](https://kbroman.org/pkg_primer/)
  
 
 Thursday March 26: __No Class__
