@@ -129,7 +129,6 @@ Tuesday March 24:
  - [R Package Video Demo](https://montana.techsmithrelay.com/QqZJ)
  - R Package Resources: [R Packages Book](http://r-pkgs.had.co.nz) [R Package Primer](https://kbroman.org/pkg_primer/)
  
-
 Thursday March 26: __No Class__
 
 
@@ -137,13 +136,18 @@ Thursday March 26: __No Class__
 
 Tuesday March 31:
 - [HW 9 Due](https://stat408.github.io/HW9/)
+- Weekly Video
+- [R Shiny Slides](https://stat408.github.io/Lecture11/) ([R Markdown Source](https://github.com/stat408/Lecture11/blob/master/docs/index.Rmd)) ([R Markdown File with Shiny Embed](https://github.com/stat408/Lecture11/blob/master/docs/ShinyApp_RMarkdown.Rmd))
+- Shiny resources: ([website](https://shiny.rstudio.com)) ([cheatsheet](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf))
 
-- Thursday April 2:
-
+Thursday April 2:
+- Virtual Class
 
 ### Week Thirteen: Data Scraping & SQL
 
-- Tuesday April 7:
+Tuesday April 7:
+- HW 10 Due
+- Lab 9 Due
 
 - Thursday April 9:
 
