@@ -141,7 +141,7 @@ Tuesday March 31:
 - Shiny resources: ([website](https://shiny.rstudio.com)) ([cheatsheet](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf))
 
 Thursday April 2:
-- Virtual Class Lab Session
+- [Virtual Class Lab Session](https://github.com/stat408/Lab9)
 
 ### Week Thirteen: Data Scraping & SQL
 
