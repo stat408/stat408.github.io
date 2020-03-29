@@ -138,7 +138,7 @@ Tuesday March 31:
 - [HW 9 Due](https://stat408.github.io/HW9/)
 - [Weekly Video](https://montana.techsmithrelay.com/c7HJ)
 - [R Shiny Video](https://montana.techsmithrelay.com/Fy1d) ([R Shiny Slides](https://stat408.github.io/Lecture11/)) ([R Markdown Source](https://github.com/stat408/Lecture11/blob/master/docs/index.Rmd)) ([R Markdown File with Shiny Embed](https://github.com/stat408/Lecture11/blob/master/docs/ShinyApp_RMarkdown.Rmd))
-- Shiny resources: ([website](https://shiny.rstudio.com)) ([cheatsheet](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf))
+- Shiny resources: ([website](https://shiny.rstudio.com)) ([cheatsheet](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf)) ([Shiny Documents](https://bookdown.org/yihui/rmarkdown/shiny-documents.html))
 
 Thursday April 2:
 - [Virtual Class Lab Session](https://github.com/stat408/Lab9)
@@ -147,7 +147,7 @@ Thursday April 2:
 
 Tuesday April 7:
 - [HW 10 Due](https://stat408.github.io/HW10/)
-- Lab 9 Due
+- [Lab 9 Due](https://github.com/stat408/Lab9)
 
 - Thursday April 9:
 
