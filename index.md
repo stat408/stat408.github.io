@@ -142,6 +142,8 @@ Tuesday March 31:
 
 Thursday April 2:
 - [Virtual Class Lab Session](https://github.com/stat408/Lab9) ([Google Meet Link](https://meet.google.com/nxv-edau-ddf)) ([R Markdown Document](https://github.com/stat408/Lab9/blob/master/Lab9_Shiny.Rmd))
+- [Lab Video](https://montana.techsmithrelay.com/0usz)
+- [MT Map Video](https://montana.techsmithrelay.com/S7Pa)
 
 ### Week Thirteen: Data Scraping & SQL
 
@@ -151,7 +153,7 @@ Tuesday April 7:
 - [Lab 9 Due](https://github.com/stat408/Lab9)
 - [R Vest Tutorial (Data Camp)](https://www.datacamp.com/community/tutorials/r-web-scraping-rvest)
 - [Data Scraping Slides](https://stat408.github.io/Lecture12/)
-- Data Scraping Video
+- [Data Scraping Video](https://montana.techsmithrelay.com/LSzy)
 - SQL Resources
 - SQL Slides
 - SQL Video
