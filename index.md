@@ -141,7 +141,7 @@ Tuesday March 31:
 - Shiny resources: ([website](https://shiny.rstudio.com)) ([cheatsheet](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf)) ([Shiny Documents](https://bookdown.org/yihui/rmarkdown/shiny-documents.html))
 
 Thursday April 2:
-- [Virtual Class Lab Session](https://github.com/stat408/Lab9)
+- [Virtual Class Lab Session](https://github.com/stat408/Lab9) ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
 
 ### Week Thirteen: Data Scraping & SQL
 
@@ -149,25 +149,29 @@ Tuesday April 7:
 - [HW 10 Due](https://stat408.github.io/HW10/)
 - [Lab 9 Due](https://github.com/stat408/Lab9)
 
-- Thursday April 9:
+Thursday April 9:
+- ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
 
 ### Week Fourteen: SAS I
 
 - Tuesday April 14:
 
-- Thursday April 16:
+Thursday April 16:
+- ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
 
 ### Week Fifteen: SAS II
 
 - Tuesday April 21:
 
-- Thursday April 23:
+Thursday April 23:
+([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
 
 ### Week Sixteen: SAS III
 
 - Tuesday April 28:
 
-- Thursday April 30:
+Thursday April 30:
+- ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
 
 
 ### Course Overview
