@@ -146,11 +146,19 @@ Thursday April 2:
 ### Week Thirteen: Data Scraping & SQL
 
 Tuesday April 7:
+- Weekly Overview Data
 - [HW 10 Due](https://stat408.github.io/HW10/)
 - [Lab 9 Due](https://github.com/stat408/Lab9)
+- [R Vest Tutorial (Data Camp)](https://www.datacamp.com/community/tutorials/r-web-scraping-rvest)
+- [Data Scraping Slides](https://stat408.github.io/Lecture12/)
+- Data Scraping Video
+- SQL Resources
+- SQL Slides
+- SQL Video
 
 Thursday April 9:
 - ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
+- R Markdown Document
 
 ### Week Fourteen: SAS I
 
