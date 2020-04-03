@@ -155,6 +155,7 @@ Tuesday April 7:
 - [Data Scraping Slides](https://stat408.github.io/Lecture12/)
 - [Data Scraping Video](https://montana.techsmithrelay.com/LSzy)
 - [SQL Tutorial (Data Camp)](https://www.datacamp.com/community/tutorials/sqlite-in-r)
+- [SQL Cheatsheet](https://intellipaat.com/mediaFiles/2019/02/SQL-Commands-Cheat-Sheet.png)
 - SQL Slides
 - SQL Video
 
