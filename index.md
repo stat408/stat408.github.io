@@ -154,7 +154,7 @@ Tuesday April 7:
 - [R Vest Tutorial (Data Camp)](https://www.datacamp.com/community/tutorials/r-web-scraping-rvest)
 - [Data Scraping Slides](https://stat408.github.io/Lecture12/)
 - [Data Scraping Video](https://montana.techsmithrelay.com/LSzy)
-- SQL Resources
+- [SQL Tutorial (Data Camp)](https://www.datacamp.com/community/tutorials/sqlite-in-r)
 - SQL Slides
 - SQL Video
 
