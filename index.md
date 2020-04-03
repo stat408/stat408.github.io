@@ -161,12 +161,12 @@ Tuesday April 7:
 
 Thursday April 9:
 - ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
-- R Markdown Document
 
 ### Week Fourteen: SAS I
 
 Tuesday April 14:
 - [HW 11 Due](https://stat408.github.io/HW11/)
+- [Lab 10 Due](https://stat408.github.io/Lab10/)
 
 Thursday April 16:
 - ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
