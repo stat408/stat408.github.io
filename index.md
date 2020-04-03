@@ -152,12 +152,12 @@ Tuesday April 7:
 - [HW 10 Due](https://stat408.github.io/HW10/)
 - [Lab 9 Due](https://github.com/stat408/Lab9)
 - [R Vest Tutorial (Data Camp)](https://www.datacamp.com/community/tutorials/r-web-scraping-rvest)
-- [Data Scraping Slides](https://stat408.github.io/Lecture12/)
+- [Data Scraping Slides](https://stat408.github.io/Lecture12/) ([RMD Source Code](https://github.com/stat408/Lecture12/blob/master/docs/index.Rmd))
 - [Data Scraping Video](https://montana.techsmithrelay.com/LSzy)
 - [SQL Tutorial (Data Camp)](https://www.datacamp.com/community/tutorials/sqlite-in-r)
 - [SQL Cheatsheet](https://intellipaat.com/mediaFiles/2019/02/SQL-Commands-Cheat-Sheet.png)
-- [SQL Slides](https://stat408.github.io/Lecture12b/)
-- SQL Video
+- [SQL Slides](https://stat408.github.io/Lecture12b/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture12b/master/docs/index.Rmd))
+- [SQL Video](https://montana.techsmithrelay.com/baVh)
 
 Thursday April 9:
 - ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
