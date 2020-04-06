@@ -148,7 +148,7 @@ Thursday April 2:
 ### Week Thirteen: Data Scraping & SQL
 
 Tuesday April 7:
-- Weekly Overview Data
+- [Weekly Overview Video](https://montana.techsmithrelay.com/rfA0)
 - [HW 10 Due](https://stat408.github.io/HW10/)
 - [Lab 9 Due](https://github.com/stat408/Lab9)
 - [R Vest Tutorial (Data Camp)](https://www.datacamp.com/community/tutorials/r-web-scraping-rvest)
