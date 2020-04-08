@@ -174,14 +174,18 @@ Thursday April 16:
 
 ### Week Fifteen: SAS II
 
-- Tuesday April 21:
+Tuesday April 21:
+- [Lecture 14 Slides](https://stat408.github.io/Lecture14/)
+
 
 Thursday April 23:
 ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
 
 ### Week Sixteen: SAS III
 
-- Tuesday April 28:
+Tuesday April 28:
+- [Lecture 15 Slides](https://stat408.github.io/Lecture15/)
+
 
 Thursday April 30:
 - ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
