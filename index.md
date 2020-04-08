@@ -160,7 +160,7 @@ Tuesday April 7:
 - [SQL Video](https://montana.techsmithrelay.com/baVh)
 
 Thursday April 9:
-- ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
+- [Virtual Class Lab Session](https://github.com/stat408/Lab10)([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
 
 ### Week Fourteen: SAS I
 
@@ -171,7 +171,7 @@ Tuesday April 14:
 - [SAS OnDemand Video](https://montana.techsmithrelay.com/W8PA)
 
 Thursday April 16:
-- ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
+- [Virtual Lab 11](https://stat408.github.io/Lab11/) ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
 
 ### Week Fifteen: SAS II
 
@@ -181,7 +181,7 @@ Tuesday April 21:
 - [Lecture 14 Slides](https://stat408.github.io/Lecture14/)
 
 Thursday April 23:
-([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
+- [Virtual Lab 12](https://stat408.github.io/Lab12/) ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
 
 ### Week Sixteen: SAS III
 
@@ -191,8 +191,8 @@ Tuesday April 28:
 - [Lecture 15 Slides](https://stat408.github.io/Lecture15/)
 
 Thursday April 30:
-- ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
-- [Lab 13 Due](https://stat408.github.io/Lab13/)
+- [Virtual Lab 13](https://stat408.github.io/Lab13/) ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
+
 
 ### Week Seventeen: Final Exam
 
