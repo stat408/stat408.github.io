@@ -167,6 +167,7 @@ Thursday April 9:
 Tuesday April 14:
 - [HW 11 Due](https://stat408.github.io/HW11/)
 - [Lab 10 Due](https://github.com/stat408/Lab10)
+- [Lecture 13 Slides](https://stat408.github.io/Lecture13/)
 
 Thursday April 16:
 - ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
