@@ -186,12 +186,12 @@ Thursday April 23:
 
 Tuesday April 28:
 - [HW 13 Due](https://stat408.github.io/HW13/)
-- Lab 12 Due
+- [Lab 12 Due](https://stat408.github.io/Lab12/)
 - [Lecture 15 Slides](https://stat408.github.io/Lecture15/)
 
 Thursday April 30:
 - ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
-- Lab 13 Due
+- [Lab 13 Due](https://stat408.github.io/Lab13/)
 
 ### Week Seventeen: Final Exam
 
