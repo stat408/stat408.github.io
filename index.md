@@ -175,8 +175,9 @@ Thursday April 16:
 ### Week Fifteen: SAS II
 
 Tuesday April 21:
+- [HW 12 Due](https://stat408.github.io/HW12/)
+- Lab 11 Due
 - [Lecture 14 Slides](https://stat408.github.io/Lecture14/)
-
 
 Thursday April 23:
 ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
@@ -184,11 +185,15 @@ Thursday April 23:
 ### Week Sixteen: SAS III
 
 Tuesday April 28:
+- HW 13 Due
+- Lab 12 Due
 - [Lecture 15 Slides](https://stat408.github.io/Lecture15/)
-
 
 Thursday April 30:
 - ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
+- Lab 13 Due
+
+### Week Seventeen: Final Exam
 
 
 ### Course Overview
