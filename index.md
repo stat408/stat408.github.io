@@ -185,7 +185,7 @@ Thursday April 23:
 ### Week Sixteen: SAS III
 
 Tuesday April 28:
-- HW 13 Due
+- [HW 13 Due](https://stat408.github.io/HW13/)
 - Lab 12 Due
 - [Lecture 15 Slides](https://stat408.github.io/Lecture15/)
 
