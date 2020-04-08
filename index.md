@@ -165,6 +165,8 @@ Thursday April 9:
 ### Week Fourteen: SAS I
 
 Tuesday April 14:
+- Weekly Overview Video
+- SAS Intro Video
 - [HW 11 Due](https://stat408.github.io/HW11/)
 - [Lab 10 Due](https://github.com/stat408/Lab10)
 - [Lecture 13 Slides](https://stat408.github.io/Lecture13/)
@@ -176,6 +178,8 @@ Thursday April 16:
 ### Week Fifteen: SAS II
 
 Tuesday April 21:
+- Weekly Overview Video
+- SAS Video
 - [HW 12 Due](https://stat408.github.io/HW12/)
 - [Lab 11 Due](https://stat408.github.io/Lab11/)
 - [Lecture 14 Slides](https://stat408.github.io/Lecture14/)
@@ -186,6 +190,8 @@ Thursday April 23:
 ### Week Sixteen: SAS III
 
 Tuesday April 28:
+- Weekly Overview Video
+- SAS Video
 - [HW 13 Due](https://stat408.github.io/HW13/)
 - [Lab 12 Due](https://stat408.github.io/Lab12/)
 - [Lecture 15 Slides](https://stat408.github.io/Lecture15/)
