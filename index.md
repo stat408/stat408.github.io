@@ -165,12 +165,11 @@ Thursday April 9:
 ### Week Fourteen: SAS I
 
 Tuesday April 14:
-- Weekly Overview Video
-- SAS Intro Video
 - [HW 11 Due](https://stat408.github.io/HW11/)
 - [Lab 10 Due](https://github.com/stat408/Lab10)
-- [Lecture 13 Slides](https://stat408.github.io/Lecture13/)
-- [SAS OnDemand Video](https://montana.techsmithrelay.com/W8PA)
+- Weekly Overview Video
+- [SAS OnDemand Video](https://montana.techsmithrelay.com/vtNU)
+- [Lecture 13 Slides](https://stat408.github.io/Lecture13/) ([Video Link](https://montana.techsmithrelay.com/4U3a))
 - [SAS Login Link](https://welcome.oda.sas.com)
 
 Thursday April 16:
