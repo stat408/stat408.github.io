@@ -160,7 +160,7 @@ Tuesday April 7:
 - [SQL Video](https://montana.techsmithrelay.com/baVh)
 
 Thursday April 9:
-- [Virtual Class Lab Session](https://github.com/stat408/Lab10)([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
+- [Virtual Class Lab Session](https://github.com/stat408/Lab10)([Google Meet Link](https://meet.google.com/nxv-edau-ddf)) ([Lab Video Recording](https://montana.techsmithrelay.com/QHkj))
 
 ### Week Fourteen: SAS I
 
