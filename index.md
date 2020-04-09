@@ -167,7 +167,7 @@ Thursday April 9:
 Tuesday April 14:
 - [HW 11 Due](https://stat408.github.io/HW11/)
 - [Lab 10 Due](https://github.com/stat408/Lab10)
-- Weekly Overview Video
+- [Weekly Overview Video](https://montana.techsmithrelay.com/w107)
 - [SAS OnDemand Video](https://montana.techsmithrelay.com/vtNU)
 - [Lecture 13 Slides](https://stat408.github.io/Lecture13/) ([Video Link](https://montana.techsmithrelay.com/4U3a))
 - [SAS Login Link](https://welcome.oda.sas.com)
