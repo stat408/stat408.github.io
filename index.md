@@ -171,6 +171,7 @@ Tuesday April 14:
 - [Lab 10 Due](https://github.com/stat408/Lab10)
 - [Lecture 13 Slides](https://stat408.github.io/Lecture13/)
 - [SAS OnDemand Video](https://montana.techsmithrelay.com/W8PA)
+- [SAS Login Link](https://welcome.oda.sas.com)
 
 Thursday April 16:
 - [Virtual Lab 11](https://stat408.github.io/Lab11/) ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
