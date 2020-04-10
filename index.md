@@ -180,7 +180,7 @@ Thursday April 16:
 Tuesday April 21:
 - [HW 12 Due](https://stat408.github.io/HW12/)
 - [Lab 11 Due](https://stat408.github.io/Lab11/)
-- Weekly Overview Video
+- [Weekly Overview Video](https://montana.techsmithrelay.com/AOZI)
 - [Lecture 14 Slides](https://stat408.github.io/Lecture14/) ([Video Link](https://montana.techsmithrelay.com/0V83))
 
 Thursday April 23:
