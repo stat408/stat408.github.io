@@ -189,10 +189,10 @@ Thursday April 23:
 ### Week Sixteen: SAS III
 
 Tuesday April 28:
-- Weekly Overview Video
-- SAS Video
 - [HW 13 Due](https://stat408.github.io/HW13/)
 - [Lab 12 Due](https://stat408.github.io/Lab12/)
+- Weekly Overview Video
+- SAS Video
 - [Lecture 15 Slides](https://stat408.github.io/Lecture15/)
 
 Thursday April 30:
