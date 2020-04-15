@@ -191,16 +191,16 @@ Thursday April 23:
 Tuesday April 28:
 - [HW 13 Due](https://stat408.github.io/HW13/)
 - [Lab 12 Due](https://stat408.github.io/Lab12/)
-- Weekly Overview Video
-- SAS Video
-- [Lecture 15 Slides](https://stat408.github.io/Lecture15/)
+- [Weekly Overview Video](https://montana.techsmithrelay.com/Cu4p)
+- [Lecture 15 Slides](https://stat408.github.io/Lecture15/) ([Video Link](https://montana.techsmithrelay.com/Lmau))
 
 Thursday April 30:
 - [Virtual Lab 13](https://stat408.github.io/Lab13/) ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
 
 
 ### Week Seventeen: Final Exam
-
+- Monday May 4: Scheduled Final Exam
+- Tuesday May 5: Final Exam Due at Midnight (I have 48 hours to turn in grades).
 
 ### Course Overview
 
