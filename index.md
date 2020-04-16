@@ -173,7 +173,7 @@ Tuesday April 14:
 - [SAS Login Link](https://welcome.oda.sas.com)
 
 Thursday April 16:
-- [Virtual Lab 11](https://stat408.github.io/Lab11/) ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
+- [Virtual Lab 11](https://stat408.github.io/Lab11/) ([Google Meet Link](https://meet.google.com/nxv-edau-ddf)) ([Lab Video Recording](https://montana.techsmithrelay.com/9kuI))
 
 ### Week Fifteen: SAS II
 
