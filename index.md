@@ -184,7 +184,7 @@ Tuesday April 21:
 - [Lecture 14 Slides](https://stat408.github.io/Lecture14/) ([Video Link](https://montana.techsmithrelay.com/fTsW))
 
 Thursday April 23:
-- [Virtual Lab 12](https://stat408.github.io/Lab12/) ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
+- [Virtual Lab 12](https://stat408.github.io/Lab12/) ([Google Meet Link](https://meet.google.com/nxv-edau-ddf)) ([Lab Video](https://montana.techsmithrelay.com/2Njj))
 
 ### Week Sixteen: SAS III
 
