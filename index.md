@@ -200,7 +200,7 @@ Thursday April 30:
 
 ### Week Seventeen: Final Exam
 - Monday May 4: Scheduled Final Exam
-- Tuesday May 5: [Final Exam Due at Midnight](https://github.com/stat408/final_exam/blob/master/Final_S2020.pdf)
+- Tuesday May 5: [Final Exam Due at Midnight](https://github.com/stat408/final_exam/blob/master/Final_S2020.pdf) ([RMD Source File](https://github.com/stat408/final_exam/blob/master/Final_S2020.Rmd))
 
 ### Course Overview
 
