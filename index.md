@@ -195,7 +195,7 @@ Tuesday April 28:
 - [Lecture 15 Slides](https://stat408.github.io/Lecture15/) ([Video Link](https://montana.techsmithrelay.com/Lmau))
 
 Thursday April 30:
-- [Virtual Lab 13](https://stat408.github.io/Lab13/) ([Google Meet Link](https://meet.google.com/nxv-edau-ddf))
+- [Virtual Lab 13](https://stat408.github.io/Lab13/) ([Google Meet Link](https://meet.google.com/nxv-edau-ddf)) ([Video Link](https://montana.techsmithrelay.com/SRgE))
 
 
 ### Week Seventeen: Final Exam
