@@ -1,14 +1,135 @@
+### Course Overview
+
+This course provides an overview of statistical computation and graphical analysis. In particular,  R and SAS will be introduced in this course.
+
+## Learning Outcomes:
+
+Students will:
+
+1. To become literate in statistical programming using R and SAS,
+
+2. To learn to effectively communicate through visual presentation of data, and
+
+3. To understand and imitate good programming practices.
+
+## Prerequisites
+
+- One of: STAT 217, STAT 332, STAT 401, or equivalent.
+
+
+## Textbooks (all optional or free)
+
+1. R for Data Science, by Hadley Wickham and Garret Grolemund. Free at [http://r4ds.had.co.nz](http://r4ds.had.co.nz)
+
+2. ModernDive: An introduction to Statistical and Data Sciences via R, by Chester Ismay and Albert Kim. Free at [http://moderndive.com](http://moderndive.com)
+
+3. Visualize This: The FlowingData Guide to Design, Visualization, and Statistics, by Nathan Yau, 2011.
+
+4. The Art of R Programming: A Tour of Statistical Software Design, by Norman Matloff, 2011,
+
+5. The Little SAS Book: A Primer, by Lora Delwiche and Susan Slaughter, 2012.
+
+6. R cheatsheets. https://www.rstudio.com/resources/cheatsheets/
+
+
+
+## Course Policies
+
+
+#### Grading Policy
+
+Course Evaluation:
+
+- **25%** of your grade will be determined by weekly homework assignments. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to complete their own homework. Homework will be collected through D2L and will be due prior to class on Thursdays. 
+
+- **25%** of your grade will be determined by a Labs. Labs will be in-class group assignments conducted every Thursday. The labs will have a large computational element. The labs will be designed to be completed in 75 minutes; however, there may be times that groups need to finish labs outside of class time.
+
+- **25%** of your grade will be determined by a midterm exam. The midterm exam will have two parts: an in class exam and a take home portion.
+
+- **25%** of your grade will be determined by a final exam. The final exam will have two parts: an in class exam and a take home portion.
+
+#### Collaboration
+University policy states that, unless otherwise specified, students may not collaborate on graded material. Any exceptions to this policy will be stated explicitly for individual assignments. If you have any questions about the limits of collaboration, you are expected to ask for clarification.
+
+In this class students are encouraged to collaborate on homework assignments, but exams should be completed without collaboration.
+
+####  Academic Misconduct
+Section 420 of the Student Conduct Code describes academic misconduct as including but not limited to plagiarism, cheating, multiple submissions, or facilitating others’ misconduct. Possible sanctions for academic misconduct range from an oral reprimand to expulsion from the university.
+
+#### Disabilities Policy
+
+Federal law mandates the provision of services at the university-level to qualified students with disabilities. If you have a documented disability for which you are or may be requesting an accommodation(s), you are encouraged to contact the Office of Disability Services and the instructor as soon as possible.
+
+
+#### Masks 
+
+__WEARING MASKS IN CLASSROOMS IS REQUIRED__
+Face coverings are required in all indoor spaces and all enclosed or partially enclosed outdoor spaces. MSU requires all students to wear face masks or cloth face coverings in classrooms, laboratories and other similar spaces where in-person instruction occurs. MSU requires the wearing of masks in physical classrooms to help mitigate the transmission of SARS-CoV-2, which causes COVID-19.  The MSU community views the adoption of these practices as a mark of good citizenship and respectful care of fellow classmates, faculty, and staff.
+
+The complete details about MSU’s mask requirement can be found at https://www.montana.edu/health/coronavirus/index.html. 
+
+These requirements from the Office of the Commissioner of Higher Education are detailed in the MUS Healthy Fall 2020 Guidelines, Appendix B.
+
+For more information: https://www.montana.edu/health/coronavirus/prevention/index.html
+
+Compliance with the face-covering protocol is expected. If a you do not comply with a classroom rule, you may be requested to leave class.  Section 460.00 of the MSU Code of Student Conduct covers “disruptive student behavior.” 
+
+#### Health-Related Class Absences
+
+Please evaluate your own health status regularly and refrain from attending class and other on-campus events if you are ill.  MSU students who miss class due to illness will be given opportunities to access course materials online. You are encouraged to seek appropriate medical attention for treatment of illness.  In the event of contagious illness, please do not come to class or to campus to turn in work. Instead notify me by email about your absence as soon as practical, so that accommodations can be made.  Please note that documentation (a Doctor’s note) for medical excuses is not required.  MSU University Health Partners - as part their commitment to maintain patient confidentiality, to encourage more appropriate use of healthcare resources, and to support meaningful dialogue between instructors and students - does not provide such documentation.
+
+
+#### Course Communication
+
+In the event that one or more students and/or the instructor are required to quarantine or if the university moves courses online, the course may need to continue in a virtual format. Communication about how the course will proceed will be available through D2l.
+
+
 ## Course Schedule
 
 The course will be taught from a partially flipped perspective. Tuesdays will be lectures with an interactive computing component. Thursdays will be group labs which focus on implementing the programming covered during the previous week. As much of the course time will be focused on group activities and active learning, video lectures with a particular focus on computational techniques will be created to be watched out of class.
 
 A rough course schedule will be:
 
+(3 weeks) SAS: data storage, manipulation, SAS procedures, and SAS macros.
 (5 weeks) R: Intro to R, R Studio, and R Markdown. Data input, cleaning, and merging.
 (6 weeks) Data Visualization Principles and Advanced R: ggplot2, RShiny, and statistical modeling.
-(4 weeks) SAS: data storage, manipulation, SAS procedures, and SAS macros.
 
+### Week One: SAS I
 
+Tuesday August 18:
+- [HW 11 Due](https://stat408.github.io/HW11/)
+- [Lab 10 Due](https://github.com/stat408/Lab10)
+- [Weekly Overview Video](https://montana.techsmithrelay.com/raIH)
+- [SAS OnDemand Video](https://montana.techsmithrelay.com/mXEg)
+- [Lecture 13 Slides](https://stat408.github.io/Lecture13/) ([Video Link](https://montana.techsmithrelay.com/4U3a))
+- [SAS Login Link](https://welcome.oda.sas.com)
+
+Thursday August 20:
+- [Virtual Lab 11](https://stat408.github.io/Lab11/) ([Google Meet Link](https://meet.google.com/nxv-edau-ddf)) ([Lab Video Recording](https://montana.techsmithrelay.com/9kuI))
+
+### Week Fifteen: SAS II
+
+Tuesday August 25:
+- [HW 12 Due](https://stat408.github.io/HW12/)
+- [Lab 11 Due](https://stat408.github.io/Lab11/)
+- [Weekly Overview Video](https://montana.techsmithrelay.com/AOZI)
+- [Lecture 14 Slides](https://stat408.github.io/Lecture14/) ([Video Link](https://montana.techsmithrelay.com/fTsW))
+
+Thursday August 27:
+- [Virtual Lab 12](https://stat408.github.io/Lab12/) ([Google Meet Link](https://meet.google.com/nxv-edau-ddf)) ([Lab Video](https://montana.techsmithrelay.com/2Njj))
+
+### Week Sixteen: SAS III
+
+Tuesday September 1:
+- [HW 13 Due](https://stat408.github.io/HW13/)
+- [Lab 12 Due](https://stat408.github.io/Lab12/)
+- [Weekly Overview Video](https://montana.techsmithrelay.com/Cu4p)
+- [Lecture 15 Slides](https://stat408.github.io/Lecture15/) ([Video Link](https://montana.techsmithrelay.com/Lmau))
+
+Thursday September 3:
+- [Virtual Lab 13](https://stat408.github.io/Lab13/) ([Google Meet Link](https://meet.google.com/nxv-edau-ddf)) ([Video Link](https://montana.techsmithrelay.com/SRgE))
+
+<!---
 ### Week One: Course Overview and Tidyverse
 Tuesday January 14: 
 - [Lecture 1: Course Overview and Tidyverse Demo](https://stat408.github.io/Lecture1/)
@@ -202,67 +323,4 @@ Thursday April 30:
 - Monday May 4: Scheduled Final Exam
 - Tuesday May 5: [Final Exam Due at Midnight](https://github.com/stat408/final_exam/blob/master/Final_S2020.pdf) ([RMD Source File](https://github.com/stat408/final_exam/blob/master/Final_S2020.Rmd))
 
-### Course Overview
-
-This course provides an overview of statistical computation and graphical analysis. In particular,  R and SAS will be introduced in this course.
-
-## Learning Outcomes:
-
-Students will:
-
-1. To become literate in statistical programming using R and SAS,
-
-2. To learn to effectively communicate through visual presentation of data, and
-
-3. To understand and imitate good programming practices.
-
-## Prerequisites
-
-- One of: STAT 217, STAT 332, STAT 401, or equivalent.
-
-
-## Textbooks (all optional or free)
-
-1. R for Data Science, by Hadley Wickham and Garret Grolemund. Free at [http://r4ds.had.co.nz](http://r4ds.had.co.nz)
-
-2. ModernDive: An introduction to Statistical and Data Sciences via R, by Chester Ismay and Albert Kim. Free at [http://moderndive.com](http://moderndive.com)
-
-3. Visualize This: The FlowingData Guide to Design, Visualization, and Statistics, by Nathan Yau, 2011.
-
-4. The Art of R Programming: A Tour of Statistical Software Design, by Norman Matloff, 2011,
-
-5. The Little SAS Book: A Primer, by Lora Delwiche and Susan Slaughter, 2012.
-
-6. R cheatsheets. https://www.rstudio.com/resources/cheatsheets/
-
-
-
-## Course Policies
-
-
-#### Grading Policy
-
-Course Evaluation:
-
-- **25%** of your grade will be determined by weekly homework assignments. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to complete their own homework. Homework will be collected through D2L and will be due prior to class on Thursdays. 
-
-- **25%** of your grade will be determined by a Labs. Labs will be in-class group assignments conducted every Thursday. The labs will have a large computational element. The labs will be designed to be completed in 75 minutes; however, there may be times that groups need to finish labs outside of class time.
-
-- **25%** of your grade will be determined by a midterm exam. The midterm exam will have two parts: an in class exam and a take home portion.
-
-- **25%** of your grade will be determined by a final exam. The final exam will have two parts: an in class exam and a take home portion.
-
-#### Collaboration
-University policy states that, unless otherwise specified, students may not collaborate on graded material. Any exceptions to this policy will be stated explicitly for individual assignments. If you have any questions about the limits of collaboration, you are expected to ask for clarification.
-
-In this class students are encouraged to collaborate on homework assignments, but exams should be completed without collaboration.
-
-####  Academic Misconduct
-Section 420 of the Student Conduct Code describes academic misconduct as including but not limited to plagiarism, cheating, multiple submissions, or facilitating others’ misconduct. Possible sanctions for academic misconduct range from an oral reprimand to expulsion from the university.
-
-#### Disabilities Policy
-
-Federal law mandates the provision of services at the university-level to qualified students with disabilities. If you have a documented disability for which you are or may be requesting an accommodation(s), you are encouraged to contact the Office of Disability Services and the instructor as soon as possible.
-
-
-
+--->
