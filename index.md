@@ -35,18 +35,21 @@ Students will:
 
 ## Course Policies
 
+#### Course Format
+
+The course is officially offered as "Blended - Online and Onsite." The classroom assigned for this course can seat a total of 18 students, with distancing measures. The course enrollment is 27, so the class will use a mix of virtual lectures and in class activities. Students will be assigned one day per week for in class instruction.
 
 #### Grading Policy
 
 Course Evaluation:
 
-- **25%** of your grade will be determined by weekly homework assignments. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to complete their own homework. Homework will be collected through D2L and will be due prior to class on Thursdays. 
+- **20%** of your grade will be determined by weekly homework assignments. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to complete their own homework. Homework will be collected through D2L. 
 
-- **25%** of your grade will be determined by a Labs. Labs will be in-class group assignments conducted every Thursday. The labs will have a large computational element. The labs will be designed to be completed in 75 minutes; however, there may be times that groups need to finish labs outside of class time.
+- **20%** of your grade will be determined by weekly labs.The labs will have a large computational element and will be designed to be completed in 75 minutes; however, there may be times that labs need to be finished outside of class time.
 
-- **25%** of your grade will be determined by a midterm exam. The midterm exam will have two parts: an in class exam and a take home portion.
+- **40%** of your grade will be determined by exams. Two exams will be given during the course of the semester.
 
-- **25%** of your grade will be determined by a final exam. The final exam will have two parts: an in class exam and a take home portion.
+- **20%** of your grade will be determined by a data storytelling project.
 
 #### Collaboration
 University policy states that, unless otherwise specified, students may not collaborate on graded material. Any exceptions to this policy will be stated explicitly for individual assignments. If you have any questions about the limits of collaboration, you are expected to ask for clarification.
@@ -66,11 +69,11 @@ Federal law mandates the provision of services at the university-level to qualif
 __WEARING MASKS IN CLASSROOMS IS REQUIRED__
 Face coverings are required in all indoor spaces and all enclosed or partially enclosed outdoor spaces. MSU requires all students to wear face masks or cloth face coverings in classrooms, laboratories and other similar spaces where in-person instruction occurs. MSU requires the wearing of masks in physical classrooms to help mitigate the transmission of SARS-CoV-2, which causes COVID-19.  The MSU community views the adoption of these practices as a mark of good citizenship and respectful care of fellow classmates, faculty, and staff.
 
-The complete details about MSU’s mask requirement can be found at https://www.montana.edu/health/coronavirus/index.html. 
+The complete details about MSU’s mask requirement can be found at [https://www.montana.edu/health/coronavirus/index.html](https://www.montana.edu/health/coronavirus/index.html).
 
 These requirements from the Office of the Commissioner of Higher Education are detailed in the MUS Healthy Fall 2020 Guidelines, Appendix B.
 
-For more information: https://www.montana.edu/health/coronavirus/prevention/index.html
+For more information: [https://www.montana.edu/health/coronavirus/prevention/index.html](https://www.montana.edu/health/coronavirus/prevention/index.html)
 
 Compliance with the face-covering protocol is expected. If a you do not comply with a classroom rule, you may be requested to leave class.  Section 460.00 of the MSU Code of Student Conduct covers “disruptive student behavior.” 
 
@@ -81,53 +84,34 @@ Please evaluate your own health status regularly and refrain from attending clas
 
 #### Course Communication
 
-In the event that one or more students and/or the instructor are required to quarantine or if the university moves courses online, the course may need to continue in a virtual format. Communication about how the course will proceed will be available through D2l.
+All course communcation will be posted as announcements on D2L. In the event that one or more students and/or the instructor are required to quarantine or if the university moves courses online, the course may need to continue in a virtual format. Communication about how the course will proceed will be available through D2L.
 
 
 ## Course Schedule
 
-The course will be taught from a partially flipped perspective. Tuesdays will be lectures with an interactive computing component. Thursdays will be group labs which focus on implementing the programming covered during the previous week. As much of the course time will be focused on group activities and active learning, video lectures with a particular focus on computational techniques will be created to be watched out of class.
+The course will be taught from a flipped perspective. Lecture material will be provided as pre-recorded lectures. Tuesdays or Thursdays (depending on teh student) will be labs which focus on implementing the programming covered during the virtual lectures. 
 
 A rough course schedule will be:
 
-(3 weeks) SAS: data storage, manipulation, SAS procedures, and SAS macros.
 (5 weeks) R: Intro to R, R Studio, and R Markdown. Data input, cleaning, and merging.
 (6 weeks) Data Visualization Principles and Advanced R: ggplot2, RShiny, and statistical modeling.
+(3 weeks) SAS: data storage, manipulation, SAS procedures, and SAS macros.
 
-### Week One: SAS I
+### Week One (August 16 - 22): Course Overview
 
-Tuesday August 18:
-- [HW 11 Due](https://stat408.github.io/HW11/)
-- [Lab 10 Due](https://github.com/stat408/Lab10)
-- [Weekly Overview Video](https://montana.techsmithrelay.com/raIH)
-- [SAS OnDemand Video](https://montana.techsmithrelay.com/mXEg)
-- [Lecture 13 Slides](https://stat408.github.io/Lecture13/) ([Video Link](https://montana.techsmithrelay.com/4U3a))
-- [SAS Login Link](https://welcome.oda.sas.com)
+Virtual Materials:
 
-Thursday August 20:
-- [Virtual Lab 11](https://stat408.github.io/Lab11/) ([Google Meet Link](https://meet.google.com/nxv-edau-ddf)) ([Lab Video Recording](https://montana.techsmithrelay.com/9kuI))
+- R Installation Resources: ([Video From Previous Class](https://montana.techsmithrelay.com/PPuw)) ([Guide from Earth Lab](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/setup-r-rstudio/)) ([Guide from DataCamp](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu))
+- Video Resources: [R Markdown Overview](https://montana.techsmithrelay.com/nh0C)
+- Reading Resources: ([Modern Dive Ch. 1](https://moderndive.com/1-getting-started.html)) ([R 4 DS Ch. 1](https://r4ds.had.co.nz/introduction.html))
 
-### Week Fifteen: SAS II
 
-Tuesday August 25:
-- [HW 12 Due](https://stat408.github.io/HW12/)
-- [Lab 11 Due](https://stat408.github.io/Lab11/)
-- [Weekly Overview Video](https://montana.techsmithrelay.com/AOZI)
-- [Lecture 14 Slides](https://stat408.github.io/Lecture14/) ([Video Link](https://montana.techsmithrelay.com/fTsW))
+Lab:
 
-Thursday August 27:
-- [Virtual Lab 12](https://stat408.github.io/Lab12/) ([Google Meet Link](https://meet.google.com/nxv-edau-ddf)) ([Lab Video](https://montana.techsmithrelay.com/2Njj))
+Homework: [HW 1](https://stat408.github.io/HW1)
 
-### Week Sixteen: SAS III
+- [Lecture 1: Course Overview and Tidyverse Demo](https://stat408.github.io/Lecture1/)
 
-Tuesday September 1:
-- [HW 13 Due](https://stat408.github.io/HW13/)
-- [Lab 12 Due](https://stat408.github.io/Lab12/)
-- [Weekly Overview Video](https://montana.techsmithrelay.com/Cu4p)
-- [Lecture 15 Slides](https://stat408.github.io/Lecture15/) ([Video Link](https://montana.techsmithrelay.com/Lmau))
-
-Thursday September 3:
-- [Virtual Lab 13](https://stat408.github.io/Lab13/) ([Google Meet Link](https://meet.google.com/nxv-edau-ddf)) ([Video Link](https://montana.techsmithrelay.com/SRgE))
 
 <!---
 ### Week One: Course Overview and Tidyverse
