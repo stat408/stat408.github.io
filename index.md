@@ -99,14 +99,14 @@ A rough course schedule will be:
 
 ### Week One (August 16 - 22): Course Overview
 
-Weekly Overview: 
+__Weekly Overview:__
 
 - Guide
 - Video
 
 ---
 
-Virtual Materials:
+__Virtual Materials:__
 
 - Lecture Slides: [Lecture 1: Course Overview and Tidyverse Demo](https://stat408.github.io/Lecture1/)
 
@@ -125,22 +125,22 @@ Virtual Materials:
 
 --- 
 
-Lab: Lab 1
+__Lab:__ Lab 1
 
 ---
 
-Homework: [HW 1](https://stat408.github.io/HW1)
+__Homework:__ [HW 1](https://stat408.github.io/HW1)
 
 ### Week Two (August 23 - 29): R Overview
 
-Weekly Overview: 
+__Weekly Overview:__ 
 
 - Guide
 - Video
 
 ---
 
-Virtual Materials:
+__Virtual Materials:__
 
 - Lecture Slides: [Lecture 1: Course Overview and Tidyverse Demo](https://stat408.github.io/Lecture1/)
 
@@ -159,11 +159,11 @@ Virtual Materials:
 
 --- 
 
-Lab: Lab 1
+__Lab:__ Lab 1
 
 ---
 
-Homework: [HW 1](https://stat408.github.io/HW1)
+__Homework:__ [HW 1](https://stat408.github.io/HW1)
 
 <!---
 ### Week One: Course Overview and Tidyverse
