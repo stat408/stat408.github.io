@@ -111,7 +111,10 @@ __Weekly Overview:__
 
 __Virtual Materials:__
 
-- Lecture Slides: [Lecture 1: Course Overview and Tidyverse Demo](https://stat408.github.io/Lecture1/) [Course Overview Video](https://montana.techsmithrelay.com/JoCR)
+- Lecture Slides: 
+  - [Lecture 1: Course Overview and Tidyverse Demo](https://stat408.github.io/Lecture1/) 
+  - [Course Overview Video](https://montana.techsmithrelay.com/JoCR)
+  - [Tidyverse Video]
 
 - Video Resources: 
 
