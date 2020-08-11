@@ -131,7 +131,7 @@ __Virtual Materials:__
   - Microsoft Teams: [MSU Download Link](http://www.montana.edu/office365/teams/index.html)
 
 
-__Lab:__ Lab 1
+__Lab:__ [Lab 1](https://stat408.github.io/Lab1_2020/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lab1_2020/master/Lab1.Rmd))
 
 __Homework:__ [HW 1](https://stat408.github.io/HW1)
 
