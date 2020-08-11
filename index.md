@@ -97,14 +97,17 @@ A rough course schedule will be:
 - (6 weeks) Data Visualization Principles and Advanced R: ggplot2, RShiny, and statistical modeling.
 - (3 weeks) SAS: data storage, manipulation, SAS procedures, and SAS macros.
 
+---
+
 ### Week One (August 16 - 22): Course Overview
+
+---
 
 __Weekly Overview:__
 
 - Guide
 - Video
 
----
 
 __Virtual Materials:__
 
@@ -123,22 +126,21 @@ __Virtual Materials:__
   - R Installation Resources: ([Guide from Earth Lab](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/setup-r-rstudio/)) ([Guide from DataCamp](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu))
   - Intro to R: ([Modern Dive Ch. 1](https://moderndive.com/1-getting-started.html)) ([R 4 DS Ch. 1](https://r4ds.had.co.nz/introduction.html))
 
---- 
-
 __Lab:__ Lab 1
-
----
 
 __Homework:__ [HW 1](https://stat408.github.io/HW1)
 
+---
+
 ### Week Two (August 23 - 29): R Overview
+
+--- 
 
 __Weekly Overview:__ 
 
 - Guide
 - Video
 
----
 
 __Virtual Materials:__
 
@@ -157,11 +159,9 @@ __Virtual Materials:__
   - R Installation Resources: ([Guide from Earth Lab](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/setup-r-rstudio/)) ([Guide from DataCamp](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu))
   - Intro to R: ([Modern Dive Ch. 1](https://moderndive.com/1-getting-started.html)) ([R 4 DS Ch. 1](https://r4ds.had.co.nz/introduction.html))
 
---- 
 
 __Lab:__ Lab 1
 
----
 
 __Homework:__ [HW 1](https://stat408.github.io/HW1)
 
