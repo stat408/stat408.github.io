@@ -29,7 +29,7 @@ Students will:
 
 5. The Little SAS Book: A Primer, by Lora Delwiche and Susan Slaughter, 2012.
 
-6. R cheatsheets. https://www.rstudio.com/resources/cheatsheets/
+6. R cheatsheets. [https://www.rstudio.com/resources/cheatsheets/](https://www.rstudio.com/resources/cheatsheets/)
 
 
 
@@ -103,7 +103,7 @@ A rough course schedule will be:
 
 ---
 
-__Weekly Overview:__
+__Weekly Overview:__ 
 
 - Guide
 - Video
@@ -134,7 +134,7 @@ __Homework:__ [HW 1](https://stat408.github.io/HW1)
 
 --- 
 
-__Weekly Overview:__ 
+__Weekly Overview:__
 
 - Guide
 - Video
