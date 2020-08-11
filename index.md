@@ -152,10 +152,10 @@ __Virtual Materials:__
 - Reading Resources: 
 
 
-__Lab:__ Lab 1
+__Lab:__ 
 
 
-__Homework:__ [HW 1](https://stat408.github.io/HW1)
+__Homework:__ 
 
 <!---
 ### Week One: Course Overview and Tidyverse
