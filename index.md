@@ -113,8 +113,6 @@ __Virtual Materials:__
 
 - Lecture Slides: [Lecture 1: Course Overview and Tidyverse Demo](https://stat408.github.io/Lecture1/)
 
-- R Installation Resources: ([Video From Previous Class](https://montana.techsmithrelay.com/PPuw)) ([Guide from Earth Lab](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/setup-r-rstudio/)) ([Guide from DataCamp](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu))
-
 - Video Resources: 
 
   - R Installation Resources: ([Video From Previous Class](https://montana.techsmithrelay.com/PPuw))
@@ -144,20 +142,14 @@ __Weekly Overview:__
 
 __Virtual Materials:__
 
-- Lecture Slides: [Lecture 1: Course Overview and Tidyverse Demo](https://stat408.github.io/Lecture1/)
+- Lecture Slides: 
 
-- R Installation Resources: ([Video From Previous Class](https://montana.techsmithrelay.com/PPuw)) ([Guide from Earth Lab](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/setup-r-rstudio/)) ([Guide from DataCamp](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu))
 
 - Video Resources: 
 
-  - R Installation Resources: ([Video From Previous Class](https://montana.techsmithrelay.com/PPuw))
-  - R Markdown: [R Markdown Overview](https://montana.techsmithrelay.com/nh0C)
-  - R Studio: 
+
   
 - Reading Resources: 
-
-  - R Installation Resources: ([Guide from Earth Lab](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/setup-r-rstudio/)) ([Guide from DataCamp](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu))
-  - Intro to R: ([Modern Dive Ch. 1](https://moderndive.com/1-getting-started.html)) ([R 4 DS Ch. 1](https://r4ds.had.co.nz/introduction.html))
 
 
 __Lab:__ Lab 1
