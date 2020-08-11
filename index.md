@@ -106,7 +106,7 @@ A rough course schedule will be:
 __Weekly Overview:__ 
 
 - [Guide](https://stat408.github.io/Week1/)
-- Video
+- [Video](https://montana.techsmithrelay.com/n3Yh)
 
 
 __Virtual Materials:__
