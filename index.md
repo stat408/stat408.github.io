@@ -89,28 +89,45 @@ All course communcation will be posted as announcements on D2L. In the event tha
 
 ## Course Schedule
 
-The course will be taught from a flipped perspective. Lecture material will be provided as pre-recorded lectures. Tuesdays or Thursdays (depending on teh student) will be labs which focus on implementing the programming covered during the virtual lectures. 
+The course will be taught from a flipped perspective. Lecture material will be provided as pre-recorded lectures. Tuesdays or Thursdays (depending on the student) will be labs which focus on implementing the programming covered during the virtual lectures. 
 
 A rough course schedule will be:
 
-(5 weeks) R: Intro to R, R Studio, and R Markdown. Data input, cleaning, and merging.
-(6 weeks) Data Visualization Principles and Advanced R: ggplot2, RShiny, and statistical modeling.
-(3 weeks) SAS: data storage, manipulation, SAS procedures, and SAS macros.
+- (5 weeks) R: Intro to R, R Studio, and R Markdown. Data input, cleaning, and merging.
+- (6 weeks) Data Visualization Principles and Advanced R: ggplot2, RShiny, and statistical modeling.
+- (3 weeks) SAS: data storage, manipulation, SAS procedures, and SAS macros.
 
-### Week One (August 16 - 22): Course Overview
+#### Week One (August 16 - 22): Course Overview
+
+Weekly Overview: 
+
+- Guide
+- Video
 
 Virtual Materials:
 
+- Lecture Slides:
+
+  - [Lecture 1: Course Overview and Tidyverse Demo](https://stat408.github.io/Lecture1/)
+
 - R Installation Resources: ([Video From Previous Class](https://montana.techsmithrelay.com/PPuw)) ([Guide from Earth Lab](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/setup-r-rstudio/)) ([Guide from DataCamp](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu))
+
 - Video Resources: [R Markdown Overview](https://montana.techsmithrelay.com/nh0C)
+
+  - R Installation Resources: ([Video From Previous Class](https://montana.techsmithrelay.com/PPuw))
+  - R Markdown vid
+  - R Studio Vid
+  
 - Reading Resources: ([Modern Dive Ch. 1](https://moderndive.com/1-getting-started.html)) ([R 4 DS Ch. 1](https://r4ds.had.co.nz/introduction.html))
 
-
+  - R Installation Resources: ([Guide from Earth Lab](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/setup-r-rstudio/)) ([Guide from DataCamp](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu))
+  
 Lab:
 
-Homework: [HW 1](https://stat408.github.io/HW1)
+Homework: 
 
-- [Lecture 1: Course Overview and Tidyverse Demo](https://stat408.github.io/Lecture1/)
+- [HW 1](https://stat408.github.io/HW1)
+
 
 
 <!---
