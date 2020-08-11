@@ -128,6 +128,7 @@ __Virtual Materials:__
   - Intro to R: ([Modern Dive Ch. 1](https://moderndive.com/1-getting-started.html)) ([R 4 DS Ch. 1](https://r4ds.had.co.nz/introduction.html))
   - R Installation Resources: ([Guide from Earth Lab](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/setup-r-rstudio/)) ([Guide from DataCamp](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu))
   - R Markdown: [R Markdown Overview](https://rmarkdown.rstudio.com/lesson-1.html)
+  - Microsoft Teams: [MSU Download Link](http://www.montana.edu/office365/teams/index.html)
 
 
 __Lab:__ Lab 1
