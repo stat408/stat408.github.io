@@ -105,7 +105,7 @@ A rough course schedule will be:
 
 __Weekly Overview:__ 
 
-- Guide
+- [Guide](https://stat408.github.io/Week1/)
 - Video
 
 
@@ -115,11 +115,12 @@ __Virtual Materials:__
 
 - Video Resources: 
 
-  - R Installation Resources: ([Video From Previous Class](https://montana.techsmithrelay.com/PPuw))
+  - R and R Studio Installation: ([Video From Previous Class](https://montana.techsmithrelay.com/PPuw))
+  - R Studio Overview:
   - R Markdown: [R Markdown Overview](https://montana.techsmithrelay.com/nh0C)
-  - R Studio: 
+  - Microsoft Teams
   
-- Reading Resources: 
+- Reading and Online Resources: 
 
   - R Installation Resources: ([Guide from Earth Lab](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/setup-r-rstudio/)) ([Guide from DataCamp](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu))
   - Intro to R: ([Modern Dive Ch. 1](https://moderndive.com/1-getting-started.html)) ([R 4 DS Ch. 1](https://r4ds.had.co.nz/introduction.html))
