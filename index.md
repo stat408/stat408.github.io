@@ -115,9 +115,9 @@ __Virtual Materials:__
 
 - Video Resources: 
 
-  - R and R Studio Installation: ([Video From Previous Class](https://montana.techsmithrelay.com/PPuw))
+  - R and R Studio Installation: 
   - R Studio Overview:
-  - R Markdown: [R Markdown Overview](https://montana.techsmithrelay.com/nh0C)
+  - R Markdown: 
   - Microsoft Teams
   
 - Reading and Online Resources: 
