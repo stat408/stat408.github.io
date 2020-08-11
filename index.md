@@ -121,7 +121,7 @@ __Virtual Materials:__
   - [R and R Studio Installation](https://montana.techsmithrelay.com/mt5h)
   - [R Studio Overview](https://montana.techsmithrelay.com/5Meo)
   - [R Markdown](https://montana.techsmithrelay.com/FZTg)
-  - Microsoft Teams
+  - [Microsoft Teams](https://montana.techsmithrelay.com/6Uuf)
   
 - Reading and Online Resources: 
 
