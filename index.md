@@ -1,5 +1,7 @@
 ### Course Syllabus
 
+A PDF of the syllabus can be downloaded with this [link](https://github.com/stat408/syllabus/raw/master/syllabusF2020.pdf).
+
 This course provides an overview of statistical computation and graphical analysis. In particular,  R and SAS will be introduced in this course.
 
 ## Learning Outcomes:
