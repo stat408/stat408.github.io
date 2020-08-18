@@ -135,17 +135,17 @@ __Virtual Materials:__
 
 __Lab:__ [Lab 1](https://stat408.github.io/Lab1_2020/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lab1_2020/master/Lab1.Rmd))
 
-__Homework:__ [HW 1](https://stat408.github.io/HW1)
+__Homework:__ [HW 1](https://stat408.github.io/HW1) (Due Monday August 24 - submit via D2L)
 
 ---
 
-### Week Two (August 23 - 29): R Overview
+### Week Two (August 23 - 29): Tidyverse Overview
 
 --- 
 
 __Weekly Overview:__
 
-- Guide
+- [Guide]()
 - Video
 
 
@@ -167,19 +167,9 @@ __Lab:__
 __Homework:__ 
 
 <!---
-### Week One: Course Overview and Tidyverse
-Tuesday January 14: 
-- [Lecture 1: Course Overview and Tidyverse Demo](https://stat408.github.io/Lecture1/)
-
-Thursday January 16:
-- [HW1 due](https://stat408.github.io/HW1/)
-- R Installation Resources: ([Video From Previous Class](https://montana.techsmithrelay.com/PPuw)) ([Guide from Earth Lab](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/setup-r-rstudio/)) ([Guide from DataCamp](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu))
-- Video Resources: [R Markdown Overview](https://montana.techsmithrelay.com/nh0C)
-- Reading Resources: ([Modern Dive Ch. 1](https://moderndive.com/1-getting-started.html)) ([R 4 DS Ch. 1](https://r4ds.had.co.nz/introduction.html))
-- [Lab 1](https://stat408.github.io/Lab1/) ([Rmd Source File](https://github.com/stat408/Lab1/blob/master/Lab1.Rmd)) ([Lab 1 Key](https://github.com/stat408/Lab1/blob/master/Lab1.md))
 
 
-### Week Two: R Overview
+### Week Three (August 30 - September 5): R Overview
 
 Tuesday January 21:
 - [Lecture 2: R Overview](https://stat408.github.io/Lecture2/) ([Class Exercises Rmd File](https://github.com/stat408/Lecture2/blob/master/docs/Lect2_exercises.Rmd))
@@ -190,7 +180,7 @@ Thursday January 23:
 - Video Resources: ([Exploratory Graphics](https://montana.techsmithrelay.com/Vb8Y)) ([Data Subsetting](https://montana.techsmithrelay.com/5gvq)) ([Arithmetic in R](https://montana.techsmithrelay.com/cIhB))
 - [Lab 2](https://stat408.github.io/Lab2/) ([Rmd Source File](https://github.com/stat408/Lab2/blob/master/Lab2.Rmd))
 
-### Week Three: R workflow, style guide, and functions
+### Week Four (September 6 - September 12): R workflow, style guide, and functions
 
 Tuesday January 28:
 - [Lecture 3: R Style Guide and Debugging](https://stat408.github.io/Lecture3/) ([Class Exercises Rmd File](https://github.com/stat408/Lecture3/blob/master/docs/Lect3_ex.Rmd))
@@ -201,7 +191,7 @@ Thursday January 30:
  - Video Resources: ([Tables with R Markdown](https://montana.techsmithrelay.com/c3jo)) ([Debugging](https://montana.techsmithrelay.com/6guK)) ([Writing Functions](https://montana.techsmithrelay.com/nW0o)) ([if statements](https://montana.techsmithrelay.com/Ozms))
  - [Lab 3](https://stat408.github.io/Lab3/) ([Rmd Source File](https://github.com/stat408/Lab3/blob/master/Lab3.Rmd))
  
-### Week Four: Simulation
+### Week Five (September 13 - September 19): Simulation
 
 Tuesday February 4:
 - [Lecture 4: Simulation](https://stat408.github.io/Lecture4/) ([Class Exercises Rmd File](https://github.com/stat408/Lecture4/blob/master/docs/Lect4_ex.Rmd))
@@ -213,7 +203,7 @@ Thursday February 6:
  - [Lab 4](https://stat408.github.io/Lab4/) ([Rmd Source File](https://github.com/stat408/Lab4/blob/master/Lab4.Rmd))
 
 
-### Week Five: Data Visualization Principles
+### Week Six (September 20 - September 26): Data Visualization Principles
 
 Tuesday February 11:
 - [Lecture 5: Data Viz Principles](https://stat408.github.io/Lecture5/) ([Rmd Source File](https://github.com/stat408/Lecture5/blob/master/docs/index.Rmd)) ([Class Exercises Rmd File](https://github.com/stat408/Lecture5/blob/master/docs/Lect5_Ex.Rmd))
@@ -224,7 +214,7 @@ Thursday February 13:
 - Video Resources; ([Advanced R graphics](https://montana.techsmithrelay.com/NeBh))
 - [Lab 5](https://stat408.github.io/Lab5/) ([Rmd Source File](https://github.com/stat408/Lab5/blob/master/Lab5.Rmd))
 
-### Week Six: Advanced Data Visualization
+### Week Seven (September 27 - October 3): Advanced Data Visualization
 
 Tuesday February 18:
 - [Lecture 6: Advanced Data Viz](https://stat408.github.io/Lecture6/) ([Rmd Source File](https://github.com/stat408/Lecture6/blob/master/docs/index.Rmd)) ([Class Exercises Rmd File](https://github.com/stat408/Lecture6/blob/master/docs/Exercises.Rmd))
@@ -236,7 +226,7 @@ Thursday February 20:
 - [Lab 6](https://stat408.github.io/Lab6/) ([Rmd Source File](https://github.com/stat408/Lab6/blob/master/Lab6.Rmd))
 
 
-### Week Seven: Data Cleaning and Wrangling
+### Week Eight (October 4 - October 10): Data Cleaning and Wrangling
 
 Tuesday February 25:
 - [Lecture 7: Data Cleaning and Wrangling](https://stat408.github.io/Lecture7/) ([Rmd Source File](https://github.com/stat408/Lecture7/blob/master/docs/index.Rmd)) ([Class Exercises Rmd File](https://github.com/stat408/Lecture7/blob/master/docs/Exercises.Rmd))
@@ -247,7 +237,7 @@ Thursday February 27:
 - Video Resources: ([String Manipulation](https://montana.techsmithrelay.com/6lFT))
 - [Lab 7](https://stat408.github.io/Lab7/) ([Rmd Source File](https://github.com/stat408/Lab7/blob/master/Lab7.Rmd))
 
-### Week Eight: Maps, Merging, and More
+### Week Nine (October 11 - October 17): Maps, Merging, and More
 
 Tuesday March 3:
 - [Lecture 8: Maps, Merging, and More](https://stat408.github.io/Lecture8/) ([Rmd Source File](https://github.com/stat408/Lecture8/blob/master/docs/index.Rmd) ([Class Exercises](https://github.com/stat408/Lecture8/blob/master/docs/Exercises.md)) ([Class Exercises Rmd Source File](https://github.com/stat408/Lecture8/blob/master/docs/Exercises.Rmd))
@@ -258,7 +248,7 @@ Thursday March 5:
 - [Lab 8](https://stat408.github.io/Lab8/) ([Rmd Source File](https://github.com/stat408/Lab8/blob/master/Lab8.Rmd)) ([key](https://github.com/stat408/Lab8/blob/master/Lab8_key.Rmd))
 
 
-### Week Nine: Midterm Exam
+### Week Ten (October 18 - October 24) : Midterm Exam
 
 Tuesday March 10: 
 - Exam Review
@@ -270,13 +260,8 @@ Thursday March 12:
 Friday March 13:
 - [Take Home Exam Due](https://github.com/stat408/midterm/blob/master/Midterm_S2020.pdf) ([R Markdown Source Code](https://github.com/stat408/midterm/blob/master/Midterm_S2020.Rmd))
 
-### Week Ten
 
-Tuesday March 17: __No Class__
-
-Thursday March 19: __No Class__
-
-### Week Eleven: GitHub & Making an R Package
+### Week Eleven (October 25 - October 31): GitHub & Making an R Package
 
 Tuesday March 24: 
  - [Weekly Overview Video](https://montana.techsmithrelay.com/0LVx)
@@ -290,7 +275,7 @@ Tuesday March 24:
 Thursday March 26: __No Class__
 
 
-### Week Twelve: R Shiny
+### Week Twelve (November 1 - November 7) : R Shiny
 
 Tuesday March 31:
 - [HW 9 Due](https://stat408.github.io/HW9/)
@@ -303,7 +288,7 @@ Thursday April 2:
 - [Lab Video](https://montana.techsmithrelay.com/0usz)
 - [MT Map Video](https://montana.techsmithrelay.com/S7Pa)
 
-### Week Thirteen: Data Scraping & SQL
+### Week Thirteen (November 8 - November 14): Data Scraping & SQL
 
 Tuesday April 7:
 - [Weekly Overview Video](https://montana.techsmithrelay.com/rfA0)
@@ -320,7 +305,7 @@ Tuesday April 7:
 Thursday April 9:
 - [Virtual Class Lab Session](https://github.com/stat408/Lab10)([Google Meet Link](https://meet.google.com/nxv-edau-ddf)) ([Lab Video Recording](https://montana.techsmithrelay.com/QHkj))
 
-### Week Fourteen: SAS I
+### Week Fourteen (November 15 - November 21): SAS I
 
 Tuesday April 14:
 - [HW 11 Due](https://stat408.github.io/HW11/)
@@ -333,7 +318,7 @@ Tuesday April 14:
 Thursday April 16:
 - [Virtual Lab 11](https://stat408.github.io/Lab11/) ([Google Meet Link](https://meet.google.com/nxv-edau-ddf)) ([Lab Video Recording](https://montana.techsmithrelay.com/9kuI))
 
-### Week Fifteen: SAS II
+### Week Fifteen (Final Exam Week) November 22 -  : SAS II
 
 Tuesday April 21:
 - [HW 12 Due](https://stat408.github.io/HW12/)
