@@ -54,7 +54,7 @@ Course Evaluation:
 #### Collaboration
 University policy states that, unless otherwise specified, students may not collaborate on graded material. Any exceptions to this policy will be stated explicitly for individual assignments. If you have any questions about the limits of collaboration, you are expected to ask for clarification.
 
-In this class students are encouraged to collaborate on homework assignments, but exams should be completed without collaboration.
+In this class students are encouraged to collaborate on homework and lab assignments, but exams should be completed without collaboration.
 
 ####  Academic Misconduct
 Section 420 of the Student Conduct Code describes academic misconduct as including but not limited to plagiarism, cheating, multiple submissions, or facilitating others’ misconduct. Possible sanctions for academic misconduct range from an oral reprimand to expulsion from the university.
