@@ -1,4 +1,4 @@
-### Course Overview
+### Course Syllabus
 
 This course provides an overview of statistical computation and graphical analysis. In particular,  R and SAS will be introduced in this course.
 
