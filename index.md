@@ -139,7 +139,7 @@ __Homework:__ [HW 1](https://stat408.github.io/HW1) (Due Monday August 24 - subm
 
 ---
 
-### Week Two (August 23 - 29): Tidyverse Overview
+### Week Two (August 23 - 29): ggplot2
 
 --- 
 
@@ -152,7 +152,7 @@ __Weekly Overview:__
 __Virtual Materials:__
 
 - Lecture Slides: 
-
+   - [Lecture 2: ggplot2](https://stat408.github.io/Lecture2/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture2/master/docs/index.Rmd))
 
 - Video Resources: 
 
