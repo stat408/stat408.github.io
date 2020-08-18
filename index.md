@@ -161,7 +161,7 @@ __Virtual Materials:__
 - Reading Resources:
   - ggplot2: ([Modern Dive Ch. 2](https://moderndive.com/2-viz.html)) ([R 4 DS Ch. 3](https://r4ds.had.co.nz/data-visualisation.html))
   - [ggplot website + cheatsheet](https://ggplot2.tidyverse.org)
-  - [Data Carpentry ggplot](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html
+  - [Data Carpentry ggplot](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html)
 
 
 __Lab:__ 
