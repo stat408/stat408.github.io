@@ -133,9 +133,8 @@ __Virtual Materials:__
   - Microsoft Teams: [MSU Download Link](http://www.montana.edu/office365/teams/index.html)
 
 
-__Lab:__ [Lab 1](https://stat408.github.io/Lab1_2020/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lab1_2020/master/Lab1.Rmd))
+__In Class Activity:__ [Lab 1](https://stat408.github.io/Lab1_2020/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lab1_2020/master/Lab1.Rmd))
 
-__Homework:__ [HW 1](https://stat408.github.io/HW1) (Due Monday August 24 - submit via D2L)
 
 ---
 
@@ -143,10 +142,17 @@ __Homework:__ [HW 1](https://stat408.github.io/HW1) (Due Monday August 24 - subm
 
 --- 
 
+__Homework:__ [HW 1](https://stat408.github.io/HW1) (Due Monday August 24 - submit via D2L)
+
+
+__In Class Lab__ (based on Week One Material):
+
+
 __Weekly Overview:__
 
 - [Guide]()
 - Video
+
 
 
 __Virtual Materials:__
@@ -164,10 +170,39 @@ __Virtual Materials:__
   - [Data Carpentry ggplot](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html)
 
 
-__Lab:__ 
+---
+
+### Week Three (August 30 - September 6): R overview + dplyr
+
+--- 
+
+__Homework:__ HW 2 (Due 10 AM on assigned class day, submit via D2L)
+
+__In Class Lab:__
 
 
-__Homework:__ 
+__Weekly Overview:__
+
+- [Guide]()
+- Video
+
+
+
+
+__Virtual Materials:__
+
+- Lecture Slides: 
+   - [Lecture 2: ggplot2](https://stat408.github.io/Lecture2/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture2/master/docs/index.Rmd))
+
+- Video Resources: 
+
+
+  
+- Reading Resources:
+  - ggplot2: ([Modern Dive Ch. 2](https://moderndive.com/2-viz.html)) ([R 4 DS Ch. 3](https://r4ds.had.co.nz/data-visualisation.html))
+  - [ggplot website + cheatsheet](https://ggplot2.tidyverse.org)
+  - [Data Carpentry ggplot](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html)
+
 
 <!---
 
