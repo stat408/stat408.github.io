@@ -145,7 +145,7 @@ __In Class Activity:__ [Lab 1](https://stat408.github.io/Lab1_2020/) ([RMD Sourc
 __Homework:__ [HW 1](https://stat408.github.io/HW1) (Due Monday August 24 - submit via D2L)
 
 
-__In Class Lab__ (based on Week One Material):
+__In Class Lab__ (based on Week One Material): [Lab 2](https://stat408.github.io/Lab2/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lab2/master/Lab2.Rmd))
 
 
 __Weekly Overview:__
