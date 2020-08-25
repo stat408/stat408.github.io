@@ -104,15 +104,15 @@ __Virtual Materials:__
 
 - Lecture Slides:
   -  [R Overview](https://stat408.github.io/Lecture3/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture3/master/docs/index.Rmd))
-  - `dplyr`
+  -  [R Style](https://stat408.github.io/Lecture4/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture4/master/docs/index.Rmd))
+
 
 - Video Resources: 
 
-  
 - Reading Resources:
   - R overview:  ([R 4 DS Ch. 4](https://r4ds.had.co.nz/workflow-basics.html))
   - Data Wrangling: ([R 4 DS Ch. 5](https://r4ds.had.co.nz/transform.html)) ([Modern Dive Ch. 3](https://moderndive.com/3-wrangling.html))
-
+  - [dplyr website + cheatsheet](https://dplyr.tidyverse.org)
 
 __In Class Lab:__ 
 
