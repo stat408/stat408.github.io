@@ -62,8 +62,7 @@ __In Class Lab__ (based on Week One Material): [Lab 2](https://stat408.github.io
 
 __Weekly Overview:__
 
-- Guide
-- Video
+- [Guide](https://stat408.github.io/Week3/)
 
 __Homework:__ HW 2 (Due 10 AM on assigned class day, submit via D2L)
 
