@@ -89,12 +89,32 @@ __In Class Lab:__ [Lab 3](https://stat408.github.io/Lab3/) ([RMD Source Code](ht
 
 ---
 
-### Week Four (September 7 - September 13): R overview + dplyr
+### Week Four (September 7 - September 13): R overview + data wrangling (dplyr)
 
 --- 
 
 
+__Weekly Overview:__
 
+- Guide
+
+__Homework:__ 
+
+__Virtual Materials:__
+
+- Lecture Slides:
+  - R Overview
+  - `dplyr`
+
+- Video Resources: 
+
+  
+- Reading Resources:
+  - R overview:  ([R 4 DS Ch. 4](https://r4ds.had.co.nz/workflow-basics.html))
+  - Data Wrangling: ([R 4 DS Ch. 5](https://r4ds.had.co.nz/transform.html)) ([Modern Dive Ch. 3](https://moderndive.com/3-wrangling.html))
+
+
+__In Class Lab:__ 
 
 
 
