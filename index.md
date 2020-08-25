@@ -64,7 +64,7 @@ __Weekly Overview:__
 
 - [Guide](https://stat408.github.io/Week3/)
 
-__Homework:__ HW 2 (Due 10 AM on assigned class day, submit via D2L)
+__Homework:__ [HW 2](https://stat408.github.io/HW2/) (Due 10 AM on assigned class day, submit via D2L)
 
 __Virtual Materials:__
 
