@@ -83,7 +83,7 @@ __Virtual Materials:__
 
 
 
-__In Class Lab:__ [Lab 3](https://stat408.github.io/Lab3/) ([RMD Source Code)(https://raw.githubusercontent.com/stat408/Lab3/master/Lab3_F2020.Rmd))
+__In Class Lab:__ [Lab 3](https://stat408.github.io/Lab3/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lab3/master/Lab3_F2020.Rmd))
 
 
 
