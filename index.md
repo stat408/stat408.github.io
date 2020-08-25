@@ -116,7 +116,7 @@ __Virtual Materials:__
 
 __In Class Lab:__ 
 
-
+---
 
 <!---
 
@@ -299,7 +299,7 @@ Thursday April 30:
 
 --->
 
-### Course Syllabus
+## Course Syllabus
 
 A PDF of the syllabus can be downloaded with this [link](https://github.com/stat408/syllabus/raw/master/syllabusF2020.pdf).
 
