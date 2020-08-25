@@ -96,7 +96,7 @@ __In Class Lab:__ [Lab 3](https://stat408.github.io/Lab3/) ([RMD Source Code](ht
 
 __Weekly Overview:__
 
-- Guide
+- [Guide](https://stat408.github.io/Week4/)
 
 __Homework:__ 
 
