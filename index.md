@@ -98,7 +98,7 @@ __Weekly Overview:__
 
 - [Guide](https://stat408.github.io/Week4/)
 
-__Homework:__ 
+__Homework:__ [HW 3](https://stat408.github.io/HW3/) (Due 10 AM on assigned class day, submit via D2L)
 
 __Virtual Materials:__
 
