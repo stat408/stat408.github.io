@@ -89,7 +89,7 @@ __In Class Lab:__ [Lab 3](https://stat408.github.io/Lab3/) ([RMD Source Code](ht
 
 ---
 
-### Week Four (September 7 - September 13): R overview + data wrangling (dplyr)
+### Week Four (September 7 - September 13): R overview and style + data wrangling (dplyr)
 
 --- 
 
