@@ -103,7 +103,7 @@ __Homework:__
 __Virtual Materials:__
 
 - Lecture Slides:
-  - R Overview
+  -  [R Overview](https://stat408.github.io/Lecture3/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture3/master/docs/index.Rmd))
   - `dplyr`
 
 - Video Resources: 
