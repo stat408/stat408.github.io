@@ -108,7 +108,7 @@ __Virtual Materials:__
 
 
 - Video Resources:
-  - [R Overview]() (Note: this is a little longer ~ 36 minutes)
+  - [R Overview](https://montana.techsmithrelay.com/jUuX) (Note: this is a little longer ~ 36 minutes)
   - R Style
 
 - Reading Resources:
