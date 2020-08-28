@@ -89,7 +89,7 @@ __In Class Lab:__ [Lab 3](https://stat408.github.io/Lab3/) ([RMD Source Code](ht
 
 ---
 
-### Week Four (September 7 - September 13): R overview and style + data wrangling (dplyr)
+### Week Four (September 7 - September 13): R overview and style 
 
 --- 
 
@@ -107,7 +107,9 @@ __Virtual Materials:__
   -  [R Style](https://stat408.github.io/Lecture4/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture4/master/docs/index.Rmd))
 
 
-- Video Resources: 
+- Video Resources:
+  - [R Overview]() (Note: this is a little longer ~ 36 minutes)
+  - R Style
 
 - Reading Resources:
   - R overview:  ([R 4 DS Ch. 4](https://r4ds.had.co.nz/workflow-basics.html))
