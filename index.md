@@ -109,7 +109,7 @@ __Virtual Materials:__
 
 - Video Resources:
   - [R Overview](https://montana.techsmithrelay.com/jUuX) (Note: this is a little longer ~ 36 minutes)
-  - R Style
+  - [R Style](https://montana.techsmithrelay.com/O9z7) (~17 minutes)
 
 - Reading Resources:
   - R overview:  ([R 4 DS Ch. 4](https://r4ds.had.co.nz/workflow-basics.html))
