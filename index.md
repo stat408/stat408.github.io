@@ -56,7 +56,7 @@ __In Class Lab__ (based on Week One Material): [Lab 2](https://stat408.github.io
 
 ---
 
-### Week Three (August 30 - September 6): ggplot2
+### Week Three (August 30 - September 5): ggplot2
 
 --- 
 
@@ -89,7 +89,7 @@ __In Class Lab:__ [Lab 3](https://stat408.github.io/Lab3/) ([RMD Source Code](ht
 
 ---
 
-### Week Four (September 7 - September 13): R overview and style 
+### Week Four (September 6 - September 12): R overview and style 
 
 --- 
 
@@ -120,31 +120,105 @@ __In Class Lab:__
 
 ---
 
+
+---
+### Week Five (September 13 - September 19): Data Wrangling 1: Tidy Data and Relational Data
+---
+
+
+__Weekly Overview:__
+
+- Guide
+
+__Homework:__ HW 4 (Due 10 AM on assigned class day, submit via D2L)
+
+__Virtual Materials:__
+
+- Lecture Slides:
+  
+
+- Video Resources:
+  
+- Reading Resources:
+  - Tidy Data:  ([R 4 DS Ch. 12](https://r4ds.had.co.nz/tidy-data.html)) ([Modern Dive Ch. 3](https://moderndive.com/4-tidy.html))
+  - Relational Data ([R 4 DS CH.13](https://r4ds.had.co.nz/relational-data.html))
+
+__In Class Lab:__ 
+
+---
+
+---
+### Week Six (September 20 - September 26): Data Wrangling 2: Strings, Factors, Date/Time
+---
+
+__Weekly Overview:__
+
+- Guide
+
+__Homework:__ HW 5 (Due 10 AM on assigned class day, submit via D2L)
+
+__Virtual Materials:__
+
+- Lecture Slides:
+  
+
+- Video Resources:
+  
+- Reading Resources:
+  - Strings:  ([R 4 DS Ch. 14](https://r4ds.had.co.nz/strings.html))
+  - Factors: ([R 4 DS Ch. 15](https://r4ds.had.co.nz/factors.html))
+  - Dates and Times: ([R 4 DS CH.16](https://r4ds.had.co.nz/dates-and-times.html))
+  - [stringr website](https://stringr.tidyverse.org)
+  - [forcats website](https://forcats.tidyverse.org)
+  - [lubridate website](https://lubridate.tidyverse.org)
+
+__In Class Lab:__ 
+
+---
+
+---
+### Week Seven (September 27 - October 3): Data Visualization Principles + R Shiny  
+---
+
+---
+### Week Eight (October 4 - October 10): Midterm Exam
+---
+
+---
+### Week Nine (October 11 - October 17): Loops + Simulation
+---
+
+---
+### Week Ten (October 18 - October 24): Functions
+---
+
+---
+### Week Eleven (October 25 - October 31): Data Scraping & SQL
+---
+
+---
+### Week Twelve (November 1 - November 7): SAS I
+---
+
+- No Tuesday Class
+
+---
+### Week Thirteen (November 8 - November 14): SAS II
+---
+
+---
+### Week Fourteen (November 15 - November 21): SAS III
+---
+
+---
+### Week Fifteen (November 22 - ): 
+---
+- Final Exam
+
 <!---
 
 
-### Week Three (August 30 - September 5): R Overview
 
-Tuesday January 21:
-- [Lecture 2: R Overview](https://stat408.github.io/Lecture2/) ([Class Exercises Rmd File](https://github.com/stat408/Lecture2/blob/master/docs/Lect2_exercises.Rmd))
-
-Thursday January 23:
-- [HW2 due](https://stat408.github.io/HW2/) ([Rmd Source File](https://github.com/stat408/HW2/blob/master/HW2.Rmd))
-- Reading Resources: ([R 4 DS Ch. 6](https://r4ds.had.co.nz/workflow-scripts.html))
-- Video Resources: ([Exploratory Graphics](https://montana.techsmithrelay.com/Vb8Y)) ([Data Subsetting](https://montana.techsmithrelay.com/5gvq)) ([Arithmetic in R](https://montana.techsmithrelay.com/cIhB))
-- [Lab 2](https://stat408.github.io/Lab2/) ([Rmd Source File](https://github.com/stat408/Lab2/blob/master/Lab2.Rmd))
-
-### Week Four (September 6 - September 12): R workflow, style guide, and functions
-
-Tuesday January 28:
-- [Lecture 3: R Style Guide and Debugging](https://stat408.github.io/Lecture3/) ([Class Exercises Rmd File](https://github.com/stat408/Lecture3/blob/master/docs/Lect3_ex.Rmd))
-
-Thursday January 30:
- - [HW3 due](https://stat408.github.io/HW3/) ([Rmd Source File](https://github.com/stat408/HW3/blob/master/HW3.Rmd)
- - Reading Resoures: ([R 4 DS Ch. 4](https://r4ds.had.co.nz/workflow-basics.html)) ([R 4 DS Ch. 19](https://r4ds.had.co.nz/functions.html))
- - Video Resources: ([Tables with R Markdown](https://montana.techsmithrelay.com/c3jo)) ([Debugging](https://montana.techsmithrelay.com/6guK)) ([Writing Functions](https://montana.techsmithrelay.com/nW0o)) ([if statements](https://montana.techsmithrelay.com/Ozms))
- - [Lab 3](https://stat408.github.io/Lab3/) ([Rmd Source File](https://github.com/stat408/Lab3/blob/master/Lab3.Rmd))
- 
 ### Week Five (September 13 - September 19): Simulation
 
 Tuesday February 4:
@@ -168,28 +242,7 @@ Thursday February 13:
 - Video Resources; ([Advanced R graphics](https://montana.techsmithrelay.com/NeBh))
 - [Lab 5](https://stat408.github.io/Lab5/) ([Rmd Source File](https://github.com/stat408/Lab5/blob/master/Lab5.Rmd))
 
-### Week Seven (September 27 - October 3): Advanced Data Visualization
 
-Tuesday February 18:
-- [Lecture 6: Advanced Data Viz](https://stat408.github.io/Lecture6/) ([Rmd Source File](https://github.com/stat408/Lecture6/blob/master/docs/index.Rmd)) ([Class Exercises Rmd File](https://github.com/stat408/Lecture6/blob/master/docs/Exercises.Rmd))
-
-Thursday February 20:
-- [HW 6 due](https://stat408.github.io/HW6/) ([Rmd Source File](https://github.com/stat408/HW6/blob/master/HW6.Rmd)
-- Reading Resources: ([R 4 DS Ch.3](https://r4ds.had.co.nz/data-visualisation.html)) ([R 4 DS Ch. 7](https://r4ds.had.co.nz/exploratory-data-analysis.html)) 
-- Video Resources: ([ggplot](https://montana.techsmithrelay.com/qTYH))
-- [Lab 6](https://stat408.github.io/Lab6/) ([Rmd Source File](https://github.com/stat408/Lab6/blob/master/Lab6.Rmd))
-
-
-### Week Eight (October 4 - October 10): Data Cleaning and Wrangling
-
-Tuesday February 25:
-- [Lecture 7: Data Cleaning and Wrangling](https://stat408.github.io/Lecture7/) ([Rmd Source File](https://github.com/stat408/Lecture7/blob/master/docs/index.Rmd)) ([Class Exercises Rmd File](https://github.com/stat408/Lecture7/blob/master/docs/Exercises.Rmd))
-
-Thursday February 27:
-- [HW 7 due](https://github.com/stat408/HW7/blob/master/HW7.pdf) ([Rmd Source File](https://github.com/stat408/HW7/blob/master/HW7.Rmd))
-- Reading Resources: ([R 4 DS Ch. 12](https://r4ds.had.co.nz/tidy-data.html)) ([R 4 DS Ch.14](https://r4ds.had.co.nz/strings.html)) ([R 4 DS Ch.16](https://r4ds.had.co.nz/dates-and-times.html))
-- Video Resources: ([String Manipulation](https://montana.techsmithrelay.com/6lFT))
-- [Lab 7](https://stat408.github.io/Lab7/) ([Rmd Source File](https://github.com/stat408/Lab7/blob/master/Lab7.Rmd))
 
 ### Week Nine (October 11 - October 17): Maps, Merging, and More
 
