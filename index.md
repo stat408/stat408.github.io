@@ -143,6 +143,7 @@ __Virtual Materials:__
   - Data Wrangling: ([R 4 DS Ch. 5](https://r4ds.had.co.nz/transform.html)) ([Modern Dive Ch. 3](https://moderndive.com/3-wrangling.html))
   - [dplyr website + cheatsheet](https://dplyr.tidyverse.org)
   - Tidy Data:  ([R 4 DS Ch. 12](https://r4ds.had.co.nz/tidy-data.html)) ([Modern Dive Ch. 3](https://moderndive.com/4-tidy.html))
+  - [tidyr website + cheatsheet](https://tidyr.tidyverse.org)
   - Relational Data ([R 4 DS CH.13](https://r4ds.had.co.nz/relational-data.html))
 
 __In Class Lab:__ 
@@ -195,11 +196,11 @@ __In Class Lab:__
 ---
 
 ---
-### Week Eleven (October 25 - October 31): Data Scraping & SQL
+### Week Eleven (October 25 - October 31):  SAS I
 ---
 
 ---
-### Week Twelve (November 1 - November 7): SAS I
+### Week Twelve (November 1 - November 7):
 ---
 
 - No Tuesday Class
