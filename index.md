@@ -103,9 +103,8 @@ __Homework:__ [HW 3](https://stat408.github.io/HW3/) (Due 10 AM on assigned clas
 __Virtual Materials:__
 
 - Lecture Slides:
-  -  [R Overview](https://stat408.github.io/Lecture3/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture3/master/docs/index.Rmd))
-  -  [R Style](https://stat408.github.io/Lecture4/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture4/master/docs/index.Rmd))
-
+  -  [Lecture 3: R Overview](https://stat408.github.io/Lecture3/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture3/master/docs/index.Rmd))
+  -  [Lecture 4: R Style](https://stat408.github.io/Lecture4/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture4/master/docs/index.Rmd))
 
 - Video Resources:
   - [R Overview](https://montana.techsmithrelay.com/jUuX) (Note: this is a little longer ~ 36 minutes)
@@ -134,7 +133,8 @@ __Homework:__ HW 4 (Due 10 AM on assigned class day, submit via D2L)
 
 __Virtual Materials:__
 
-- Lecture Slides:
+- Lecture Slides: 
+   - [Lecture 5: Data Wrangling I](https://stat408.github.io/Lecture5/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture5/master/docs/index.Rmd))
   
 
 - Video Resources:
