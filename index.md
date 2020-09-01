@@ -138,6 +138,7 @@ __Virtual Materials:__
   
 
 - Video Resources:
+  - [Data Wrangling I](https://montana.techsmithrelay.com/lvgi) (~22 minutes)
   
 - Reading Resources:
   - Data Wrangling: ([R 4 DS Ch. 5](https://r4ds.had.co.nz/transform.html)) ([Modern Dive Ch. 3](https://moderndive.com/3-wrangling.html))
