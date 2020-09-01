@@ -74,18 +74,12 @@ __Virtual Materials:__
 - Video Resources: 
   - [ggplot2](https://montana.techsmithrelay.com/AhnV)
 
-  
 - Reading Resources:
   - ggplot2: ([Modern Dive Ch. 2](https://moderndive.com/2-viz.html)) ([R 4 DS Ch. 3](https://r4ds.had.co.nz/data-visualisation.html))
   - [ggplot website + cheatsheet](https://ggplot2.tidyverse.org)
   - [Data Carpentry ggplot](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html)
 
-
-
-
 __In Class Lab:__ [Lab 3](https://stat408.github.io/Lab3/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lab3/master/Lab3_F2020.Rmd))
-
-
 
 ---
 
@@ -119,15 +113,13 @@ __In Class Lab:__ [Lab 4](https://stat408.github.io/Lab4/) ([RMD Source Code](ht
 
 ---
 
-
 ---
 ### Week Five (September 13 - September 19): Data Wrangling 1: Tidy Data and Relational Data
 ---
 
-
 __Weekly Overview:__
 
-- Guide
+- [Guide](https://stat408.github.io/Week5/)
 
 __Homework:__ HW 4 (Due 10 AM on assigned class day, submit via D2L)
 
