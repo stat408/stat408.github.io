@@ -116,7 +116,7 @@ __Virtual Materials:__
   - [R Style Guide](http://adv-r.had.co.nz/Style.html)
   - [Google Style Guide](https://google.github.io/styleguide/Rguide.html)
 
-__In Class Lab:__ 
+__In Class Lab:__ [Lab 4](https://stat408.github.io/Lab4/) ([RMD Source Code](https://github.com/stat408/Lab4/blob/master/Lab4.Rmd))
 
 ---
 
