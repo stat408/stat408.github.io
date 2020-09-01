@@ -113,8 +113,8 @@ __Virtual Materials:__
 
 - Reading Resources:
   - R overview:  ([R 4 DS Ch. 4](https://r4ds.had.co.nz/workflow-basics.html))
-  - Data Wrangling: ([R 4 DS Ch. 5](https://r4ds.had.co.nz/transform.html)) ([Modern Dive Ch. 3](https://moderndive.com/3-wrangling.html))
-  - [dplyr website + cheatsheet](https://dplyr.tidyverse.org)
+  - [R Style Guide](http://adv-r.had.co.nz/Style.html)
+  - [Google Style Guide](https://google.github.io/styleguide/Rguide.html)
 
 __In Class Lab:__ 
 
@@ -140,6 +140,8 @@ __Virtual Materials:__
 - Video Resources:
   
 - Reading Resources:
+  - Data Wrangling: ([R 4 DS Ch. 5](https://r4ds.had.co.nz/transform.html)) ([Modern Dive Ch. 3](https://moderndive.com/3-wrangling.html))
+  - [dplyr website + cheatsheet](https://dplyr.tidyverse.org)
   - Tidy Data:  ([R 4 DS Ch. 12](https://r4ds.had.co.nz/tidy-data.html)) ([Modern Dive Ch. 3](https://moderndive.com/4-tidy.html))
   - Relational Data ([R 4 DS CH.13](https://r4ds.had.co.nz/relational-data.html))
 
