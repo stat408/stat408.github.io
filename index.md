@@ -121,7 +121,7 @@ __Weekly Overview:__
 
 - [Guide](https://stat408.github.io/Week5/)
 
-__Homework:__ HW 4 (Due 10 AM on assigned class day, submit via D2L)
+__Homework:__ [HW 4](https://stat408.github.io/HW4/) (Due 10 AM on assigned class day, submit via D2L)
 
 __Virtual Materials:__
 
@@ -139,7 +139,7 @@ __Virtual Materials:__
   - [tidyr website + cheatsheet](https://tidyr.tidyverse.org)
   - Relational Data ([R 4 DS CH.13](https://r4ds.had.co.nz/relational-data.html))
 
-__In Class Lab:__ 
+__In Class Lab:__ [Lab 5](https://stat408.github.io/Lab5/) ([RMD Source Code](https://github.com/stat408/Lab4/blob/master/Lab5.Rmd))
 
 ---
 
