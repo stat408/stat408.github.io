@@ -151,7 +151,7 @@ __Weekly Overview:__
 
 - [Guide](https://stat408.github.io/Week6/)
 
-__Homework:__ HW 5 (Due 10 AM on assigned class day, submit via D2L)
+__Homework:__ [HW 5](https://stat408.github.io/HW5/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/HW5/master/HW5.Rmd)) (Due 10 AM on assigned class day, submit via D2L)
 
 __Virtual Materials:__
 
