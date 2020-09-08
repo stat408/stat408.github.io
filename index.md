@@ -160,6 +160,7 @@ __Virtual Materials:__
 
 
 - Video Resources:
+  - [Data Wrangling II](https://montana.techsmithrelay.com/M3WM) (29 minutes)
   
 - Reading Resources:
   - Strings:  ([R 4 DS Ch. 14](https://r4ds.had.co.nz/strings.html))
