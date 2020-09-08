@@ -156,7 +156,8 @@ __Homework:__ [HW 5](https://stat408.github.io/HW5/) ([RMD Source Code](https://
 __Virtual Materials:__
 
 - Lecture Slides:
-  
+  - [Lecture 6: Data Wrangling II](https://stat408.github.io/Lecture6/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture6/master/docs/index.Rmd))
+
 
 - Video Resources:
   
