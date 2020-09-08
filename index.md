@@ -149,7 +149,7 @@ __In Class Lab:__ [Lab 5](https://stat408.github.io/Lab5/) ([RMD Source Code](ht
 
 __Weekly Overview:__
 
-- Guide
+- [Guide](https://stat408.github.io/Week6/)
 
 __Homework:__ HW 5 (Due 10 AM on assigned class day, submit via D2L)
 
