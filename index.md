@@ -139,7 +139,7 @@ __Virtual Materials:__
   - [tidyr website + cheatsheet](https://tidyr.tidyverse.org)
   - Relational Data ([R 4 DS CH.13](https://r4ds.had.co.nz/relational-data.html))
 
-__In Class Lab:__ [Lab 5](https://stat408.github.io/Lab5/) ([RMD Source Code](https://github.com/stat408/Lab4/blob/master/Lab5.Rmd))
+__In Class Lab:__ [Lab 5](https://stat408.github.io/Lab5/) ([RMD Source Code](https://github.com/stat408/Lab5/blob/master/Lab5.Rmd))
 
 ---
 
@@ -170,7 +170,7 @@ __Virtual Materials:__
   - [forcats website](https://forcats.tidyverse.org)
   - [lubridate website](https://lubridate.tidyverse.org)
 
-__In Class Lab:__ 
+__In Class Lab:__ [Lab 6](https://stat408.github.io/Lab6/) ([RMD Source Code](https://github.com/stat408/Lab6/blob/master/Lab6.Rmd))
 
 ---
 
