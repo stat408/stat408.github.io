@@ -178,6 +178,27 @@ __In Class Lab:__ [Lab 6](https://stat408.github.io/Lab6/) ([RMD Source Code](ht
 ### Week Seven (September 27 - October 3): Data Visualization Principles + R Shiny  
 ---
 
+__Weekly Overview:__
+
+- Guide
+
+__Homework:__ HW 6
+
+__Virtual Materials:__
+
+- Lecture Slides:
+  - Lecture 7: Data Viz
+  - Lecture 8: R Shiny
+
+- Video Resources:
+  - 
+  
+- Reading Resources:
+
+__In Class Lab:__ Lab 6
+
+
+
 ---
 ### Week Eight (October 4 - October 10): Midterm Exam
 ---
@@ -195,7 +216,7 @@ __In Class Lab:__ [Lab 6](https://stat408.github.io/Lab6/) ([RMD Source Code](ht
 ---
 
 ---
-### Week Twelve (November 1 - November 7):
+### Week Twelve (November 1 - November 7): 
 ---
 
 - No Tuesday Class
@@ -209,7 +230,7 @@ __In Class Lab:__ [Lab 6](https://stat408.github.io/Lab6/) ([RMD Source Code](ht
 ---
 
 ---
-### Week Fifteen (November 22 - ): 
+### Week Fifteen (November 22 - ): Final Exam
 ---
 - Final Exam
 
