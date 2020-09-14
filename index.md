@@ -192,7 +192,7 @@ __Virtual Materials:__
 
 - Video Resources:
   - [Data Viz Principles](https://montana.techsmithrelay.com/VGTQ) (23 min, volume is quieter)
-  - R Shiny
+  - [R Shiny](https://montana.techsmithrelay.com/TdIP) (8 min)
   
 - Reading Resources:
   - [R Shiny Tutorial](https://shiny.rstudio.com/tutorial/) (great info here, including a series of videos)
