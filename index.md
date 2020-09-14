@@ -180,14 +180,14 @@ __In Class Lab:__ [Lab 6](https://stat408.github.io/Lab6/) ([RMD Source Code](ht
 
 __Weekly Overview:__
 
-- Guide
+- [Guide](https://stat408.github.io/Week7/)
 
 __Homework:__ HW 6
 
 __Virtual Materials:__
 
 - Lecture Slides:
-  - Lecture 7: Data Viz
+  - [Lecture 7: Data Viz](https://stat408.github.io/Lecture7/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture7/master/docs/index.Rmd))
   - Lecture 8: R Shiny
 
 - Video Resources:
