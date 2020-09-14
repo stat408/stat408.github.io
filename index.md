@@ -187,13 +187,17 @@ __Homework:__ HW 6
 __Virtual Materials:__
 
 - Lecture Slides:
-  - [Lecture 7: Data Viz](https://stat408.github.io/Lecture7/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture7/master/docs/index.Rmd))
-  - Lecture 8: R Shiny
+  - [Lecture 7: Data Viz Principles](https://stat408.github.io/Lecture7/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture7/master/docs/index.Rmd))
+  - [Lecture 8: R Shiny](https://stat408.github.io/Lecture8/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture8/master/docs/index.Rmd))
 
 - Video Resources:
-  - 
+  - Data Viz Principles
+  - R Shiny
   
 - Reading Resources:
+  - [R Shiny Tutorial](https://shiny.rstudio.com/tutorial/) (great info here, including a series of videos)
+  - [R Shiny Cheatsheet](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf)
+  - [10 data viz practices for the web (or elsewhere)](https://www.webdesignerdepot.com/2018/07/10-data-visualization-best-practices-for-the-web/)
 
 __In Class Lab:__ Lab 6
 
