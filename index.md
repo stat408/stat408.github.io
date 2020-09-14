@@ -191,7 +191,7 @@ __Virtual Materials:__
   - [Lecture 8: R Shiny](https://stat408.github.io/Lecture8/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture8/master/docs/index.Rmd))
 
 - Video Resources:
-  - Data Viz Principles
+  - [Data Viz Principles](https://montana.techsmithrelay.com/VGTQ) (23 min, volume is quieter)
   - R Shiny
   
 - Reading Resources:
