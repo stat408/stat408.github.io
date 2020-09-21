@@ -207,6 +207,18 @@ __In Class Lab:__ [Lab 7](https://stat408.github.io/Lab7/) ([RMD Source Code](ht
 ### Week Eight (October 4 - October 10): Midterm Exam
 ---
 
+__Weekly Overview:__
+
+- There will be no class meetings, use the week to complete the take home midterm exam.
+
+
+__Study Materials:__
+  - 2020 spring midterm exam ([Take Home](https://github.com/stat408/oldexams/blob/master/Midterm_S2020.pdf)) ([In class](https://github.com/stat408/oldexams/blob/master/Midterm_S2020_inclass.pdf))
+  - [additional archived exams:](https://github.com/stat408/oldexams)
+
+__Take home Exam will be posted here__
+
+
 ---
 ### Week Nine (October 11 - October 17): Loops + Simulation
 ---
