@@ -182,7 +182,7 @@ __Weekly Overview:__
 
 - [Guide](https://stat408.github.io/Week7/)
 
-__Homework:__ HW 6
+__Homework:__ [HW 6](https://stat408.github.io/HW6/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/HW6/master/HW6.Rmd)) (Due 10 AM on assigned class day, submit via D2L)
 
 __Virtual Materials:__
 
