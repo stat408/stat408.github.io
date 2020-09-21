@@ -199,7 +199,7 @@ __Virtual Materials:__
   - [R Shiny Cheatsheet](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf)
   - [10 data viz practices for the web (or elsewhere)](https://www.webdesignerdepot.com/2018/07/10-data-visualization-best-practices-for-the-web/)
 
-__In Class Lab:__ Lab 6
+__In Class Lab:__ [Lab 7](https://stat408.github.io/Lab7/) ([RMD Source Code](https://github.com/stat408/Lab7/blob/master/Lab_Shiny.Rmd))
 
 
 
