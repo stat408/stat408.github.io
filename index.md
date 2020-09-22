@@ -216,7 +216,7 @@ __Study Materials:__
   - 2020 spring midterm exam ([Take Home](https://github.com/stat408/oldexams/blob/master/Midterm_S2020.pdf)) ([In class](https://github.com/stat408/oldexams/blob/master/Midterm_S2020_inclass.pdf))
   - [additional archived exams:](https://github.com/stat408/oldexams)
 
-__Take home Exam will be posted here__
+__Take home Exam will be posted Thursday October 1 at 1PM, exam will be due Thursday October 8 at 1 PM__
 
 
 ---
