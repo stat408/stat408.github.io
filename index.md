@@ -267,7 +267,7 @@ __In Class Lab:__
 ---
 
 ---
-### Week Twelve (November 1 - November 7): 
+### Week Twelve (November 1 - November 7): Project Q-and-A + leaflet
 ---
 
 - Tuesday: Election Day - no class, but vote!
