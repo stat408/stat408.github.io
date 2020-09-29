@@ -220,12 +220,47 @@ __Take home Exam will be posted Thursday October 1 at 1PM, exam will be due Thur
 
 
 ---
-### Week Nine (October 11 - October 17): Loops + Simulation
+### Week Nine (October 11 - October 17): Conditional Logic + Functions
 ---
 
+- Guide
+
+__Homework:__ 
+
+__Virtual Materials:__
+
+- Lecture Slides:
+  - [Lecture 9: Conditional Logic + Functions](https://stat408.github.io/Lecture9/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture9/master/docs/index.Rmd))
+
+- Video Resources:
+  - Conditional Logic and Functions
+  
+- Reading Resources:
+  - ([R 4 DS Ch. 19](https://r4ds.had.co.nz/functions.html))
+
+__In Class Lab:__ 
+
+
 ---
-### Week Ten (October 18 - October 24): Functions
+### Week Ten (October 18 - October 24): Loops + Simulation
 ---
+
+- Guide
+
+__Homework:__ 
+
+__Virtual Materials:__
+
+- Lecture Slides:
+  - [Lecture 10: Loops + Simulation](https://stat408.github.io/Lecture10/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture10/master/docs/index.Rmd))
+
+- Video Resources:
+  - Loops and Simulation
+  
+- Reading Resources:
+  - ([R 4 DS Ch. 21](https://r4ds.had.co.nz/iteration.html))
+
+__In Class Lab:__ 
 
 ---
 ### Week Eleven (October 25 - October 31):  SAS I
