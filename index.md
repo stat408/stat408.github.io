@@ -223,6 +223,7 @@ __Take home Exam will be posted Thursday October 1 at 1PM, exam will be due Thur
 ### Week Nine (October 11 - October 17): Conditional Logic + Functions
 ---
 
+__Weekly Overview:__
 - Guide
 
 __Homework:__ 
@@ -233,7 +234,7 @@ __Virtual Materials:__
   - [Lecture 9: Conditional Logic + Functions](https://stat408.github.io/Lecture9/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture9/master/docs/index.Rmd))
 
 - Video Resources:
-  - Conditional Logic and Functions
+  - [Conditional Logic and Functions](https://montana.techsmithrelay.com/DtiC)
   
 - Reading Resources:
   - ([R 4 DS Ch. 19](https://r4ds.had.co.nz/functions.html))
