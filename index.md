@@ -199,7 +199,7 @@ __Virtual Materials:__
   - [R Shiny Cheatsheet](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf)
   - [10 data viz practices for the web (or elsewhere)](https://www.webdesignerdepot.com/2018/07/10-data-visualization-best-practices-for-the-web/)
 
-__In Class Lab:__ [Lab 7](https://stat408.github.io/Lab7/) ([RMD Source Code](https://github.com/stat408/Lab7/blob/master/Lab_Shiny.Rmd))
+__In Class Lab:__ [Lab 7](https://stat408.github.io/Lab7/) ([RMD Source Code](https://github.com/stat408/Lab7/blob/master/Lab_Shiny.Rmd)) ([LAB KEY](https://github.com/stat408/Lab7/blob/master/Lab9_ShinyKey.Rmd))
 
 
 
@@ -217,6 +217,8 @@ __Study Materials:__
   - [additional archived exams:](https://github.com/stat408/oldexams)
 
 __Take home Exam will be posted Thursday October 1 at 1PM, exam will be due Thursday October 8 at 1 PM__
+
+  - MIDTERM ([PDF](https://github.com/stat408/midterm_f2020/blob/master/Midterm_F2020.pdf)) ([Rmd Source Code](https://raw.githubusercontent.com/stat408/midterm_f2020/master/Midterm_F2020.Rmd))
 
 
 ---
