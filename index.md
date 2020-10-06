@@ -247,10 +247,10 @@ __In Class Lab:__
 ---
 ### Week Ten (October 18 - October 24): Loops + Simulation
 ---
+__Weekly Overview:__
+- [Guide](https://stat408.github.io/Week10/)
 
-- Guide
-
-__Homework:__ 
+__Homework:__ [HW 8](https://stat408.github.io/HW8/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/HW8/master/HW8.Rmd)) (Due 10 AM on assigned class day, submit via D2L)
 
 __Virtual Materials:__
 
