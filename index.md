@@ -228,7 +228,7 @@ __Take home Exam will be posted Thursday October 1 at 1PM, exam will be due Thur
 __Weekly Overview:__
 - [Guide](https://stat408.github.io/Week9/)
 
-__Homework:__ 
+__Homework:__ [HW 7](https://stat408.github.io/HW7/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/HW7/master/HW7.Rmd)) (Due 10 AM on assigned class day, submit via D2L)
 
 __Virtual Materials:__
 
