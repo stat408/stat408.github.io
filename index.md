@@ -241,7 +241,7 @@ __Virtual Materials:__
 - Reading Resources:
   - ([R 4 DS Ch. 19](https://r4ds.had.co.nz/functions.html))
 
-__In Class Lab:__ 
+__In Class Lab:__ [Lab 8](https://stat408.github.io/Lab8/) ([RMD Source Code](https://github.com/stat408/Lab8/blob/master/Lab8.Rmd))
 
 
 ---
