@@ -226,7 +226,7 @@ __Take home Exam will be posted Thursday October 1 at 1PM, exam will be due Thur
 ---
 
 __Weekly Overview:__
-- Guide
+- [Guide](https://stat408.github.io/Week9/)
 
 __Homework:__ 
 
