@@ -263,7 +263,7 @@ __Virtual Materials:__
 - Reading Resources:
   - ([R 4 DS Ch. 21](https://r4ds.had.co.nz/iteration.html))
 
-__In Class Lab:__ 
+__In Class Lab:__ [Lab 9](https://stat408.github.io/Lab9/) ([RMD Source Code](https://github.com/stat408/Lab9/blob/master/Lab9.Rmd))
 
 ---
 ### Week Eleven (October 25 - October 31):  SAS I
