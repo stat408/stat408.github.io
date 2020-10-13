@@ -258,7 +258,7 @@ __Virtual Materials:__
   - [Lecture 10: Loops + Simulation](https://stat408.github.io/Lecture10/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture10/master/docs/index.Rmd))
 
 - Video Resources:
-  - Loops and Simulation
+  - [Loops and Simulation](https://montana.techsmithrelay.com/3Lny)
   
 - Reading Resources:
   - ([R 4 DS Ch. 21](https://r4ds.had.co.nz/iteration.html))
@@ -270,7 +270,7 @@ __In Class Lab:__
 ---
 
 ---
-### Week Twelve (November 1 - November 7): Project Q-and-A + leaflet
+### Week Twelve (November 1 - November 7): Project Q-and-A 
 ---
 
 - Tuesday: Election Day - no class, but vote!
