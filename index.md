@@ -273,7 +273,7 @@ __Weekly Overview:__
 - [Guide](https://stat408.github.io/Week11/)
 - [SAS Registration Info](https://stat408.github.io/SAS/)
 
-__Homework:__ HW 9
+__Homework:__ [HW 9](https://stat408.github.io/HW9/) 
 
 __Virtual Materials:__
 
@@ -284,6 +284,7 @@ __Virtual Materials:__
   - [Create a SAS Profile](https://video.sas.com/detail/video/4567854444001/sas-ondemand-for-academics:-profile-creation-student-edition)
   - [Enrolling in SAS Course](https://video.sas.com/detail/video/4567828824001/sas-ondemand-for-academics:-enrollment-link-student-edition)
   - [Overview of SAS, Part 1](https://montana.techsmithrelay.com/4U3a) 
+  - [Premiere Rush Overview](https://helpx.adobe.com/premiere-rush/how-to/premiere-rush-fundamentals.html?playlist=/services/playlist.helpx/products:SG_RUSH/learn-path:key-techniques/playlist:topic/set-header:rush-get-started/en_us.json&ref=helpx.adobe.com)
   
 
 __In Class Lab:__ Lab 10
