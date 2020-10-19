@@ -270,7 +270,7 @@ __In Class Lab:__ [Lab 9](https://stat408.github.io/Lab9/) ([RMD Source Code](ht
 ---
 
 __Weekly Overview:__
-- Guide
+- [Guide](https://stat408.github.io/Week11/)
 - [SAS Registration Info](https://stat408.github.io/SAS/)
 
 __Homework:__ HW 9
