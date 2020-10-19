@@ -273,7 +273,7 @@ __Weekly Overview:__
 - [Guide](https://stat408.github.io/Week11/)
 - [SAS Registration Info](https://stat408.github.io/SAS/)
 
-__Homework:__ [HW 9](https://stat408.github.io/HW9/) 
+__Homework:__ [HW 9](https://stat408.github.io/HW9/) (Due 10 AM on assigned class day, submit via D2L)
 
 __Virtual Materials:__
 
@@ -293,6 +293,8 @@ __In Class Lab:__ [Lab 10](https://stat408.github.io/Lab10/) + brief overview of
 ---
 ### Week Twelve (November 1 - November 7): Project Q-and-A 
 ---
+
+__Homework:__ [HW 10](https://stat408.github.io/HW10/) (Due 10 AM on Thursday for all students, submit via D2L)
 
 - Tuesday: Election Day - no class, but vote!
 - Thursday: Adobe Premiere Rush Q-and-A (_for all students_)
