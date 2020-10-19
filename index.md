@@ -287,7 +287,7 @@ __Virtual Materials:__
   - [Premiere Rush Overview](https://helpx.adobe.com/premiere-rush/how-to/premiere-rush-fundamentals.html?playlist=/services/playlist.helpx/products:SG_RUSH/learn-path:key-techniques/playlist:topic/set-header:rush-get-started/en_us.json&ref=helpx.adobe.com)
   
 
-__In Class Lab:__ Lab 10
+__In Class Lab:__ [Lab 10](https://stat408.github.io/Lab10/) + brief overview of Adobe Premiere Rush
 
 
 ---
