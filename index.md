@@ -269,6 +269,27 @@ __In Class Lab:__ [Lab 9](https://stat408.github.io/Lab9/) ([RMD Source Code](ht
 ### Week Eleven (October 25 - October 31):  SAS I
 ---
 
+__Weekly Overview:__
+- Guide
+- [SAS Registration Info](https://stat408.github.io/SAS/)
+
+__Homework:__ HW 9
+
+__Virtual Materials:__
+
+- Lecture Slides:
+  - Lecture 11: SAS Part I
+
+- Video Resources:
+  - [Create a SAS Profile](https://video.sas.com/detail/video/4567854444001/sas-ondemand-for-academics:-profile-creation-student-edition)
+  - [Enrolling in SAS Course](https://video.sas.com/detail/video/4567828824001/sas-ondemand-for-academics:-enrollment-link-student-edition)
+  
+- Reading Resources:
+  - 
+
+__In Class Lab:__ Lab 10
+
+
 ---
 ### Week Twelve (November 1 - November 7): Project Q-and-A 
 ---
