@@ -278,14 +278,13 @@ __Homework:__ HW 9
 __Virtual Materials:__
 
 - Lecture Slides:
-  - Lecture 11: SAS Part I
+  - [SAS Part I](https://stat408.github.io/Lecture13/) (Note slides and videos were prepared for last spring's class, but beyond the date on the slides, everything else is applicable here)
 
 - Video Resources:
   - [Create a SAS Profile](https://video.sas.com/detail/video/4567854444001/sas-ondemand-for-academics:-profile-creation-student-edition)
   - [Enrolling in SAS Course](https://video.sas.com/detail/video/4567828824001/sas-ondemand-for-academics:-enrollment-link-student-edition)
+  - [Overview of SAS, Part 1](https://montana.techsmithrelay.com/4U3a) 
   
-- Reading Resources:
-  - 
 
 __In Class Lab:__ Lab 10
 
