@@ -272,6 +272,7 @@ __In Class Lab:__ [Lab 9](https://stat408.github.io/Lab9/) ([RMD Source Code](ht
 __Weekly Overview:__
 - [Guide](https://stat408.github.io/Week11/)
 - [SAS Registration Info](https://stat408.github.io/SAS/)
+- [SAS Login Link](https://welcome.oda.sas.com/login)
 
 __Homework:__ [HW 9](https://stat408.github.io/HW9/) (Due 10 AM on assigned class day, submit via D2L)
 
