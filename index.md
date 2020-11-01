@@ -112,8 +112,6 @@ __Virtual Materials:__
 __In Class Lab:__ [Lab 4](https://stat408.github.io/Lab4/) ([RMD Source Code](https://github.com/stat408/Lab4/blob/master/Lab4.Rmd))
 
 ---
-
----
 ### Week Five (September 13 - September 19): Data Wrangling 1: Tidy Data and Relational Data
 ---
 
@@ -140,8 +138,6 @@ __Virtual Materials:__
   - Relational Data ([R 4 DS CH.13](https://r4ds.had.co.nz/relational-data.html))
 
 __In Class Lab:__ [Lab 5](https://stat408.github.io/Lab5/) ([RMD Source Code](https://github.com/stat408/Lab5/blob/master/Lab5.Rmd))
-
----
 
 ---
 ### Week Six (September 20 - September 26): Data Wrangling 2: Strings, Factors, Date/Time
@@ -172,7 +168,6 @@ __Virtual Materials:__
 
 __In Class Lab:__ [Lab 6](https://stat408.github.io/Lab6/) ([RMD Source Code](https://github.com/stat408/Lab6/blob/master/Lab6.Rmd))
 
----
 
 ---
 ### Week Seven (September 27 - October 3): Data Visualization Principles + R Shiny  
