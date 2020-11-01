@@ -312,9 +312,11 @@ __Virtual Materials:__
 
 - Lecture Slides:
   - [SAS Part II](https://stat408.github.io/Lecture14/)
+  - [Proc SQL](https://stat408.github.io/Lecture16/) (SAS Macros are optional)
 
 - Video Resources:
   - Overview of SAS, Part II
+  - Overview of Proc SQL
   
 
 __In Class Lab:__ Lab 11
