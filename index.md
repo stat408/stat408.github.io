@@ -311,7 +311,7 @@ __Homework:__ HW 11
 __Virtual Materials:__
 
 - Lecture Slides:
-  - SAS Part II
+  - [SAS Part II](https://stat408.github.io/Lecture14/)
 
 - Video Resources:
   - Overview of SAS, Part II
@@ -333,7 +333,7 @@ __Homework:__ HW 12
 __Virtual Materials:__
 
 - Lecture Slides:
-  - SAS Part III
+  -[SAS Part III](https://stat408.github.io/Lecture15/)
 
 - Video Resources:
   - Overview of SAS, Part III
