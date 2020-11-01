@@ -308,9 +308,42 @@ __Homework:__ [HW 10](https://stat408.github.io/HW10/) (Due 10 AM on Thursday fo
 ### Week Thirteen (November 8 - November 14): SAS II
 ---
 
+__Weekly Overview:__
+- Guide
+
+__Homework:__ HW 11
+
+__Virtual Materials:__
+
+- Lecture Slides:
+  - SAS Part II
+
+- Video Resources:
+  - Overview of SAS, Part II
+  
+
+__In Class Lab:__ Lab 11
+
 ---
 ### Week Fourteen (November 15 - November 21): SAS III
 ---
+
+__November 15: Project Due Data #1__
+
+__Weekly Overview:__
+- Guide
+
+__Homework:__ HW 12
+
+__Virtual Materials:__
+
+- Lecture Slides:
+  - SAS Part III
+
+- Video Resources:
+  - Overview of SAS, Part III
+  
+__In Class Lab:__ Lab 12
 
 ---
 ### Week Fifteen (November 22 - ): Final Exam
