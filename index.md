@@ -307,7 +307,7 @@ __Weekly Overview:__
 - [Guide](https://stat408.github.io/Week13/)
 
 
-__Homework:__ HW 11
+__Homework:__ [HW 11](https://stat408.github.io/HW11/) (Due 10 AM on day of class, submit via D2L)
 
 __Virtual Materials:__
 
@@ -316,7 +316,7 @@ __Virtual Materials:__
   - [Proc SQL](https://stat408.github.io/Lecture16/) (SAS Macros are optional)
 
 - Video Resources:
-  - Overview of SAS, Part II
+  - [Overview of SAS, Part II](https://montana.techsmithrelay.com/kGmd)
   - Overview of Proc SQL
   
 
