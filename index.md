@@ -317,20 +317,19 @@ __Virtual Materials:__
 
 - Video Resources:
   - [Overview of SAS, Part II](https://montana.techsmithrelay.com/kGmd)
-  - Overview of Proc SQL
+  - [Overview of Proc SQL](https://montana.techsmithrelay.com/676W)
   
 
-__In Class Lab:__ Lab 11
+__In Class Lab:__ [Lab 11](https://stat408.github.io/Lab10/)
 
 ---
 ### Week Fourteen (November 15 - November 21): SAS III
 ---
 
-__November 15: Project Due Data #1__
+__November 15: Project Due Date #1__
 
 __Weekly Overview:__
 - Guide
-- __TUESDAY CLASS ONLY__
 
 __Homework:__ HW 12
 
