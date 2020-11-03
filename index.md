@@ -304,7 +304,8 @@ __Homework:__ [HW 10](https://stat408.github.io/HW10/) (Due 10 AM on Thursday fo
 ---
 
 __Weekly Overview:__
-- Guide
+- [Guide](https://stat408.github.io/Week13/)
+
 
 __Homework:__ HW 11
 
@@ -329,6 +330,7 @@ __November 15: Project Due Data #1__
 
 __Weekly Overview:__
 - Guide
+- __TUESDAY CLASS ONLY__
 
 __Homework:__ HW 12
 
