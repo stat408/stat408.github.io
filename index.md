@@ -329,9 +329,9 @@ __In Class Lab:__ [Lab 11](https://stat408.github.io/Lab11/)
 __November 15: Project Due Date #1__
 
 __Weekly Overview:__
-- Guide
+- [Guide](https://stat408.github.io/Week14/)
 
-__Homework:__ HW 12
+__Homework:__ [HW 12](https://stat408.github.io/HW11/) (Due 10 AM on day of class)
 
 __Virtual Materials:__
 
@@ -339,14 +339,15 @@ __Virtual Materials:__
   - [SAS Part III](https://stat408.github.io/Lecture15/)
 
 - Video Resources:
-  - Overview of SAS, Part III
+  - [Overview of SAS, Part III](https://montana.techsmithrelay.com/Hc5Q)
   
 __In Class Lab:__ [Lab 12](https://stat408.github.io/Lab12/)
 
 ---
 ### Week Fifteen (November 22 - ): Final Exam
 ---
-- Take Home Final Exam
+- Take Home Final Exam: (material covered may be slightly different)
+  - [LAST YEAR'S FINAL EXAM](https://github.com/stat408/final_exam/blob/master/Final_S2020.pdf) ([RMD Source Code](https://github.com/stat408/final_exam/blob/master/Final_S2020.Rmd))
 - Final Project Due
 
 
