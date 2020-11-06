@@ -296,6 +296,8 @@ __Weekly Overview:__
 
 __Homework:__ [HW 10](https://stat408.github.io/HW10/) (Due 10 AM on Thursday for all students, submit via D2L)
 
+- [Video Recording of Rush Demo](https://montana.techsmithrelay.com/zo8D)
+
 - Tuesday: Election Day - no class, but vote!
 - Thursday: Adobe Premiere Rush Q-and-A (_for all students_)
 
