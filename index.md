@@ -333,7 +333,7 @@ __November 15: Project Due Date #1__
 __Weekly Overview:__
 - [Guide](https://stat408.github.io/Week14/)
 
-__Homework:__ [HW 12](https://stat408.github.io/HW11/) (Due 10 AM on day of class)
+__Homework:__ [HW 12](https://stat408.github.io/HW12/) (Due 10 AM on day of class)
 
 __Virtual Materials:__
 
