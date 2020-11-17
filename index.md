@@ -348,8 +348,8 @@ __In Class Lab:__ [Lab 12](https://stat408.github.io/Lab12/)
 ---
 ### Week Fifteen (November 22 - ): Final Exam
 ---
-- Take Home Final Exam: (material covered may be slightly different)
-  - [LAST YEAR'S FINAL EXAM](https://github.com/stat408/final_exam/blob/master/Final_S2020.pdf) ([RMD Source Code](https://github.com/stat408/final_exam/blob/master/Final_S2020.Rmd))
+- [Take Home Final Exam](https://github.com/stat408/final_exam/blob/master/Final_F2020.pdf) ([RMD Source Code](https://raw.githubusercontent.com/stat408/final_exam/master/Final_F2020.Rmd))
+  
 - Final Project Due
 
 
