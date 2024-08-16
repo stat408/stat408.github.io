@@ -7,64 +7,25 @@
 __Weekly Overview:__ 
 
 - [Guide](https://stat408.github.io/Week1/)
+- [Course Syllabus]()
 
 ---
 
-### Week Two (August 24 - 30): Course Overview
+### Week Two (August 24 - 30): ggplot
 
 ---
-
-__Weekly Overview:__ 
-
-- [Guide](https://stat408.github.io/Week1/)
-
----
-
-__Virtual Materials:__
-
-- Lecture Slides: 
-  - [Lecture 1: Course Overview and Tidyverse Demo](https://stat408.github.io/Lecture1/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lecture1/master/docs/index.Rmd))
-  - [Tidyverse Video](https://montana.techsmithrelay.com/hho8)
-
-- Video Resources: 
-
-  - [R and R Studio Installation](https://montana.techsmithrelay.com/mt5h)
-  - [R Studio Overview](https://montana.techsmithrelay.com/5Meo)
-  - [R Markdown](https://montana.techsmithrelay.com/FZTg)
-  - [Microsoft Teams](https://montana.techsmithrelay.com/6Uuf)
-  
-- Reading and Online Resources: 
-
-  - Intro to R: ([Modern Dive Ch. 1](https://moderndive.com/1-getting-started.html)) ([R 4 DS Ch. 1](https://r4ds.had.co.nz/introduction.html))
-  - R Installation Resources: ([Guide from Earth Lab](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/setup-r-rstudio/)) ([Guide from DataCamp](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu))
-  - R Markdown: [R Markdown Overview](https://rmarkdown.rstudio.com/lesson-1.html)
-  - Microsoft Teams: [MSU Download Link](http://www.montana.edu/office365/teams/index.html)
-
-
-__In Class Activity:__ [Lab 1](https://stat408.github.io/Lab1_2020/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lab1_2020/master/Lab1.Rmd))
 
 
 ---
 
-### Week Two (August 23 - 29): Tidyverse Overview
+### Week Three (August 31 - September 6): Workflow: basics and coding
 
 --- 
 
-__Weekly Overview:__
-
-- [Guide]( https://stat408.github.io/Week2/)
-
-
-__Homework:__ [HW 1](https://stat408.github.io/HW1) (Due Monday August 24 - submit via D2L)
-
-
-__In Class Lab__ (based on Week One Material): [Lab 2](https://stat408.github.io/Lab2/) ([RMD Source Code](https://raw.githubusercontent.com/stat408/Lab2/master/Lab2.Rmd))
-
-
 
 ---
 
-### Week Three (August 30 - September 5): ggplot2
+### Week Four (September 7 - September 13): dplyr (data transformation)
 
 --- 
 
