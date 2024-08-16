@@ -1,3 +1,78 @@
+## Course Syllabus
+
+A PDF of the syllabus can be downloaded with this [link](https://github.com/stat408/syllabus/raw/master/syllabusF2020.pdf).
+
+This course provides an overview of statistical computation and data visualization.
+
+## Learning Outcomes:
+
+Students will:
+
+1. To become literate in statistical programming using R and SAS,
+
+2. To learn to effectively communicate through visual presentation of data, and
+
+3. To understand and imitate good programming practices.
+
+## Prerequisites
+
+- STAT 337, or equivalent.
+
+
+## Textbooks and Resources (all optional or free)
+
+1. R for Data Science, 2nd Edition, by Hadley Wickham, Mine Cetinkaya-Rundel, and Garret Grolemund. Free at [https://r4ds.hadley.nz](https://r4ds.hadley.nz)
+
+---
+
+1. ModernDive: An introduction to Statistical and Data Sciences via R, by Chester Ismay and Albert Kim. Free at [http://moderndive.com](http://moderndive.com)
+
+2. Visualize This: The FlowingData Guide to Design, Visualization, and Statistics, by Nathan Yau, 2011.
+
+3. The Art of R Programming: A Tour of Statistical Software Design, by Norman Matloff, 2011,
+
+4. R cheatsheets. https://www.rstudio.com/resources/cheatsheets/
+
+
+## Course Schedule
+
+The course will be taught from a flipped perspective. Prior to attending class on Tuesdays, students will watch short online videos and submit homework assignments. Tuesdays will review online video lectures and include interactive computing components. Thursdays will be group labs which focus on implementing the programming covered during the  week. 
+
+## Course Policies
+
+
+#### Grading Policy
+
+Course Evaluation:
+
+- **5%** of your grade will be determined by short weekly homework assignments that correspond to watching online videos. Homework will be collected via gradescope.
+
+- **25%** of your grade will be determined by group labs. Labs will be in-class group assignments conducted every Thursday. The labs will be designed to be completed in 75 minutes; however, there may be times that groups need to finish labs outside of class time. Labs will be submitted via gradescope. 
+
+- **25%** of your grade will be determined by a midterm exam. The midterm exam will have two parts: an in class exam and a take home portion.
+
+- **25%** of your grade will be determined by a final exam. The final exam will have two parts: an in class exam and a take home portion.
+
+- **20%** of your grade will be determined by a course project. The course project will focus on advanced data visualization to create a dashboard using R Shiny.
+
+
+#### Collaboration
+University policy states that, unless otherwise specified, students may not collaborate on graded material. Any exceptions to this policy will be stated explicitly for individual assignments. If you have any questions about the limits of collaboration, you are expected to ask for clarification.
+
+In this class students are encouraged to collaborate on labs and homework assignments, but exams should be completed without collaboration. Additionally the course project can be completed in groups of up to 3 students.
+
+####  Citing Sources
+
+When submitting work, please cite all sources and inspiration for your submission.
+
+####  Academic Misconduct
+Section 420 of the Student Conduct Code describes academic misconduct as including but not limited to plagiarism, cheating, multiple submissions, or facilitating others’ misconduct. Possible sanctions for academic misconduct range from an oral reprimand to expulsion from the university.
+
+#### Disabilities Policy
+
+Federal law mandates the provision of services at the university-level to qualified students with disabilities. If you have a documented disability for which you are or may be requesting an accommodation(s), you are encouraged to contact the Office of Disability Services and the instructor as soon as possible.
+
+
 ---
 
 ### Week One (August 18 - 24): Course Overview
@@ -32,7 +107,7 @@ Reading Resources:
 
 ---
 
-### Week Four (September 8 - September 14): dplyr (data transformation) & Tidy Data
+### Week Four (September 8 - September 14): dplyr (data transformation) & Tidy Data & Joining Data
 
 --- 
 
@@ -87,7 +162,7 @@ Reading Resources:
 ---
 
 ---
-### Week Thirteen (November 10 - November 16): Advanced data importing
+### Week Thirteen (November 10 - November 16): Advanced data 
 ---
 
 ---
@@ -110,10 +185,11 @@ Reading Resources:
 
 ---
 
+<!---
+
 ### Week One (August 16 - 22): Course Overview
 
 ---
-<!---
 __Weekly Overview:__ 
 
 - [Guide](https://stat408.github.io/Week1/)
@@ -461,104 +537,3 @@ __In Class Lab:__ [Lab 12](https://stat408.github.io/Lab12/)
 ---
 ---
 
-## Course Syllabus
-
-A PDF of the syllabus can be downloaded with this [link](https://github.com/stat408/syllabus/raw/master/syllabusF2020.pdf).
-
-This course provides an overview of statistical computation and graphical analysis. In particular,  R and SAS will be introduced in this course.
---->
-
-## Learning Outcomes:
-
-Students will:
-
-1. To become literate in statistical programming using R and SAS,
-
-2. To learn to effectively communicate through visual presentation of data, and
-
-3. To understand and imitate good programming practices.
-
-## Prerequisites
-
-- One of: STAT 217, STAT 332, STAT 401, or equivalent.
-
-
-## Textbooks (all optional or free)
-
-1. R for Data Science, by Hadley Wickham and Garret Grolemund. Free at [http://r4ds.had.co.nz](http://r4ds.had.co.nz)
-
-2. ModernDive: An introduction to Statistical and Data Sciences via R, by Chester Ismay and Albert Kim. Free at [http://moderndive.com](http://moderndive.com)
-
-3. Visualize This: The FlowingData Guide to Design, Visualization, and Statistics, by Nathan Yau, 2011.
-
-4. The Art of R Programming: A Tour of Statistical Software Design, by Norman Matloff, 2011,
-
-5. The Little SAS Book: A Primer, by Lora Delwiche and Susan Slaughter, 2012.
-
-6. R cheatsheets. [https://www.rstudio.com/resources/cheatsheets/](https://www.rstudio.com/resources/cheatsheets/)
-
-
-
-## Course Policies
-
-#### Course Format
-
-The course is officially offered as "Blended - Online and Onsite." The classroom assigned for this course can seat a total of 18 students, with distancing measures. The course enrollment is 27, so the class will use a mix of virtual lectures and in class activities. Students will be assigned one day per week for in class instruction.
-
-#### Grading Policy
-
-Course Evaluation:
-
-- **20%** of your grade will be determined by weekly homework assignments. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to complete their own homework. Homework will be collected through D2L. 
-
-- **20%** of your grade will be determined by weekly labs.The labs will have a large computational element and will be designed to be completed in 75 minutes; however, there may be times that labs need to be finished outside of class time.
-
-- **40%** of your grade will be determined by exams. Two exams will be given during the course of the semester.
-
-- **20%** of your grade will be determined by a data storytelling project.
-
-#### Collaboration
-University policy states that, unless otherwise specified, students may not collaborate on graded material. Any exceptions to this policy will be stated explicitly for individual assignments. If you have any questions about the limits of collaboration, you are expected to ask for clarification.
-
-In this class students are encouraged to collaborate on homework and lab assignments, but exams should be completed without collaboration.
-
-####  Academic Misconduct
-Section 420 of the Student Conduct Code describes academic misconduct as including but not limited to plagiarism, cheating, multiple submissions, or facilitating others’ misconduct. Possible sanctions for academic misconduct range from an oral reprimand to expulsion from the university.
-
-#### Disabilities Policy
-
-Federal law mandates the provision of services at the university-level to qualified students with disabilities. If you have a documented disability for which you are or may be requesting an accommodation(s), you are encouraged to contact the Office of Disability Services and the instructor as soon as possible.
-
-
-#### Masks 
-
-__WEARING MASKS IN CLASSROOMS IS REQUIRED__
-Face coverings that cover the nose and mouth are required in all indoor spaces and all enclosed or partially enclosed outdoor spaces. MSU requires all students to wear face masks or cloth face coverings in classrooms, laboratories and other similar spaces where in-person instruction occurs. MSU requires the wearing of masks in physical classrooms to help mitigate the transmission of SARS-CoV-2, which causes COVID-19.  The MSU community views the adoption of these practices as a mark of good citizenship and respectful care of fellow classmates, faculty, and staff.
-
-The complete details about MSU’s mask requirement can be found at [https://www.montana.edu/health/coronavirus/index.html](https://www.montana.edu/health/coronavirus/index.html).
-
-These requirements from the Office of the Commissioner of Higher Education are detailed in the MUS Healthy Fall 2020 Guidelines, Appendix B.
-
-For more information: [https://www.montana.edu/health/coronavirus/prevention/index.html](https://www.montana.edu/health/coronavirus/prevention/index.html)
-
-Compliance with the face-covering protocol is expected. If a you do not comply with a classroom rule, you may be requested to leave class.  Section 460.00 of the MSU Code of Student Conduct covers “disruptive student behavior.” 
-
-#### Health-Related Class Absences
-
-Please evaluate your own health status regularly and refrain from attending class and other on-campus events if you are ill.  MSU students who miss class due to illness will be given opportunities to access course materials online. You are encouraged to seek appropriate medical attention for treatment of illness.  In the event of contagious illness, please do not come to class or to campus to turn in work. Instead notify me by email about your absence as soon as practical, so that accommodations can be made.  Please note that documentation (a Doctor’s note) for medical excuses is not required.  MSU University Health Partners - as part their commitment to maintain patient confidentiality, to encourage more appropriate use of healthcare resources, and to support meaningful dialogue between instructors and students - does not provide such documentation.
-
-
-#### Course Communication
-
-All course communcation will be posted as announcements on D2L. In the event that one or more students and/or the instructor are required to quarantine or if the university moves courses online, the course may need to continue in a virtual format. Communication about how the course will proceed will be available through D2L.
-
-
-## Course Schedule
-
-The course will be taught from a flipped perspective. Lecture material will be provided as pre-recorded lectures. Tuesdays or Thursdays (depending on the student) will be labs which focus on implementing the programming covered during the virtual lectures. 
-
-A rough course schedule will be:
-
-- (5 weeks) R: Intro to R, R Studio, and R Markdown. Data input, cleaning, and merging.
-- (6 weeks) Data Visualization Principles and Advanced R: ggplot2, RShiny, and statistical modeling.
-- (3 weeks) SAS: data storage, manipulation, SAS procedures, and SAS macros.
