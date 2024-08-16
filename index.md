@@ -34,12 +34,9 @@ Students will:
 4. R cheatsheets. https://www.rstudio.com/resources/cheatsheets/
 
 
-## Course Schedule
-
-The course will be taught from a flipped perspective. Prior to attending class on Tuesdays, students will watch short online videos and submit homework assignments. Tuesdays will review online video lectures and include interactive computing components. Thursdays will be group labs which focus on implementing the programming covered during the  week. 
-
 ## Course Policies
 
+The course will be taught from a flipped perspective. Prior to attending class on Tuesdays, students will watch short online videos and submit homework assignments. Tuesdays will review online video lectures and include interactive computing components. Thursdays will be group labs which focus on implementing the programming covered during the  week. 
 
 #### Grading Policy
 
@@ -71,6 +68,9 @@ Section 420 of the Student Conduct Code describes academic misconduct as includi
 #### Disabilities Policy
 
 Federal law mandates the provision of services at the university-level to qualified students with disabilities. If you have a documented disability for which you are or may be requesting an accommodation(s), you are encouraged to contact the Office of Disability Services and the instructor as soon as possible.
+
+
+## Course Schedule
 
 
 ---
