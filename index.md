@@ -40,8 +40,6 @@ The course will be taught from a flipped perspective. Prior to attending class o
 
 #### Grading Policy
 
-Course Evaluation:
-
 - **5%** of your grade will be determined by short weekly homework assignments that correspond to watching online videos. Homework will be collected via gradescope.
 
 - **25%** of your grade will be determined by group labs. Labs will be in-class group assignments conducted every Thursday. The labs will be designed to be completed in 75 minutes; however, there may be times that groups need to finish labs outside of class time. Labs will be submitted via gradescope. 
@@ -82,7 +80,7 @@ Federal law mandates the provision of services at the university-level to qualif
 __Weekly Overview:__ 
 
 - [Guide](https://stat408.github.io/Week1/)
-- [Course Syllabus]()
+- [Course Syllabus](https://github.com/stat408/syllabus/raw/master/stat408_2024.pdf)
 
 ---
 
@@ -96,7 +94,7 @@ Reading Resources:
 
 ---
 
-### Week Three (September 1 - September 7): Workflow: basics, coding, and importing data
+### Week Three (September 1 - September 7): Coding basics and importing data
 
 --- 
 
@@ -107,13 +105,13 @@ Reading Resources:
 
 ---
 
-### Week Four (September 8 - September 14): dplyr (data transformation) & Tidy Data & Joining Data
+### Week Four (September 8 - September 14): dplyr & Tidy Data & Joining Data
 
 --- 
 
 Reading Resources:
   - [R 4 DS Ch. 3: Data Transform](https://r4ds.hadley.nz/data-transform)
-- [R 4 DS Ch. 5: Data Tidy](https://r4ds.hadley.nz/data-tidy)
+  - [R 4 DS Ch. 5: Data Tidy](https://r4ds.hadley.nz/data-tidy)
 ---
 
 ### Week Five (September 15 - September 21): ggplot layers
@@ -122,8 +120,6 @@ Reading Resources:
 
 Reading Resources:
   - [R 4 DS Ch. 9: Layers](https://r4ds.hadley.nz/layers)
-
----
 
 
 ---
@@ -153,16 +149,16 @@ Reading Resources:
 ---
 
 ---
-### Week Eleven (October 27 - November 2):  Conditional Logic & Simulations
+### Week Eleven (October 27 - November 2):  Conditional Logic, Loops, & Simulations
 ---
 
 
 ---
-### Week Twelve (November 3 - November 9): Loops + Simulation
+### Week Twelve (November 3 - November 9): Advanced Topics: Functions and Packages
 ---
 
 ---
-### Week Thirteen (November 10 - November 16): Advanced data 
+### Week Thirteen (November 10 - November 16): Advanced Topics: Databases
 ---
 
 ---
