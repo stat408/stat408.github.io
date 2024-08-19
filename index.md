@@ -1,6 +1,6 @@
 ## Course Syllabus
 
-A PDF of the syllabus can be downloaded with this [link](https://github.com/stat408/syllabus/raw/master/syllabusF2020.pdf).
+A PDF of the syllabus can be downloaded with this [link](https://github.com/stat408/syllabus/raw/master/stat408_2024.pdf).
 
 This course provides an overview of statistical computation and data visualization.
 
