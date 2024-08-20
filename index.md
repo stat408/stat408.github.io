@@ -88,9 +88,17 @@ __Weekly Overview:__
 
 ---
 
+[Week 2 Guide]()
+
+[HW2]()
+
+Video Resources:
+- [Installing/Updating R and R Studio](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f05aa619-2776-40bb-9ddc-b1d201144cd7)
+
 Reading Resources:
   - [R 4 DS Ch. 28: Quarto](https://r4ds.hadley.nz/quarto)
   - [R 4 DS Ch. 1: Visualization](https://r4ds.hadley.nz/data-visualize)
+
 
 ---
 
