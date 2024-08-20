@@ -93,6 +93,7 @@ __Weekly Overview:__
 Video Resources:
 - [Installing/Updating R and R Studio](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f05aa619-2776-40bb-9ddc-b1d201144cd7) (3:39)
 - [Quarto Documents](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1219634c-9b0f-4439-99e1-b1d20119efe8) (8:26)
+- [ggplot Intro](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d91dc77c-0ec6-41bb-92ea-b1d201236f63) (11:03)
 
 Reading Resources:
   - [R 4 DS Ch. 28.1 & 28.2: Quarto](https://r4ds.hadley.nz/quarto)
