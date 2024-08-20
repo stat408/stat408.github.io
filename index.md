@@ -99,6 +99,7 @@ Reading Resources:
   - [R 4 DS Ch. 28.1 & 28.2: Quarto](https://r4ds.hadley.nz/quarto)
   - [R 4 DS Ch. 1: Visualization](https://r4ds.hadley.nz/data-visualize)
 
+Lab 1 (Due Thursday September 7 - submit 1 per group via gradescope)
 
 ---
 
