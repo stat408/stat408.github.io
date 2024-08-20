@@ -79,7 +79,6 @@ Federal law mandates the provision of services at the university-level to qualif
 
 __Weekly Overview:__ 
 
-- [Guide](https://stat408.github.io/Week1/)
 - [Course Syllabus](https://github.com/stat408/syllabus/raw/master/stat408_2024.pdf)
 
 ---
@@ -88,12 +87,12 @@ __Weekly Overview:__
 
 ---
 
-[Week 2 Guide]()
 
 [HW2]()
 
 Video Resources:
-- [Installing/Updating R and R Studio](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f05aa619-2776-40bb-9ddc-b1d201144cd7)
+- [Installing/Updating R and R Studio](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f05aa619-2776-40bb-9ddc-b1d201144cd7) (3:39)
+- [Quarto Documents](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1219634c-9b0f-4439-99e1-b1d20119efe8) (8:26)
 
 Reading Resources:
   - [R 4 DS Ch. 28: Quarto](https://r4ds.hadley.nz/quarto)
