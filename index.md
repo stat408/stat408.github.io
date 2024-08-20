@@ -95,7 +95,7 @@ Video Resources:
 - [Quarto Documents](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1219634c-9b0f-4439-99e1-b1d20119efe8) (8:26)
 
 Reading Resources:
-  - [R 4 DS Ch. 28: Quarto](https://r4ds.hadley.nz/quarto)
+  - [R 4 DS Ch. 28.1 & 28.2: Quarto](https://r4ds.hadley.nz/quarto)
   - [R 4 DS Ch. 1: Visualization](https://r4ds.hadley.nz/data-visualize)
 
 
