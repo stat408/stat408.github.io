@@ -77,8 +77,7 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ---
 
-__Weekly Overview:__ 
-
+- [Lecture 1: Course Overview](https://stat408.github.io/Lecture1/)
 - [Course Syllabus](https://github.com/stat408/syllabus/raw/master/stat408_2024.pdf)
 
 ---
