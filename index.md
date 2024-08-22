@@ -87,7 +87,7 @@ Federal law mandates the provision of services at the university-level to qualif
 ---
 
 
-[HW2](https://stat408.github.io/Homework2) (Due Tuesday August 25 - submit via gradescope)
+[HW2](https://github.com/stat408/homework2) (Due Tuesday August 25 - submit via gradescope)
 
 Video Resources:
 - [Installing/Updating R and R Studio](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f05aa619-2776-40bb-9ddc-b1d201144cd7) (3:39)
