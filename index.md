@@ -1,73 +1,3 @@
-## Course Syllabus
-
-A PDF of the syllabus can be downloaded with this [link](https://github.com/stat408/syllabus/raw/master/stat408_2024.pdf).
-
-This course provides an overview of statistical computation and data visualization.
-
-## Learning Outcomes:
-
-Students will:
-
-1. To become literate in statistical programming using R and SAS,
-
-2. To learn to effectively communicate through visual presentation of data, and
-
-3. To understand and imitate good programming practices.
-
-## Prerequisites
-
-- STAT 337, or equivalent.
-
-
-## Textbooks and Resources (all optional or free)
-
-1. R for Data Science, 2nd Edition, by Hadley Wickham, Mine Cetinkaya-Rundel, and Garret Grolemund. Free at [https://r4ds.hadley.nz](https://r4ds.hadley.nz)
-
----
-
-1. ModernDive: An introduction to Statistical and Data Sciences via R, by Chester Ismay and Albert Kim. Free at [http://moderndive.com](http://moderndive.com)
-
-2. Visualize This: The FlowingData Guide to Design, Visualization, and Statistics, by Nathan Yau, 2011.
-
-3. The Art of R Programming: A Tour of Statistical Software Design, by Norman Matloff, 2011,
-
-4. R cheatsheets. https://www.rstudio.com/resources/cheatsheets/
-
-
-## Course Policies
-
-The course will be taught from a flipped perspective. Prior to attending class on Tuesdays, students will watch short online videos and submit homework assignments. Tuesdays will review online video lectures and include interactive computing components. Thursdays will be group labs which focus on implementing the programming covered during the  week. 
-
-#### Grading Policy
-
-- **5%** of your grade will be determined by short weekly homework assignments that correspond to watching online videos. Homework will be collected via gradescope.
-
-- **25%** of your grade will be determined by group labs. Labs will be in-class group assignments conducted every Thursday. The labs will be designed to be completed in 75 minutes; however, there may be times that groups need to finish labs outside of class time. Labs will be submitted via gradescope. 
-
-- **25%** of your grade will be determined by a midterm exam. The midterm exam will have two parts: an in class exam and a take home portion.
-
-- **25%** of your grade will be determined by a final exam. The final exam will have two parts: an in class exam and a take home portion.
-
-- **20%** of your grade will be determined by a course project. The course project will focus on advanced data visualization to create a dashboard using R Shiny.
-
-
-#### Collaboration
-University policy states that, unless otherwise specified, students may not collaborate on graded material. Any exceptions to this policy will be stated explicitly for individual assignments. If you have any questions about the limits of collaboration, you are expected to ask for clarification.
-
-In this class students are encouraged to collaborate on labs and homework assignments, but exams should be completed without collaboration. Additionally the course project can be completed in groups of up to 3 students.
-
-####  Citing Sources
-
-When submitting work, please cite all sources and inspiration for your submission.
-
-####  Academic Misconduct
-Section 420 of the Student Conduct Code describes academic misconduct as including but not limited to plagiarism, cheating, multiple submissions, or facilitating others’ misconduct. Possible sanctions for academic misconduct range from an oral reprimand to expulsion from the university.
-
-#### Disabilities Policy
-
-Federal law mandates the provision of services at the university-level to qualified students with disabilities. If you have a documented disability for which you are or may be requesting an accommodation(s), you are encouraged to contact the Office of Disability Services and the instructor as soon as possible.
-
-
 ## Course Schedule
 
 
@@ -87,7 +17,7 @@ Federal law mandates the provision of services at the university-level to qualif
 ---
 
 
-[HW2](https://github.com/stat408/homework2) (Due Tuesday August 25 - submit via gradescope)
+[HW2](https://github.com/stat408/homework2) (Due Tuesday August 27 - submit via gradescope)
 
 Video Resources:
 - [Installing/Updating R and R Studio](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f05aa619-2776-40bb-9ddc-b1d201144cd7) (3:39)
@@ -188,6 +118,77 @@ Reading Resources:
 
 
 ---
+
+## Course Syllabus
+
+A PDF of the syllabus can be downloaded with this [link](https://github.com/stat408/syllabus/raw/master/stat408_2024.pdf).
+
+This course provides an overview of statistical computation and data visualization.
+
+## Learning Outcomes:
+
+Students will:
+
+1. To become literate in statistical programming using R and SAS,
+
+2. To learn to effectively communicate through visual presentation of data, and
+
+3. To understand and imitate good programming practices.
+
+## Prerequisites
+
+- STAT 337, or equivalent.
+
+
+## Textbooks and Resources (all optional or free)
+
+1. R for Data Science, 2nd Edition, by Hadley Wickham, Mine Cetinkaya-Rundel, and Garret Grolemund. Free at [https://r4ds.hadley.nz](https://r4ds.hadley.nz)
+
+---
+
+1. ModernDive: An introduction to Statistical and Data Sciences via R, by Chester Ismay and Albert Kim. Free at [http://moderndive.com](http://moderndive.com)
+
+2. Visualize This: The FlowingData Guide to Design, Visualization, and Statistics, by Nathan Yau, 2011.
+
+3. The Art of R Programming: A Tour of Statistical Software Design, by Norman Matloff, 2011,
+
+4. R cheatsheets. https://www.rstudio.com/resources/cheatsheets/
+
+
+## Course Policies
+
+The course will be taught from a flipped perspective. Prior to attending class on Tuesdays, students will watch short online videos and submit homework assignments. Tuesdays will review online video lectures and include interactive computing components. Thursdays will be group labs which focus on implementing the programming covered during the  week. 
+
+#### Grading Policy
+
+- **5%** of your grade will be determined by short weekly homework assignments that correspond to watching online videos. Homework will be collected via gradescope.
+
+- **25%** of your grade will be determined by group labs. Labs will be in-class group assignments conducted every Thursday. The labs will be designed to be completed in 75 minutes; however, there may be times that groups need to finish labs outside of class time. Labs will be submitted via gradescope. 
+
+- **25%** of your grade will be determined by a midterm exam. The midterm exam will have two parts: an in class exam and a take home portion.
+
+- **25%** of your grade will be determined by a final exam. The final exam will have two parts: an in class exam and a take home portion.
+
+- **20%** of your grade will be determined by a course project. The course project will focus on advanced data visualization to create a dashboard using R Shiny.
+
+
+#### Collaboration
+University policy states that, unless otherwise specified, students may not collaborate on graded material. Any exceptions to this policy will be stated explicitly for individual assignments. If you have any questions about the limits of collaboration, you are expected to ask for clarification.
+
+In this class students are encouraged to collaborate on labs and homework assignments, but exams should be completed without collaboration. Additionally the course project can be completed in groups of up to 3 students.
+
+####  Citing Sources
+
+When submitting work, please cite all sources and inspiration for your submission.
+
+####  Academic Misconduct
+Section 420 of the Student Conduct Code describes academic misconduct as including but not limited to plagiarism, cheating, multiple submissions, or facilitating others’ misconduct. Possible sanctions for academic misconduct range from an oral reprimand to expulsion from the university.
+
+#### Disabilities Policy
+
+Federal law mandates the provision of services at the university-level to qualified students with disabilities. If you have a documented disability for which you are or may be requesting an accommodation(s), you are encouraged to contact the Office of Disability Services and the instructor as soon as possible.
+
+
 
 <!---
 
