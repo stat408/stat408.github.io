@@ -38,6 +38,9 @@ Reading Resources:
 
 --- 
 
+Video Resources:
+- [R basics and style + importing data](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2aa066bf-89a3-43e2-ad40-b1da012e62ac) (11:19)
+  
 Reading Resources:
   - [R 4 DS Ch. 2: Basics](https://r4ds.hadley.nz/workflow-basics)
   - [R 4 DS Ch. 4: Code Style](https://r4ds.hadley.nz/workflow-style)
