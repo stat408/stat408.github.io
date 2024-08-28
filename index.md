@@ -30,13 +30,15 @@ Reading Resources:
 
 [Lecture 2: ggplot](https://stat408.github.io/Lecture2/)
 
-[Lab 1](https://stat408.github.io/Lab1/) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab1/master/Lab1_2024.qmd)) (Due Thursday September 7 - submit 1 per group via gradescope) 
+[Lab 1](https://stat408.github.io/Lab1/) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab1/master/Lab1_2024.qmd)) (Due Thursday September 5 - submit 1 per group via gradescope) 
 
 ---
 
 ### Week Three (September 1 - September 7): Coding basics and importing data
 
 --- 
+
+[HW3](https://github.com/stat408/homework2) (Due Tuesday September 3 - submit via gradescope)
 
 Video Resources:
 - [R basics and style + importing data](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2aa066bf-89a3-43e2-ad40-b1da012e62ac) (11:19)
@@ -54,8 +56,8 @@ Reading Resources:
 
 Reading Resources:
 
-  - [R 4 DS Ch. 3: Data Transform](https://r4ds.hadley.nz/data-transform)
-  - [R 4 DS Ch. 5: Data Tidy](https://r4ds.hadley.nz/data-tidy)
+- [R 4 DS Ch. 3: Data Transform](https://r4ds.hadley.nz/data-transform)
+- [R 4 DS Ch. 5: Data Tidy](https://r4ds.hadley.nz/data-tidy)
 ---
 
 ### Week Five (September 15 - September 21): ggplot layers
