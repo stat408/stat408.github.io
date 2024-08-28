@@ -28,9 +28,11 @@ Reading Resources:
   - [R 4 DS Ch. 28.1 & 28.2: Quarto](https://r4ds.hadley.nz/quarto)
   - [R 4 DS Ch. 1: Visualization](https://r4ds.hadley.nz/data-visualize)
 
-[Lecture 2: ggplot](https://stat408.github.io/Lecture2/)
+Tuesday:
+- [Lecture 2: ggplot](https://stat408.github.io/Lecture2/)
 
-[Lab 1](https://stat408.github.io/Lab1/) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab1/master/Lab1_2024.qmd)) (Due Thursday September 5 - submit 1 per group via gradescope) 
+Thursday:
+- [Lab 1](https://stat408.github.io/Lab1/) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab1/master/Lab1_2024.qmd)) (Due Thursday September 5 - submit 1 per group via gradescope) 
 
 ---
 
