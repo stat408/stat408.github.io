@@ -30,7 +30,7 @@ Reading Resources:
 
 [Lecture 2: ggplot](https://stat408.github.io/Lecture2/)
 
-Lab 1 (Due Thursday September 7 - submit 1 per group via gradescope)
+[Lab 1](https://stat408.github.io/Lab1/) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab1/master/Lab1_2024.qmd)) (Due Thursday September 7 - submit 1 per group via gradescope) 
 
 ---
 
@@ -50,6 +50,7 @@ Reading Resources:
 --- 
 
 Reading Resources:
+
   - [R 4 DS Ch. 3: Data Transform](https://r4ds.hadley.nz/data-transform)
   - [R 4 DS Ch. 5: Data Tidy](https://r4ds.hadley.nz/data-tidy)
 ---
