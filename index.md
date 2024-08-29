@@ -40,7 +40,7 @@ Thursday:
 
 --- 
 
-[HW3](https://github.com/stat408/homework2) (Due Tuesday September 3 - submit via gradescope)
+[HW3](https://github.com/stat408/homework3) (Due Tuesday September 3 - submit via gradescope)
 
 Video Resources:
 - [R basics and style + importing data](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2aa066bf-89a3-43e2-ad40-b1da012e62ac) (11:19)
