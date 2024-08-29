@@ -28,10 +28,10 @@ Reading Resources:
   - [R 4 DS Ch. 28.1 & 28.2: Quarto](https://r4ds.hadley.nz/quarto)
   - [R 4 DS Ch. 1: Visualization](https://r4ds.hadley.nz/data-visualize)
 
-Tuesday:
+Tuesday August 27:
 - [Lecture 2: ggplot](https://stat408.github.io/Lecture2/)
 
-Thursday:
+Thursday August 29:
 - [Lab 1](https://stat408.github.io/Lab1/) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab1/master/Lab1_2024.qmd)) (Due Thursday September 5 - submit 1 per group via gradescope) 
 
 ---
@@ -50,10 +50,10 @@ Reading Resources:
   - [R 4 DS Ch. 4: Code Style](https://r4ds.hadley.nz/workflow-style)
   - [R 4 DS Ch. 7: Data import](https://r4ds.hadley.nz/data-import)
 
-Tuesday:
-- [Lecture 3: basics](https://stat408.github.io/Lecture3/)
+Tuesday September 3:
+- [Lecture 3: R basics](https://stat408.github.io/Lecture3/)
 
-Thursday:
+Thursday September 5:
 - Lab 2 (Due Thursday September 12 - submit 1 per group via gradescope) 
 
 ---
