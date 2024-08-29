@@ -50,6 +50,12 @@ Reading Resources:
   - [R 4 DS Ch. 4: Code Style](https://r4ds.hadley.nz/workflow-style)
   - [R 4 DS Ch. 7: Data import](https://r4ds.hadley.nz/data-import)
 
+Tuesday:
+- [Lecture 3: basics](https://stat408.github.io/Lecture3/)
+
+Thursday:
+- Lab 2 (Due Thursday September 12 - submit 1 per group via gradescope) 
+
 ---
 
 ### Week Four (September 8 - September 14): dplyr & Tidy Data & Joining Data
@@ -60,6 +66,7 @@ Reading Resources:
 
 - [R 4 DS Ch. 3: Data Transform](https://r4ds.hadley.nz/data-transform)
 - [R 4 DS Ch. 5: Data Tidy](https://r4ds.hadley.nz/data-tidy)
+  
 ---
 
 ### Week Five (September 15 - September 21): ggplot layers
