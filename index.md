@@ -54,7 +54,8 @@ Tuesday September 3:
 - [Lecture 3: R basics](https://stat408.github.io/Lecture3/)
 
 Thursday September 5:
-- Lab 2 (Due Thursday September 12 - submit 1 per group via gradescope) 
+- [Lab 1](https://stat408.github.io/Lab2/) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab2/master/Lab2_2024.qmd)) (Due Thursday September 12 - submit 1 per group via gradescope) 
+
 
 ---
 
@@ -75,13 +76,13 @@ Reading Resources:
 
 Reading Resources:
   - [R 4 DS Ch. 9: Layers](https://r4ds.hadley.nz/layers)
+  - [R 4 DS Ch. 10: EDA](https://r4ds.hadley.nz/eda)
 
 
 ---
-### Week Six (September 22 - September 28): Advanced Data Visualization
+### Week Six (September 22 - September 28): Advanced Data Visualization and R Shiny
 ---
 Reading Resources:
-  - [R 4 DS Ch. 10: EDA](https://r4ds.hadley.nz/eda)
   - [R 4 DS Ch. 11: Communication](https://r4ds.hadley.nz/communication)
 
 ---
@@ -90,26 +91,26 @@ Reading Resources:
 
 
 ---
-### Week Eight (October 6 - October 12): R Shiny
+### Week Eight (October 6 - October 12): Advanced Data Wrangling: Strings, Factors, Date/Time
 ---
 
 
 ---
-### Week Nine (October 13 - October 19): Advanced Data Wrangling: Strings, Factors, Date/Time
+### Week Nine (October 13 - October 19): Conditional Logic, Loops, & Simulations
 ---
 
 
 ---
-### Week Ten (October 20 - October 26): Base R
+### Week Ten (October 20 - October 26): Advanced Topics: Functions and Packages
 ---
 
 ---
-### Week Eleven (October 27 - November 2):  Conditional Logic, Loops, & Simulations
+### Week Eleven (October 27 - November 2):  
 ---
 
 
 ---
-### Week Twelve (November 3 - November 9): Advanced Topics: Functions and Packages
+### Week Twelve (November 3 - November 9): 
 ---
 
 ---
