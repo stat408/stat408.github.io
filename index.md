@@ -67,6 +67,7 @@ Reading Resources:
 
 - [R 4 DS Ch. 3: Data Transform](https://r4ds.hadley.nz/data-transform)
 - [R 4 DS Ch. 5: Data Tidy](https://r4ds.hadley.nz/data-tidy)
+- [dplyr + tidyr cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
   
 ---
 
