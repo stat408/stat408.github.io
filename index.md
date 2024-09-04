@@ -54,7 +54,7 @@ Tuesday September 3:
 - [Lecture 3: R basics](https://stat408.github.io/Lecture3/)
 
 Thursday September 5:
-- [Lab 1](https://stat408.github.io/Lab2/) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab2/master/Lab2_2024.qmd)) (Due Thursday September 12 - submit 1 per group via gradescope) 
+- [Lab 2](https://stat408.github.io/Lab2/) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab2/master/Lab2_2024.qmd)) (Due Thursday September 12 - submit 1 per group via gradescope) 
 
 
 ---
@@ -63,7 +63,7 @@ Thursday September 5:
 
 --- 
 
-[HW4]()
+[HW4](https://github.com/stat408/HW4) ([QMD Source](https://raw.githubusercontent.com/stat408/HW4/master/HW4_2024.qmd)) (Due Tuesday September 10 - submit via gradescope) 
 
 Video Resources:
 - [dplyr](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bd623597-925a-49d0-a346-b1e101068bb8) (21:01) [R Script](https://raw.githubusercontent.com/stat408/Video_scripts/main/Dplyr_video.R)
@@ -73,6 +73,13 @@ Reading Resources:
 - [R 4 DS Ch. 3: Data Transform](https://r4ds.hadley.nz/data-transform)
 - [R 4 DS Ch. 5: Data Tidy](https://r4ds.hadley.nz/data-tidy)
 - [dplyr + tidyr cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
+
+Tuesday September 10:
+- Lecture 4: Data Wrangling
+
+Thursday September 12:
+- Lab 3
+
   
 ---
 
