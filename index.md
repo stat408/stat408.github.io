@@ -63,6 +63,11 @@ Thursday September 5:
 
 --- 
 
+[HW4]()
+
+Video Resources:
+- [dplyr](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bd623597-925a-49d0-a346-b1e101068bb8) (21:01) [R Script](https://raw.githubusercontent.com/stat408/Video_scripts/main/Dplyr_video.R)
+  
 Reading Resources:
 
 - [R 4 DS Ch. 3: Data Transform](https://r4ds.hadley.nz/data-transform)
