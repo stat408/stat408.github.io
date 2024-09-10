@@ -32,7 +32,8 @@ Tuesday August 27:
 - [Lecture 2: ggplot](https://stat408.github.io/Lecture2/)
 
 Thursday August 29:
-- [Lab 1](https://stat408.github.io/Lab1/) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab1/master/Lab1_2024.qmd)) (Due Thursday September 5 - submit 1 per group via gradescope) 
+- [Lab 1](https://stat408.github.io/Lab1/) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab1/master/Lab1_2024.qmd)) (Due Thursday September 5 - submit 1 per group via gradescope)
+- [Lab 1 key](https://github.com/stat408/Lab1/blob/master/Lab1_2024_key.pdf) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab1/master/Lab1_2024_key.qmd))
 
 ---
 
@@ -76,6 +77,7 @@ Reading Resources:
 
 Tuesday September 10:
   - [Lecture 4: Data Wrangling](https://stat408.github.io/Lecture4/)
+  - [Lecture 4: Exercise Script](https://raw.githubusercontent.com/stat408/Lecture4/master/docs/Lecture4_Exercises.qmd)
 
 Thursday September 12:
 - Lab 3
