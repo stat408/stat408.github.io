@@ -75,7 +75,7 @@ Reading Resources:
 - [dplyr + tidyr cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 
 Tuesday September 10:
-- Lecture 4: Data Wrangling
+  - [Lecture 4: Data Wrangling](https://stat408.github.io/Lecture4/)
 
 Thursday September 12:
 - Lab 3
