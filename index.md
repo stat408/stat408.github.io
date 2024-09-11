@@ -89,10 +89,19 @@ Thursday September 12:
 
 --- 
 
+[HW5](https://github.com/stat408/HW5) ([QMD Source](https://raw.githubusercontent.com/stat408/HW5/master/HW5_2024.qmd)) (Due Tuesday September 17 - submit via gradescope) 
+
+Video Resources:
+- [ggplot + EDA]([https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bd623597-925a-49d0-a346-b1e101068bb8](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b7e7c177-632c-4de7-9be0-b1e800fedd54&start=1)) (28:05) [R Script](https://raw.githubusercontent.com/stat408/Video_scripts/main/ggplot_eda.qmd)
+  
 Reading Resources:
   - [R 4 DS Ch. 9: Layers](https://r4ds.hadley.nz/layers)
   - [R 4 DS Ch. 10: EDA](https://r4ds.hadley.nz/eda)
   - [ggplot cheatsheet](https://posit.co/wp-content/uploads/2022/10/data-visualization-1.pdf)
+
+Tuesday September 17:
+ 
+Thursday September 19:
 
 
 ---
