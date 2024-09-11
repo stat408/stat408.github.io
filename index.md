@@ -92,6 +92,7 @@ Thursday September 12:
 Reading Resources:
   - [R 4 DS Ch. 9: Layers](https://r4ds.hadley.nz/layers)
   - [R 4 DS Ch. 10: EDA](https://r4ds.hadley.nz/eda)
+  - [ggplot cheatsheet](https://posit.co/wp-content/uploads/2022/10/data-visualization-1.pdf)
 
 
 ---
