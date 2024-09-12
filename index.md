@@ -80,7 +80,7 @@ Tuesday September 10:
   - [Lecture 4: Exercise Script](https://raw.githubusercontent.com/stat408/Lecture4/master/docs/Lecture4_Exercises.qmd)
 
 Thursday September 12:
-- [Lab 3](https://stat408.github.io/Lab3/) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab3/master/Lab3_2024.qmd)) (Due Thursday September 19 - submit 1 per group via gradescope) 
+- [Lab 3](https://stat408.github.io/Lab3/) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab3/master/Lab3_2024.Qmd)) (Due Thursday September 19 - submit 1 per group via gradescope) 
 
   
 ---
