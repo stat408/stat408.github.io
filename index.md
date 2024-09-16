@@ -111,12 +111,12 @@ Reading Resources:
   - [R 4 DS Ch. 11: Communication](https://r4ds.hadley.nz/communication)
 
 ---
-### Week Seven (September 29 - October 5): Midterm Exam 
+### Week Seven (September 29 - October 5): Advanced Data Wrangling: Strings, Factors, Date/Time
 ---
 
 
 ---
-### Week Eight (October 6 - October 12): Advanced Data Wrangling: Strings, Factors, Date/Time
+### Week Eight (October 6 - October 12): Midterm Exam 
 ---
 
 
