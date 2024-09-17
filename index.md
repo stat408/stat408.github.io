@@ -100,12 +100,14 @@ Reading Resources:
   - [ggplot cheatsheet](https://posit.co/wp-content/uploads/2022/10/data-visualization-1.pdf)
 
 Tuesday September 17:
+- [Lecture 5: ggplot](https://stat408.github.io/Lecture5/)
+- [Exercise Script](https://raw.githubusercontent.com/stat408/Lecture5/master/docs/Lecture5_exercises.qmd)
  
 Thursday September 19:
-
+- Lab 4
 
 ---
-### Week Six (September 22 - September 28): Advanced Data Visualization and R Shiny
+### Week Six (September 22 - September 28): Advanced Data Visualization 
 ---
 Reading Resources:
   - [R 4 DS Ch. 11: Communication](https://r4ds.hadley.nz/communication)
@@ -121,16 +123,16 @@ Reading Resources:
 
 
 ---
-### Week Nine (October 13 - October 19): Conditional Logic, Loops, & Simulations
+### Week Nine (October 13 - October 19): R Shiny
 ---
 
 
 ---
-### Week Ten (October 20 - October 26): Advanced Topics: Functions and Packages
+### Week Ten (October 20 - October 26): Conditional Logic, Loops, & Simulations
 ---
 
 ---
-### Week Eleven (October 27 - November 2):  
+### Week Eleven (October 27 - November 2): Advanced Topics: Functions and Packages 
 ---
 
 
