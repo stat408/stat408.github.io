@@ -100,7 +100,7 @@ Reading Resources:
   - [ggplot cheatsheet](https://posit.co/wp-content/uploads/2022/10/data-visualization-1.pdf)
 
 Tuesday September 17:
-- [Lecture 5: ggplot](https://stat408.github.io/Lecture5/)
+- [Lecture 5: ggplot](https://github.com/stat408/Lecture5/blob/master/docs/index.md)
 - [Exercise Script](https://raw.githubusercontent.com/stat408/Lecture5/master/docs/Lecture5_exercises.qmd)
  
 Thursday September 19:
