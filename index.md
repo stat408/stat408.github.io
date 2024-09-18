@@ -109,6 +109,12 @@ Thursday September 19:
 ---
 ### Week Six (September 22 - September 28): Advanced Data Visualization 
 ---
+
+[HW6]
+
+Video Resources:
+- [data viz principles](https://github.com/stat408/Week6_video) (28:05) [RMD Script](https://raw.githubusercontent.com/stat408/Week6_video/main/docs/index.Rmd)
+
 Reading Resources:
   - [R 4 DS Ch. 11: Communication](https://r4ds.hadley.nz/communication)
 
