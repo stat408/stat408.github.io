@@ -104,13 +104,13 @@ Tuesday September 17:
 - [Exercise Script](https://raw.githubusercontent.com/stat408/Lecture5/master/docs/Lecture5_exercises.qmd)
  
 Thursday September 19:
-- [Lab 4](https://stat408.github.io/Lab4/) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab4/master/Lab4_2024.Qmd))
+- [Lab 4](https://stat408.github.io/Lab4/) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab4/master/Lab4_2024.Qmd)) (Due Thursday September 26 - submit 1 per group via gradescope) 
 
 ---
 ### Week Six (September 22 - September 28): Advanced Data Visualization 
 ---
 
-[HW6](https://stat408.github.io/HW6/)
+[HW6](https://stat408.github.io/HW6/) (Due Tuesday September 24 - submit via gradescope) 
 
 Video Resources:
 - [data viz principles](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dfd0aeec-fa59-4961-ac87-b1ef010d952f) (22:05) 
