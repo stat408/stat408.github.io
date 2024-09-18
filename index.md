@@ -104,7 +104,7 @@ Tuesday September 17:
 - [Exercise Script](https://raw.githubusercontent.com/stat408/Lecture5/master/docs/Lecture5_exercises.qmd)
  
 Thursday September 19:
-- Lab 4
+- [Lab 4](https://stat408.github.io/Lab4/) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab4/master/Lab4_2024.Qmd))
 
 ---
 ### Week Six (September 22 - September 28): Advanced Data Visualization 
@@ -137,7 +137,7 @@ Reading Resources:
 
 
 ---
-### Week Twelve (November 3 - November 9): 
+### Week Twelve (November 3 - November 9): Advanced Topics: Maps
 ---
 
 ---
