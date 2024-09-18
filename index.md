@@ -110,13 +110,20 @@ Thursday September 19:
 ### Week Six (September 22 - September 28): Advanced Data Visualization 
 ---
 
-[HW6]
+[HW6](https://stat408.github.io/HW6/)
 
 Video Resources:
-- [data viz principles](https://github.com/stat408/Week6_video) (28:05) [RMD Script](https://raw.githubusercontent.com/stat408/Week6_video/main/docs/index.Rmd)
-
+- [data viz principles](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dfd0aeec-fa59-4961-ac87-b1ef010d952f) (22:05) 
+- [data viz slides](https://stat408.github.io/Week6_video/)  [RMD Script](https://raw.githubusercontent.com/stat408/Week6_video/main/docs/index.Rmd)
+- 
 Reading Resources:
   - [R 4 DS Ch. 11: Communication](https://r4ds.hadley.nz/communication)
+
+Tuesday September 24:
+ 
+Thursday September 26:
+- Lab 5
+
 
 ---
 ### Week Seven (September 29 - October 5): Advanced Data Wrangling: Strings, Factors, Date/Time
