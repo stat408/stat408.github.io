@@ -56,6 +56,7 @@ Tuesday September 3:
 
 Thursday September 5:
 - [Lab 2](https://stat408.github.io/Lab2/) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab2/master/Lab2_2024.qmd)) (Due Thursday September 12 - submit 1 per group via gradescope) 
+- [Lab 2 key](https://github.com/stat408/Lab2/blob/master/Lab2_2024_key.pdf) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab2/refs/heads/master/Lab2_2024_key.qmd))
 
 
 ---
@@ -81,7 +82,7 @@ Tuesday September 10:
 
 Thursday September 12:
 - [Lab 3](https://stat408.github.io/Lab3/) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab3/master/Lab3_2024.Qmd)) (Due Thursday September 19 - submit 1 per group via gradescope) 
-
+- [Lab 3 key](https://github.com/stat408/Lab3/blob/master/Lab3_2024_key.pdf) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab3/refs/heads/master/Lab3_2024_key.Qmd))
   
 ---
 
@@ -115,7 +116,7 @@ Thursday September 19:
 Video Resources:
 - [data viz principles](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dfd0aeec-fa59-4961-ac87-b1ef010d952f) (22:05) 
 - [data viz slides](https://stat408.github.io/Week6_video/)  [RMD Script](https://raw.githubusercontent.com/stat408/Week6_video/main/docs/index.Rmd)
-- 
+  
 Reading Resources:
   - [R 4 DS Ch. 11: Communication](https://r4ds.hadley.nz/communication)
 
