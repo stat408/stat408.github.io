@@ -121,6 +121,9 @@ Reading Resources:
   - [R 4 DS Ch. 11: Communication](https://r4ds.hadley.nz/communication)
 
 Tuesday September 24:
+- [Lecture 6: Nice Graphs](https://stat408.github.io/Lecture6/)
+- [Exercise Script](https://raw.githubusercontent.com/stat408/Lecture6/refs/heads/master/docs/Week6_Ex.qmd)
+
  
 Thursday September 26:
 - Lab 5
