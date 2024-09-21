@@ -138,6 +138,21 @@ Thursday September 26:
 ### Week Eight (October 6 - October 12): Midterm Exam 
 ---
 
+Previous Take Home Exams
+- [Midterm Spring 2020](https://github.com/stat408/midterm/blob/master/Midterm_S2020.pdf) Questions 1 & 2
+- [Midterm Fall 2020](https://github.com/stat408/midterm_f2020/blob/master/Midterm_F2020.pdf) Part 1: 1 & 2 (in class), & Part 2
+
+Previous In Class Exam
+- [Midterm Spring 2020](https://github.com/stat408/midterm/blob/master/Midterm_S2020_inclass.pdf) Questions 1, 3, 5, 6, 7
+
+Tuesday October 8:
+- In class Review
+- Take home exam assigned
+
+Thursday October 10:
+- In class exam
+
+
 
 ---
 ### Week Nine (October 13 - October 19): R Shiny
