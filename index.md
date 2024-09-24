@@ -126,7 +126,7 @@ Tuesday September 24:
 
  
 Thursday September 26:
-- [Lab 5](https://stat408.github.io/Lab5/) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab5/refs/heads/master/Lab5_2024.Qmd)) (Due Thursday Ocotber 3 - submit 1 per group via gradescope)Lab 5
+- [Lab 5](https://stat408.github.io/Lab5/) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab5/refs/heads/master/Lab5_2024.Qmd)) (Due Thursday October 3 - submit 1 per group via gradescope)
 
 
 ---
@@ -155,7 +155,6 @@ Optional Reading:
 Tuesday October 1:
 - [Lecture 7: Strings and Dates](https://stat408.github.io/Lecture7/)
 - [Exercise Script](https://raw.githubusercontent.com/stat408/Lecture7/refs/heads/master/docs/Exercises.qmd)
-
 
 Thursday October 3:
 - Lab 6
