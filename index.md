@@ -152,9 +152,12 @@ Optional Reading:
 - [R 4 DS Ch. 15.3: Regular Expressions](https://r4ds.hadley.nz/regexps) (skim)  
 
 Tuesday October 1:
+- [Lecture 7: Strings and Dates](https://stat408.github.io/Lecture7/)
+- [Exercise Script](https://raw.githubusercontent.com/stat408/Lecture7/refs/heads/master/docs/Exercises.qmd)
+
 
 Thursday October 3:
-
+- Lab 6
 ---
 ### Week Eight (October 6 - October 12): Midterm Exam 
 ---
