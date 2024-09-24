@@ -133,7 +133,7 @@ Thursday September 26:
 ### Week Seven (September 29 - October 5): Advanced Data Wrangling: Strings, Factors, Date/Time
 ---
 
-HW7 (Due Tuesday October 1 - submit via gradescope) 
+[HW7](https://stat408.github.io/HW7/) ([QMD Source](https://raw.githubusercontent.com/stat408/HW7/refs/heads/master/HW7_2024.qmd)) (Due Tuesday October 1 - submit via gradescope) 
 
 Video Resources:
 - [Dates & Strings](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=feed3dde-3a7d-41ff-8fd9-b1f5014bd0d5) (12:06) ([QMD Source](https://raw.githubusercontent.com/stat408/Video_scripts/refs/heads/main/strings_dates.qmd))
