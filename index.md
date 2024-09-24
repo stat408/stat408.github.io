@@ -133,6 +133,27 @@ Thursday September 26:
 ### Week Seven (September 29 - October 5): Advanced Data Wrangling: Strings, Factors, Date/Time
 ---
 
+HW7 (Due Tuesday October 1 - submit via gradescope) 
+
+Video Resources:
+
+Reading Resources:
+
+- [R 4 DS Ch. 16: Factors](https://r4ds.hadley.nz/factors)
+- [R 4 DS Ch. 17: Dates and times](https://r4ds.hadley.nz/datetimes)
+- [stringr cheatsheet](https://github.com/rstudio/cheatsheets/blob/main/strings.pdf)
+- [lubridate cheatsheet](https://github.com/rstudio/cheatsheets/blob/main/lubridate.pdf)
+
+Optional Reading:
+
+- [R 4 DS Ch. 12: Logical vectors](https://r4ds.hadley.nz/logicals) (review, skim)
+- [R 4 DS Ch. 13: Numbers](https://r4ds.hadley.nz/numbers) (review, skim)
+- [R 4 DS Ch. 14: Strings](https://r4ds.hadley.nz/strings) (skim)
+- [R 4 DS Ch. 15.3: Regular Expressions](https://r4ds.hadley.nz/regexps) (skim)  
+
+Tuesday October 1:
+
+Thursday October 3:
 
 ---
 ### Week Eight (October 6 - October 12): Midterm Exam 
