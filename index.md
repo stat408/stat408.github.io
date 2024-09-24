@@ -126,7 +126,7 @@ Tuesday September 24:
 
  
 Thursday September 26:
-- Lab 5
+- [Lab 5](https://stat408.github.io/Lab5/) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab5/refs/heads/master/Lab5_2024.Qmd)) (Due Thursday Ocotber 3 - submit 1 per group via gradescope)Lab 5
 
 
 ---
@@ -136,6 +136,7 @@ Thursday September 26:
 HW7 (Due Tuesday October 1 - submit via gradescope) 
 
 Video Resources:
+- [Dates & Strings](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=feed3dde-3a7d-41ff-8fd9-b1f5014bd0d5) (12:06) ([QMD Source](https://raw.githubusercontent.com/stat408/Video_scripts/refs/heads/main/strings_dates.qmd))
 
 Reading Resources:
 
@@ -158,6 +159,7 @@ Tuesday October 1:
 
 Thursday October 3:
 - Lab 6
+  
 ---
 ### Week Eight (October 6 - October 12): Midterm Exam 
 ---
