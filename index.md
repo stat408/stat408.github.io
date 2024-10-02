@@ -157,7 +157,7 @@ Tuesday October 1:
 - [Exercise Script](https://raw.githubusercontent.com/stat408/Lecture7/refs/heads/master/docs/Exercises.qmd)
 
 Thursday October 3:
-- Lab 6
+- [Lab 6](https://stat408.github.io/Lab6/) ([QMD Source Code](https://raw.githubusercontent.com/stat408/Lab6/refs/heads/master/Lab6_2024.Qmd)) (Due Tuesday October 8 - submit 1 per group via gradescope)
   
 ---
 ### Week Eight (October 6 - October 12): Midterm Exam 
@@ -166,6 +166,8 @@ Thursday October 3:
 Previous Take Home Exams
 - [Midterm Spring 2020](https://github.com/stat408/midterm/blob/master/Midterm_S2020.pdf) Questions 1 & 2
 - [Midterm Fall 2020](https://github.com/stat408/midterm_f2020/blob/master/Midterm_F2020.pdf) Part 1: 1 & 2 (in class), & Part 2
+- [Final Fall 2020](https://github.com/stat408/final_exam/blob/master/Final_F2020.pdf) Questions 1 & 3
+- [Final Spring 2020](https://github.com/stat408/final_exam/blob/master/Final_S2020.pdf) Question 2 & 4 (ignore SAS)
 
 Previous In Class Exam
 - [Midterm Spring 2020](https://github.com/stat408/midterm/blob/master/Midterm_S2020_inclass.pdf) Questions 1, 3, 5, 6, 7
