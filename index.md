@@ -174,10 +174,10 @@ Previous In Class Exam
 
 Tuesday October 8:
 - In class Review
-- Take home exam assigned
+- Take home exam assigned [2024 midterm](https://github.com/stat408/midterm/blob/master/Midterm2024.pdf) ([QMD Source Code](https://raw.githubusercontent.com/stat408/midterm/refs/heads/master/Midterm2024.Qmd)) (Due Tuesday October 15 at 925 AM)
 
 Thursday October 10:
-- In class exam
+- In class exam.
 
 
 
