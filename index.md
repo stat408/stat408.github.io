@@ -185,22 +185,28 @@ Thursday October 10:
 ### Week Nine (October 13 - October 19): R Shiny
 ---
 
+Tuesday October 15:
+- Take Home Exam Due
+- R Shiny Demo
+
+Thursday October 17:
+- Lab 7
 
 ---
-### Week Ten (October 20 - October 26): Conditional Logic, Loops, & Simulations
----
-
----
-### Week Eleven (October 27 - November 2): Advanced Topics: Functions and Packages 
----
-
-
----
-### Week Twelve (November 3 - November 9): Advanced Topics: Maps
+### Week Ten (October 20 - October 26): Maps 
 ---
 
 ---
-### Week Thirteen (November 10 - November 16): Advanced Topics: Databases
+### Week Eleven (October 27 - November 2): Conditional Logic, Loops, & Simulations
+---
+
+
+---
+### Week Twelve (November 3 - November 9): R Functions and Packages 
+---
+
+---
+### Week Thirteen (November 10 - November 16): Predictive Modeling
 ---
 
 ---
@@ -210,8 +216,9 @@ Thursday October 10:
 ---
 ### Week Fifteen (November 24 - 30): Fall Break
 ---
+
 ---
-### Week Sixteen (December 1 - December 7):  Debugging
+### Week Sixteen (December 1 - December 7):  Debugging/Review
 ---
 
 ---
