@@ -205,9 +205,15 @@ Thursday October 17:
 ### Week Twelve (November 3 - November 9): R Functions and Packages 
 ---
 
+Tuesday November 4th:
+- Intermediate Dashboard Submission 
+
 ---
 ### Week Thirteen (November 10 - November 16): Predictive Modeling
 ---
+
+Tuesday November 11th:
+- Intermediate Submission Feedback
 
 ---
 ### Week Fourteen (November 17 - November 23): Project Presentations
@@ -216,6 +222,9 @@ Thursday October 17:
 ---
 ### Week Fifteen (November 24 - 30): Fall Break
 ---
+
+Monday November 25:
+- Project Dashboard Submission Due
 
 ---
 ### Week Sixteen (December 1 - December 7):  Debugging/Review
