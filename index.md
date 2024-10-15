@@ -187,6 +187,7 @@ Thursday October 10:
 
 Tuesday October 15:
 - Take Home Exam Due
+- [Project Overview](https://stat408.github.io/Project/)
 - R Shiny Demo
 
 Thursday October 17:
@@ -205,20 +206,26 @@ Thursday October 17:
 ### Week Twelve (November 3 - November 9): R Functions and Packages 
 ---
 
-Tuesday November 4th:
+Tuesday November 5th:
 - Intermediate Dashboard Submission 
 
 ---
 ### Week Thirteen (November 10 - November 16): Predictive Modeling
 ---
 
-Tuesday November 11th:
+Tuesday November 12th:
 - Intermediate Submission Feedback
 
 ---
 ### Week Fourteen (November 17 - November 23): Project Presentations
 ---
 
+Tuesday November 19th:
+- Project Demos
+
+Thursday November 21st:
+- Project Demos
+  
 ---
 ### Week Fifteen (November 24 - 30): Fall Break
 ---
