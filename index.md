@@ -197,9 +197,23 @@ Thursday October 17:
 ### Week Ten (October 20 - October 26): Maps 
 ---
 
+[HW8](https://stat408.github.io/HW8/) (Due Tuesday October 22 - submit PDF screenshot via gradescope) 
+
+Tuesday October 22:
+- Leaflet Demo
+
+Thursday October 24:
+- R mapping Demo
+
 ---
 ### Week Eleven (October 27 - November 2): Conditional Logic, Loops, & Simulations
 ---
+
+Tuesday October 29:
+
+Thursday October 31:
+
+- Monte Carlo Lab
 
 
 ---
