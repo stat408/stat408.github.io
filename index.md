@@ -186,12 +186,12 @@ Thursday October 10:
 ---
 
 Tuesday October 15:
-- Take Home Exam Due
+- Take Home Exam Due [key PDF](https://github.com/stat408/midterm/blob/master/Midterm2024_Key.pdf) ([Key QMD](https://raw.githubusercontent.com/stat408/midterm/refs/heads/master/Midterm2024_Key.Qmd))
 - [Project Overview](https://stat408.github.io/Project/)
 - R Shiny Demo
 
 Thursday October 17:
-- Lab 7
+- [Lab 7](https://stat408.github.io/Lab7/) ([QMD Source File](https://raw.githubusercontent.com/stat408/Lab7/refs/heads/master/Lab7_2024.qmd))
 
 ---
 ### Week Ten (October 20 - October 26): Maps 
