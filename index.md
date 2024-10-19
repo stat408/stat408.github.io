@@ -200,6 +200,8 @@ Thursday October 17:
 [HW8](https://stat408.github.io/HW8/) (Due Tuesday October 22 - submit PDF screenshot via gradescope) 
 
 Tuesday October 22:
+- [Leaflet Overview](https://leafletjs.com/index.html)
+- [Leaflet Overview (R)](https://rstudio.github.io/leaflet/index.html)
 - Leaflet Demo
 
 Thursday October 24:
