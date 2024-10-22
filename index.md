@@ -202,7 +202,7 @@ Thursday October 17:
 Tuesday October 22:
 - [Leaflet Overview](https://leafletjs.com/index.html)
 - [Leaflet Overview (R)](https://rstudio.github.io/leaflet/index.html)
-- Leaflet Demo
+- [Leaflet Demo](https://github.com/stat408/leaflet) ([quarto source](https://raw.githubusercontent.com/stat408/leaflet/refs/heads/main/Leaflet_Demo.qmd))
 
 Thursday October 24:
 - R mapping Demo
