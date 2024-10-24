@@ -205,7 +205,7 @@ Tuesday October 22:
 - [Leaflet Demo](https://github.com/stat408/leaflet) ([quarto source](https://raw.githubusercontent.com/stat408/leaflet/refs/heads/main/Leaflet_Demo.qmd))
 
 Thursday October 24:
-- R mapping Demo
+- [R mapping Demo](https://github.com/stat408/Maps/blob/main/README.md) ([quarto source](https://raw.githubusercontent.com/stat408/Maps/refs/heads/main/ggmap.qmd))
 
 ---
 ### Week Eleven (October 27 - November 2): Conditional Logic, Loops, & Simulations
