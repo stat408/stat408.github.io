@@ -211,6 +211,8 @@ Thursday October 24:
 ### Week Eleven (October 27 - November 2): Conditional Logic, Loops, & Simulations
 ---
 
+[HW9](https://stat408.github.io/HW9/) (Due Tuesday October 29 - submit PDF screenshot via gradescope) 
+
 Tuesday October 29:
 
 Thursday October 31:
