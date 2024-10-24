@@ -191,7 +191,7 @@ Tuesday October 15:
 - R Shiny Demo
 
 Thursday October 17:
-- [Lab 7](https://stat408.github.io/Lab7/) ([QMD Source File](https://raw.githubusercontent.com/stat408/Lab7/refs/heads/master/Lab7_2024.qmd))
+- [Lab 7](https://stat408.github.io/Lab7/) ([QMD Source File](https://raw.githubusercontent.com/stat408/Lab7/refs/heads/master/Lab7_2024.qmd)) ([Lab 7 Key QMD](https://raw.githubusercontent.com/stat408/Lab7/refs/heads/master/Lab7_2024_key.qmd))
 
 ---
 ### Week Ten (October 20 - October 26): Maps 
