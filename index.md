@@ -214,6 +214,7 @@ Thursday October 24:
 [HW9](https://stat408.github.io/HW9/) (Due Tuesday October 29 - submit PDF screenshot via gradescope) 
 
 Tuesday October 29:
+- [Loops Demo](https://github.com/stat408/Loops/blob/main/Loops.md) ([Quarto Source Document](https://github.com/stat408/Loops/blob/main/Loops.qmd))
 
 Thursday October 31:
 
