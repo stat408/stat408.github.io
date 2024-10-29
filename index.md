@@ -219,7 +219,7 @@ Tuesday October 29:
 
 Thursday October 31:
 
-- Monte Carlo Lab
+- [Lab 8: Monte Carlo](https://github.com/stat408/Lab8/blob/master/app.R)
 
 
 ---
@@ -227,7 +227,7 @@ Thursday October 31:
 ---
 
 Tuesday November 5th:
-- Intermediate Dashboard Submission 
+- [Intermediate Dashboard Submission](https://stat408.github.io/Project/)
 
 ---
 ### Week Thirteen (November 10 - November 16): Predictive Modeling
