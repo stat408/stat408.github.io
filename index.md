@@ -206,6 +206,7 @@ Tuesday October 22:
 
 Thursday October 24:
 - [R mapping Demo](https://github.com/stat408/Maps/blob/main/README.md) ([quarto source](https://raw.githubusercontent.com/stat408/Maps/refs/heads/main/ggmap.qmd))
+- [R mapping key](https://github.com/stat408/Maps/blob/main/ggmap_key.md)
 
 ---
 ### Week Eleven (October 27 - November 2): Conditional Logic, Loops, & Simulations
