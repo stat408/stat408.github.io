@@ -219,7 +219,8 @@ Tuesday October 29:
 
 Thursday October 31:
 
-- [Lab 8: Monte Carlo](https://github.com/stat408/Lab8/blob/master/app.R)
+- [Lab 8: Monte Carlo Overview](https://github.com/stat408/Lab8/blob/master/README.md)
+- [Lab 8: Monte Carlo R source](https://github.com/stat408/Lab8/blob/master/app.R)
 
 
 ---
