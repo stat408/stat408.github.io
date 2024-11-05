@@ -229,6 +229,10 @@ Thursday October 31:
 
 Tuesday November 5th:
 - [Intermediate Dashboard Submission](https://stat408.github.io/Project/)
+- [Functions Demo](https://github.com/stat408/functions/edit/main/README.md) ([QMD Source code](https://raw.githubusercontent.com/stat408/functions/refs/heads/main/R_Functions.qmd))
+
+Thursday November 7th:
+- Lab 9: Functions and Packages
 
 ---
 ### Week Thirteen (November 10 - November 16): Predictive Modeling
