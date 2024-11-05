@@ -231,6 +231,7 @@ Tuesday November 5th:
 - [Intermediate Dashboard Submission](https://stat408.github.io/Project/)
 - [R4DS: Ch 25: Functions](https://r4ds.hadley.nz/functions)
 - [Functions Demo](https://github.com/stat408/functions/edit/main/README.md) ([QMD Source code](https://raw.githubusercontent.com/stat408/functions/refs/heads/main/R_Functions.qmd))
+- [Functions Demo Key](https://github.com/stat408/stat408.github.io/blob/master/R_Functions_key.md)
 
 Thursday November 7th:
 - [R Packages Overview](https://r-pkgs.org/whole-game.html)
