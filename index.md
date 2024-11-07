@@ -235,7 +235,7 @@ Tuesday November 5th:
 
 Thursday November 7th:
 - [R Packages Overview](https://r-pkgs.org/whole-game.html)
-- Lab 9: Functions and Packages
+- [Lab 9: Functions and Packages](https://stat408.github.io/Lab9/) ([Quarto Source Code](https://raw.githubusercontent.com/stat408/Lab9/refs/heads/master/Lab9_2024.qmd))
 
 ---
 ### Week Thirteen (November 10 - November 16): Predictive Modeling
