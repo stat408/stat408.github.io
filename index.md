@@ -242,7 +242,12 @@ Thursday November 7th:
 ---
 
 Tuesday November 12th:
-- Intermediate Submission Feedback
+- Intermediate Submission Feedback Due
+- [Predictive Modeling Demo](https://github.com/stat408/PredModeling/blob/main/PredModeling.md) ([Quarto Source Code](https://github.com/stat408/PredModeling/blob/main/PredModeling.qmd))
+
+Thursday November 14th:
+- Lab 10: Predictive Modeling
+
 
 ---
 ### Week Fourteen (November 17 - November 23): Project Presentations
