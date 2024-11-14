@@ -263,7 +263,7 @@ Tuesday November 19th:
   6. Michael
   7. Kyle
   8. Neel
-  9. Nicky
+  9. Nikki
   10. Sam
   11. Tom   
 
