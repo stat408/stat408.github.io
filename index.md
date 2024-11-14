@@ -246,7 +246,7 @@ Tuesday November 12th:
 - [Predictive Modeling Demo](https://github.com/stat408/PredModeling/blob/main/PredModeling.md) ([Quarto Source Code](https://github.com/stat408/PredModeling/blob/main/PredModeling.qmd))
 
 Thursday November 14th:
-- Lab 10: Predictive Modeling
+- [Lab 10: Predictive Modeling](https://stat408.github.io/Lab10/) ([QMD Source](https://raw.githubusercontent.com/stat408/Lab10/refs/heads/master/Lab10_2024.qmd))
 
 
 ---
@@ -255,9 +255,29 @@ Thursday November 14th:
 
 Tuesday November 19th:
 - Project Demos
+  1. Finley
+  2. Logan N
+  3. Logan R
+  4. David
+  5. Logan T
+  6. Michael
+  7. Kyle
+  8. Neel
+  9. Nicky
+  10. Sam
+  11. Tom   
 
 Thursday November 21st:
 - Project Demos
+  1. Grace / Will
+  2. Kat
+  3. Jada
+  4. Katie
+  5. Jayce / Jack
+  6. Robby
+  7. Brian
+  8. Lois
+  9. Jenna   
   
 ---
 ### Week Fifteen (November 24 - 30): Fall Break
@@ -270,10 +290,18 @@ Monday November 25:
 ### Week Sixteen (December 1 - December 7):  Debugging/Review
 ---
 
+Tuesday December 3:
+- Lab 11: Debugging
+  
+Thursday December 5:
+- Class Review
+  
 ---
 ### Week Seventeen (December 8 - December 14): Finals Week
 ---
+
 - Final Exam: Tuesday December 10	8:00am-9:50am
+
 ---
 
 
