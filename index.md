@@ -284,7 +284,7 @@ Thursday November 21st:
 ---
 
 Monday November 25:
-- Project Dashboard Submission Due
+- Project Dashboard Submission Due at 11:59 PM (Submit to D2L)
 
 ---
 ### Week Sixteen (December 1 - December 7):  Debugging/Review
@@ -295,13 +295,15 @@ Tuesday December 3:
   
 Thursday December 5:
 - Class Review
+- Final Exam Take Home Assigned
   
 ---
 ### Week Seventeen (December 8 - December 14): Finals Week
 ---
 
-- Final Exam: Tuesday December 10	8:00am-9:50am
+Tuesday December 10:
 
+- Final Exam In Class: Tuesday December 10	8:00am-9:50am
 ---
 
 
