@@ -221,6 +221,7 @@ Thursday October 31:
 
 - [Lab 8: Monte Carlo Overview](https://github.com/stat408/Lab8/blob/master/README.md)
 - [Lab 8: Monte Carlo R source](https://github.com/stat408/Lab8/blob/master/app.R)
+- [Lab 8: Key - R code](https://raw.githubusercontent.com/stat408/Lab8/refs/heads/master/app_key.R)
 
 
 ---
@@ -236,6 +237,7 @@ Tuesday November 5th:
 Thursday November 7th:
 - [R Packages Overview](https://r-pkgs.org/whole-game.html)
 - [Lab 9: Functions and Packages](https://stat408.github.io/Lab9/) ([Quarto Source Code](https://raw.githubusercontent.com/stat408/Lab9/refs/heads/master/Lab9_2024.qmd))
+- [Lab 9: Key](https://github.com/stat408/Lab9/blob/master/Lab9_2024_key.md)
 
 ---
 ### Week Thirteen (November 10 - November 16): Predictive Modeling
@@ -247,6 +249,7 @@ Tuesday November 12th:
 
 Thursday November 14th:
 - [Lab 10: Predictive Modeling](https://stat408.github.io/Lab10/) ([QMD Source](https://raw.githubusercontent.com/stat408/Lab10/refs/heads/master/Lab10_2024.qmd))
+- [Lab 10 Key](https://github.com/stat408/Lab10/blob/master/Lab10_2024_key.pdf)
 
 
 ---
