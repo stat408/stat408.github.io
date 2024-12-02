@@ -258,29 +258,9 @@ Thursday November 14th:
 
 Tuesday November 19th:
 - Project Demos
-  1. Finley
-  2. Logan N
-  3. Logan R
-  4. David
-  5. Logan T
-  6. Michael
-  7. Kyle
-  8. Neel
-  9. Nikki
-  10. Sam
-  11. Tom   
 
 Thursday November 21st:
 - Project Demos
-  1. Grace / Will
-  2. Kat
-  3. Jada
-  4. Katie
-  5. Jayce / Jack
-  6. Robby
-  7. Brian
-  8. Lois
-  9. Jenna   
   
 ---
 ### Week Fifteen (November 24 - 30): Fall Break
