@@ -274,7 +274,7 @@ Monday November 25:
 ---
 
 Tuesday December 3:
-- [Lab 11: Debugging](https://stat408.github.io/Lab11/) [QMD source](https://raw.githubusercontent.com/stat408/Lab11/refs/heads/master/Lab11_2024.qmd)
+- [Lab 11: Debugging](https://stat408.github.io/Lab11/) ([QMD source](https://raw.githubusercontent.com/stat408/Lab11/refs/heads/master/Lab11_2024.qmd))
   
 Thursday December 5:
 - Class Review
