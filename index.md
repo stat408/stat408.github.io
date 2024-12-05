@@ -278,7 +278,7 @@ Tuesday December 3:
   
 Thursday December 5:
 - Class Review
-- Final Exam Take Home Assigned
+- Final Exam Take Home Assigned (Submit to gradescope. Due Friday December 13 at 8:00 AM)
   
 ---
 ### Week Seventeen (December 8 - December 14): Finals Week
@@ -287,6 +287,7 @@ Thursday December 5:
 Tuesday December 10:
 
 - Final Exam In Class: Tuesday December 10	8:00am-9:50am
+- Final Exam Take Home: Due Friday December 13 at 8:00 AM
 
 ---
 
