@@ -287,7 +287,7 @@ Thursday December 5:
 Tuesday December 10:
 
 - Final Exam In Class: Tuesday December 10	8:00am-9:50am
-- Final Exam Take Home: Due Friday December 13 at 8:00 AM
+- [Final Exam Take Home: Due Friday December 13 at 8:00 AM](https://github.com/stat408/final20024/blob/main/Final2024.pdf) ([QMD Source code](https://raw.githubusercontent.com/stat408/final20024/refs/heads/main/Final2024.Qmd))
 
 ---
 
